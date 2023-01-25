@@ -1,3 +1,3 @@
 A small [[Orc|Orcish]] [[Fighter]].
 
-#TODO
+[[TODO]]

@@ -1,6 +1,6 @@
-[[The Party]] consisted of #TODO
+[[The Party]] consisted of [[TODO]]
 
-#TODO
+[[TODO]]
 
 ### Loot & Rewards
 -   None
@@ -13,7 +13,7 @@
 <span 
 	  class='ob-timelines' 
 	  data-date='{{title}}' 
-	  data-title="#TODO" 
+	  data-title="[[TODO]]" 
 	  data-class='green'>
-	The party #TODO.
+	The party [[TODO]].
 </span>

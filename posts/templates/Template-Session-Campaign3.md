@@ -1,9 +1,9 @@
 ---
 aliases: Session X, Xdas X, Xdas X 514
 ---
-#TODO
+[[TODO]]
 
-[[The Party]], consisting of #TODO:
+[[The Party]], consisting of [[TODO]]:
 - 
 
 ### Loot & Rewards
@@ -17,7 +17,7 @@ aliases: Session X, Xdas X, Xdas X 514
 <span 
 	  class='ob-timelines' 
 	  data-date='514-X-X' 
-	  data-title="Xdas X: #TODO" 
+	  data-title="Xdas X: [[TODO]]" 
 	  data-class='green'>
-	The party #TODO.
+	The party [[TODO]].
 </span>

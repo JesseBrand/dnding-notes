@@ -5,7 +5,7 @@ Previous: [[Session 3-4 - Furdas 3 514|Session 3-4]] | Next: [[Session 3-6 - Fif
 
 [[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Horatio]], [[Nuk]] and [[Aboouck]]:
 
-- had a drink in the [[Black Barrel Inn|Tavern]] while [[Horatio]] identified [[Aboouck]]'s [[Amulet]] #TODO;
+- had a drink in the [[Black Barrel Inn|Tavern]] while [[Horatio]] identified [[Aboouck]]'s [[Amulet]] [[TODO]];
 - were shown [[Castle-8]]'s new [[Integrated Weapon|sword-hand]] and [[Horatio]]'s new [[Eldritch Cannon|Cannon]] which inspired [[The Party]];
 - decided to go to [[Anorak Iron Mine]] because [[Aboouck]] was convinced he could find coffee there;
 - got to the mine without any trouble, meeting [[Jules Rockbender]] and the other [[Anorak Iron Mine#Inhabitants|Miners]];

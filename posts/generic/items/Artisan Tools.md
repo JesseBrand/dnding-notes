@@ -1,4 +1,4 @@
 ---
 aliases: Artisan Tool
 ---
-#TODO
+[[TODO]]

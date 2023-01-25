@@ -35,7 +35,7 @@ The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shar
 * [[Navani]] has pretty much retired in [[Black Barrel Inn]].
 #### Dead
 * [[Hera]] was assassinated by the [[Redbrand Ruffians]] in [[Phandalin]].
-* [[Therai]] #TODO
+* [[Therai]] [[TODO]]
 * [[Zatarra]] was killed by the [[Redbrand Ruffians]] in the [[Redbrand Hideout]] in [[Phandalin]].
 * [[Lynxakasendalor Ghesh]] was killed by [[Zombie|Zombies]] in [[Wave Echo Cave]].
 * [[Orsik]] was killed by [[Zombie|Zombies]] in [[Wave Echo Cave]].
@@ -45,8 +45,8 @@ The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shar
 * [[Drathuul]] was killed by a [[Shadow Beholder]] under [[Gamwater Quarry]].
 #### Unknown
 * [[Thorin]] was with the party when they were captured by [[Drow]] in [[Wave Echo Cave]], but was not taken to [[Velkynvelve]]
-* [[Vheidin]] #TODO
-* [[Mac Hiavelli]] #TODO
+* [[Vheidin]] [[TODO]]
+* [[Mac Hiavelli]] [[TODO]]
 * [[Teezee]] was still down in the [[Whorlstone Tunnels]] as they exploded and was not seen after.
 * [[Buttercup]] was still down in the [[Whorlstone Tunnels]] as they exploded and was not seen after.
 * [[Shank]] was regularly missing, but was not seen after the explosion of the [[Whorlstone Tunnels]].
@@ -62,8 +62,8 @@ The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shar
 * [[Turvy]] died during [[The Breakout of Velkynvelve]]
 * [[Shuushar the Awakened]] went [[Madness|Mad]] in [[Sloobludop]] and perished as the village was destroyed soon after.
 * [[Stool]] was blown off the [[Silken Paths]] by a thunderwave by [[Buttercup]].
-* [[Eldeth Feldrun]] #TODO
-* [[Ront]] #TODO
+* [[Eldeth Feldrun]] [[TODO]]
+* [[Ront]] [[TODO]]
 * [[Rumpadump]] escaped the [[Underdark]] along with the party, but died as [[John]] failed miserably trying to bring him down a steep slope shortly after.
 #### Unknown
 * [[Gundren Rockseeker]] was still outside [[Wave Echo Cave]] when the party was captured by [[Drow]].

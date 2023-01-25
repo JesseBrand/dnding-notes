@@ -10,7 +10,7 @@ After the death of his mother, Alaric decided he would seek out his [[Gortag Cru
 Alaric decided his life in the wilds would not get him what he needed. He consulted his [[Ancestral Guardian|Ancestors]] and decided to go back to the cabin in the woods, the place where he had been the most content. He would live out his life alone, far away from both [[Human]] and [[Orc]], surrounded by the beauty and the serenity of nature. But that was not to be. When he got back to the cabin he found out it had been ransacked by [[Goblin|Goblins]]! Alaric followed their trail away from the cabin of the Goblins when he heard a noise coming from the nearby cave...
 
 ### Involvement
-#TODO
+[[TODO]]
 A brute with a kind heart, he protected the party well with his greataxe as they descended into [[Wave Echo Cave]], where he was captured by [[Drow]] along with the rest of the party and taken to [[Velkynvelve]].
 
 He helped the party [[The Breakout of Velkynvelve|break out]] and accompanied them on the [[Journey through the Underdark]] where he heard some rumours about his father [[Gortag Crushface]] which he was eager to pursue.

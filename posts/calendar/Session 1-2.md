@@ -10,7 +10,7 @@ Halfway there, the party narrowly evaded a snare trap on the trail, then went fo
 
 Not long after, they reached a cave entrance where two [[Goblin|Goblins]] were lazily standing guard outside. [[The Party]] engaged them and rapidly dispatched them.
 
-#TODO
+[[TODO]]
 
 ### Loot & Rewards
 -   None
@@ -23,7 +23,7 @@ Not long after, they reached a cave entrance where two [[Goblin|Goblins]] were l
 <span 
 	  class='ob-timelines' 
 	  data-date='Session 1-2' 
-	  data-title="#TODO" 
+	  data-title="[[TODO]]" 
 	  data-class='green'>
-	The party #TODO.
+	The party [[TODO]].
 </span>

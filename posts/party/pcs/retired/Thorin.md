@@ -4,4 +4,4 @@ Thorin originally studied as a [[Cleric]] of [[Moradin]] in the town of [[Leilon
 
 Thorin accompanied the party all the way to the [[Forge of Spells]], but when the party was captured by [[Ilvara Myzzrym]]'s [[Drow Hunting Party]], Thorin was not with the party when they woke up.
 
-#TODO
+[[TODO]]

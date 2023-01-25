@@ -1,4 +1,4 @@
 ---
 aliases: Huge Manticore
 ---
-#TODO
+[[TODO]]
