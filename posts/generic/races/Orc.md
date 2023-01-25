@@ -1,5 +1,5 @@
 ---
-alias: Orcish, Orcs
+alias: Orcish, Orcs, Half-Orc, Half-Orcs
 ---
 A [[generic/races/Race]] Brutish, green-skinned large humanoids, most others think they are good for little more than fighting.
 
