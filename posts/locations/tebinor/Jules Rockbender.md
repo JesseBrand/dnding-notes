@@ -1,0 +1,1 @@
+Jules Rockbender is the current overseer of [[Anorak Iron Mine]] on [[Tebinor]]. He owes allegiance to [[Duke Oakfire]] of [[Ebonwatch]].

@@ -1,0 +1,3 @@
+The Silken Paths are a large networks of [[Giant Spider]] webs located a between [[Velkynvelve]] and the [[Darklake]] within the [[Underdark]].
+
+[[The Party]] were aided by the [[Goblin]] duo [[Yuk-Yuk]] and [[Spiderbait]] as they travelled through the Paths as they escaped [[Velkynvelve]] and travelled to [[Sloobludop]] along the [[Darklake]]. [[John]] stayed behind and was able to delay [[Ilvara Myzzrym]]'s [[Drow Hunting Party]] for a bit.

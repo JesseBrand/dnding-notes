@@ -1,0 +1,3 @@
+The Blue Lady was a [[Fairy]] ruling an area of the [[Feywild]] referred to as the [[Realm of the Blue Lady]] located in the [[Royal Woodlands]] north of [[Hornwood]] on the Shard of [[Tebinor]].
+
+The Blue Lady was initially hostile to any who would invade her [[Realm of the Blue Lady|Realm]] and those who would cut down trees in the [[Royal Woodlands]], but [[The Party]] was able to strike a deal between her and [[Duke Oakfire]] of [[Ebonwatch]], allowing the cutting of trees as long as new trees were planted in their stead, and the woodcutters would stay away from the [[Sacred Groves]].

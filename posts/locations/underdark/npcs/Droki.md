@@ -1,0 +1,1 @@
+A [[Derro]] messenger who made his way through the [[Whorlstone Tunnels]] very quickly. He wasquite eccentric and wore a large hat. [[The Party]] set out to find him under orders of [[Errde Blackskull]] and eventually found him, which did not end well for him.

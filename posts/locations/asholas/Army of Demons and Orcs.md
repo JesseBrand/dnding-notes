@@ -1,0 +1,1 @@
+In [[Vaviel Empire|Vavian]] History, an Army of Demons and Orcs invaded the Shard of [[Tuletus]]. After beating them back, the [[Vaviel Empire|Empire]] pursued them to the Shard of [[Asholas]], leading to the [[War for Asholas]].

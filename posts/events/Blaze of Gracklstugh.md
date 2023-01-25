@@ -1,0 +1,3 @@
+After [[The Party]] returned from the [[Whorlstone Tunnels]] beneath [[Gracklstugh]] and had recovered [[Themberchaud]]'s egg, hatching a [[Red Dragon]] Wyrmling they named [[Firestarter]], they explained to [[Themberchaud]] how the [[Keepers of the Flame]] meant to replace him with the newly hatched and easy to control [[Firestarter]]. Hearing this, [[Themberchaud]] went berserk and started burning the city down.
+
+[[The Party]] was able to escape [[Gracklstugh]] while it went down in flames around them.

@@ -1,0 +1,1 @@
+Ashalos is a deslote [[Shards|shard]] in the [[Vaviel Empire]]. It was the major site of the [[War for Ashalos]], where the Empire triumphed over the [[Army of Demons and Orcs]].

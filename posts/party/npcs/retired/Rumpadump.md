@@ -1,0 +1,3 @@
+Rumpadump was a [[Myconid]] that [[The Party]] encountered while exploring the [[Whorlstone Tunnels]]. He knew [[Stool]] and was surprised [[The Party]] knew him as well. He accompanied the party for a while and escaped the [[Blaze of Gracklstugh]] with them.
+
+After travelling to [[Tebinor]] with the party, [[John]] attempted to bring him down a steep slope safely, which not only failed miserably but resulted in Rumpadump being smeared all over the mountainside.

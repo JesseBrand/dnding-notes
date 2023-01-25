@@ -1,0 +1,3 @@
+Stool was a [[Myconid]] who [[The Breakout of Velkynvelve|escaped]] [[Velkynvelve]] alongside [[The Party]] then accompanied them for a while. He was able to project spores which allowed people to understand each other telepathically regardless of their known languages.
+
+He died after [[Buttercup]] used a badly aimed thunderwave to launch him into the abyss during a battle with a summoned [[Unicorn]] in the [[Silken Paths]].

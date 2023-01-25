@@ -1,0 +1,1 @@
+The Notice Board is located in [[Black Barrel Inn]] and informs adventurers of jobs the local populace along with [[Duke Oakfire]] needs done. [[Chamberlain Gerrard]] is usually located at the board and helps anyone interested with details on the available jobs.

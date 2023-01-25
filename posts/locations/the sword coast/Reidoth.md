@@ -1,0 +1,1 @@
+Reidoth was a [[Druid]] living in the abandoned village of [[Thundertree]]. He was a friend of [[Sam Alderleaf]] and [[Reincarnation|Reincarnated]] [[Sam Alderleaf|Sam]] as an [[Aarakocra]] after he was killed by the Green [[Dragon]] [[Venomfang]].
