@@ -28,7 +28,6 @@ The party crossed the Hornwood Stream into the Royal Woodlands, then found thems
 The party headed back into the magical forest to face the Blue Lady and recover their names. They impressed the Blue Lady and were able to strike a deal between her and the Duke of Ebonwatch.
 
 ## [[Session 3-4 - Furdas 3 514|Session 3-4 - Furdas 3 514: The Observatory]]
-
 The party headed to Sootwall Observatory, fighting Manticores along the way. Castle-8 lost his hand, the party braved a dangerous maze and mechanical constructs and were rewarded with Magic Items by the Gnomes.
 
 ## [[Session 3-5 - Furdas 4 514|Session 3-5 - Furdas 4 514: Lizard Incursion]]

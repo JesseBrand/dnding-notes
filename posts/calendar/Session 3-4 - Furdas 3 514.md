@@ -1,5 +1,5 @@
 ---
-aliases: Session 3-4, Furdas 3, Furdas 3 514, Session 3-4 - Furdas 3 514: The Observatory
+aliases: Session 3-4, Furdas 3, Furdas 3 514
 ---
 Previous: [[Session 3-3 - Furdas 2 514|Session 3-3]] | Next: [[Session 3-5 - Furdas 4 514|Session 3-5]]
 
