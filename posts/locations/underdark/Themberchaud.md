@@ -1,0 +1,9 @@
+Themberchaud is an Adult Red [[Dragon]] and was the [[Wyrmsmith]] of [[Gracklstugh]].
+
+Being the [[Wyrmsmith]] meant Themberchaud was supposed to light the fires of the Forges of [[Gracklstugh]] each day, becoming the driving power to the [[Gracklstugh|City]]'s wealth. Every morning, Themberchaud made its round around the City and enflamed each of its major forges in flames, keeping the city ablaze and visible from far away.
+
+Themberchaud's needs were tended to by the [[Keepers of the Flame]], under the leadership of [[Gartokkar]]. The [[Keepers of the Flame|Keepers]] were able to create a Dragon Egg from Themberchaud without needing a mate. Unknown to Themberchaud however, the [[Keepers of the Flame|Keepers]] intended to replace him with the Red [[Dragon]] Wyrmling that would hatch out of the egg.
+
+During the [[Derro]] Unrest in [[Gracklstugh]], the Egg was stolen. The [[Keepers of the Flame]] recruited [[The Party]] to retrieve the egg from the [[Whorlstone Tunnels]], which they managed to do. However, since [[The Party]], especially [[Drathuul]], were quite impressed they decided to tell [[Themberchaud]] the truth about the intention of the [[Keepers of the Flame|Keepers]]: They intended to hatch the egg and replace [[Themberchaud]] with the Wyrmling.
+
+Instead, [[The Party]] hatched the Wyrmling and named him [[Firestarter]], dealt a serious blow to the [[Keepers of the Flame|Keepers]] and returned [[Firestarter]] to Themberchaud. Enraged, Themberchaud turned on the City of [[Gracklstugh]] in the midst of the [[Derro]] uprising and started to burn [[Gracklstugh]] to a crisp. While [[The Party]] escaped, most of [[Gracklstugh]] was laid to waste in what would later be called the [[Blaze of Gracklstugh]].

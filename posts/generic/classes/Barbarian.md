@@ -1,4 +1,4 @@
-Barbarians have learned to channel their rage to reach unprecedented levels of power and even shrug of major injuries.
+Barbarians have learned to channel their [[Rage]] to reach unprecedented levels of power and even shrug of major injuries.
 
 Some notable Barbarians in this Campaign:
 * [[Thorin]]

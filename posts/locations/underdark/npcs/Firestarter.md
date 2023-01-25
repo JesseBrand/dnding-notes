@@ -1,0 +1,11 @@
+Firestarter was a Red [[Dragon]] Wyrmling hatched from an egg magically created by [[Gracklstugh]]'s [[Keepers of the Flame]] by its parent [[Themberchaud]].
+
+The [[Keepers of the Flame]] intended to utilize the Wyrmling to replace [[Gracklstugh]]'s Red [[Dragon]] [[Wyrmsmith]] [[Themberchaud]], who became increasingly difficult to control. Before they were able to take their plan to fruition however, the egg was stolen by [[Derro]] [[Grey Ghosts|agitators]] and moved to the [[Whorlstone Tunnels]] beneath the city.
+
+The [[Keepers of the Flame]], desperate to retrieve the egg to replace the ever more restless growing [[Themberchaud]], recruited [[The Party]] to retrieve the egg from the [[Whorlstone Tunnels]]. The party descended into the [[Whorlstone Tunnels|Tunnels]] and after many dangerous trials, located the [[Dragon]] egg. While[[Drathuul]] and [[Navani]] attempted to carefully retrieve the egg, [[Horatio]] caused some trouble and caused the egg to fall down hard, causing it to crack.
+
+It was however close to hatching, and the added stress caused it to hatch, releasing a Red [[Dragon]] Wyrmling. [[Navani]] attempted to get on its good side but failed miserably, but [[John]] and [[Drathuul]] managed to convince it to follow and help them. [[Drathuul]] and [[Sam Alderleaf|Sam]] coined the name Firestarter, which stuck.
+
+After [[The Party]] emerged back in the city and returned to [[Themberchaud's Lair]], The leader of the [[Keepers of the Flame]] [[Gartokkar]] attempted to convince them to hand Firestarter to [[Keepers of the Flame|Keepers]] to prevent [[Themberchaud]] from growing too strong. [[Drathuul]] however, was greatly angered by this proposal and convinced the party to eliminate the [[Keepers of the Flame|Keepers]] and grant [[Themberchaud]] his freedom.
+
+After eliminating most of the [[Keepers of the Flame|Keepers]], [[Drathuul]] and [[The Party]] returned Firestarter to [[Themberchaud]], who upon learning about the [[Keepers of the Flame|Keepers]]' betrayal, chose to unleash his fury upon the city, leading to the [[Blaze of Gracklstugh]].

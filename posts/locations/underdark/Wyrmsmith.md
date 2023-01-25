@@ -1,0 +1,3 @@
+Wyrmsmith is the title given to the Red [[Dragon]] of [[Gracklstugh]] who keeps the forges burning. The [[Keepers of the Flame]] are sworn to subdue the [[Dragon]] and keep it committed to its duty.
+
+When [[The Party]] visited [[Gracklstugh]], [[Themberchaud]] was the Wyrmsmith. The [[Keepers of the Flame]] intended to replace [[Themberchaud]] with the Wyrmling hatched from its egg, [[Firestarter]]. However, upon learning of the [[Keepers of the Flame|Keepers]]' betrayal, [[Themberchaud]] proceeded to burn down the City, leading to the [[Blaze of Gracklstugh]].
