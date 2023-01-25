@@ -25,14 +25,4 @@ Previous: [[Session 3-6 - Fifdas 1 514|Session 3-6]] | Next: [[Session 3-8 - Fif
 - An [[Ioun Stone#Protection|Ioun Stone of Protection]]
 
 ### Effects & Repercussions
-- The [[Lizardfolk]] expect the party to find a way through the poison gas to continue their assault on the [[Troglodyte|Troglodytes]].
-
-#timeline 
-#campaign3 
-<span 
-	  class='ob-timelines' 
-	  data-date='514-05-02' 
-	  data-title="Fifdas 2: Giants under the Earth" 
-	  data-class='green'>
-	The party travelled back to Anorak Iron Mine to aid the Lizardfolk in their fight against the Troglodytes. They slew a Giant Lizard and a giant white Ooze and recovered some Magic Items, but were unable to find a way to pass the poisonous gas present in the tunnels.
-</span>
+- The [[Lizardfolk]] expect the party to find a way through the poison gas to continue their assault on the [[Troglodyte|Troglodytes]]

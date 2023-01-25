@@ -34,13 +34,3 @@ Previous: [[Session 3-10 - Sidas 1 514|Session 3-10]] | Next: [[Session 3-12 - S
 ### Effects & Repercussions
 - [[Sir Dozak the Magnificent]] set out on his [[Expedition into the Elven Ruin|Expedition]], recruiting [[The Party]].
 - An [[Elven Ruin in the Royal Woodlands]] became available as a location.
-
-#timeline 
-#campaign3 
-<span 
-	  class='ob-timelines' 
-	  data-date='514-06-02' 
-	  data-title="Sidas 2: Prove your Worth" 
-	  data-class='green'>
-	The party accompanied Sir Dozak into a ruin in the Royal Woodlands. They reached an entry chamber and were ambushed by living bushes, then went deeper into the Ruins and ran into  a well with a tentacle creature in it. Several of them got dragged inside the well and severely damaged before they were able to slay it. They headed back outside where a Forward Camp was set up.
-</span>

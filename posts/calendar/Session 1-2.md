@@ -17,13 +17,3 @@ Not long after, they reached a cave entrance where two [[Goblin|Goblins]] were l
 
 ### Effects & Repercussions
 -   None
-
-#timeline 
-#campaign1 
-<span 
-	  class='ob-timelines' 
-	  data-date='Session 1-2' 
-	  data-title="#TODO" 
-	  data-class='green'>
-	The party #TODO.
-</span>

@@ -17,18 +17,7 @@ Previous: [[Session 2-27]] | Next: [[Session 3-1 - Tridas 4 514|Session 3-1]]
 -   None
 
 ### Effects & Repercussions
-- [[The Party]] escaped the [[Underdark]] and is now in the town of [[Ebonwatch]] on the Shard of [[Tebinor]].
-- A [[Portal between Tebinor and the Underdark]] was opened.
-- [[Rumpadump]] died and was smeared over the mountainside.
+- [[The Party]] escaped the [[Underdark]] and is now in the town of [[Ebonwatch]] on the Shard of [[Tebinor]]
+- A [[Portal between Tebinor and the Underdark]] was opened
+- [[Rumpadump]] died and was smeared over the mountainside
 - [[John]] sank into a depressed state and retired from [[The Party]]
-
-#timeline 
-#campaign2
-#campaign3 
-<span 
-	  class='ob-timelines' 
-	  data-date='514-03-03' 
-	  data-title="Tridas 3: Overrun" 
-	  data-class='green'>
-	The party escaped the Underdark  to the Shard of Tebinor with the help of Grazillax while being overrun by a horde  Gnolls, met with soldiers from the Vaviel Empire and were brought to the town of Ebonwatch.
-</span>

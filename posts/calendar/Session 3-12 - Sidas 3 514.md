@@ -34,13 +34,3 @@ Previous: [[Session 3-11 - Sidas 2 514|Session 3-11]] | Next: [[Session 3-13 - S
 ### Effects & Repercussions
 - The [[Expedition into the Elven Ruin|Expedition]] into the [[Elven Ruin in the Royal Woodlands]] proceeded slowly.
 - [[Bavon]] has earned the ire of [[Sir Dozak]].
-
-#timeline 
-#campaign3 
-<span 
-	  class='ob-timelines' 
-	  data-date='514-06-03' 
-	  data-title="Sidas 3: Rebellion" 
-	  data-class='green'>
-	The party went back into the Elven Ruin with Sir Dozak and reached a large chamber where they fought a huge thorned plant creature, then headed into the next room where they were set upon by several vine creatures that attempted to swallow them whole. Bavon got on Sir Dozak's bad side by disobeying him and eventually killed one of his guards, but managed to hide that from most of the others.
-</span>

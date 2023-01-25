@@ -28,16 +28,6 @@ Previous: [[Session 3-5 - Furdas 4 514|Session 3-5]] | Next: [[Session 3-7 - Fif
 - an empty [[Rod of Lightning Bolts]]
 
 ### Effects & Repercussions
-- [[Granny Moss' Hut]] became available as a location.
-- A tube with a strange liquid and shape inside were handed over to [[Granny Moss]].
-- The [[Meteorite|Mysterious Metal Cache]] became available as a location.
-
-#timeline
-#campaign3 
-<span 
-	  class='ob-timelines' 
-	  data-date='514-05-01' 
-	  data-title='Furdas 5: Mysteries of the Mire' 
-	  data-class='green'> 
-	The party came to the aid of Granny Moss and travelled into the Gleaming Mire, braving a tribe of Bullywugs and a Giant Crocodile, recovering ancient artifacts and discovering a source of valuable Starmetal..
-</span>
+- [[Granny Moss' Hut]] became available as a location
+- A tube with a strange liquid and shape inside were handed over to [[Granny Moss]]
+- The [[Meteorite|Mysterious Metal Cache]] became available as a location

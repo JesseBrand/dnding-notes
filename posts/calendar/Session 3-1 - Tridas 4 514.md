@@ -23,15 +23,5 @@ Previous: [[Session 2-28 - Tridas 3 514|Session 2-28]] | Next: [[Session 3-2 - F
 -   100gp
 
 ### Effects & Repercussions
--   [[Wheldrake Fortress]] became available as a location.
--   The [[Hungry Coast]] became available as a location.
-
-#timeline 
-#campaign3 
-<span 
-	  class='ob-timelines' 
-	  data-date='514-03-04' 
-	  data-title="Tridas 4: Lay of the Land" 
-	  data-class='green'> 
-	The party attempted to find the Blacksmith's son by travelling north, facing Lizardfolk, viewing the end of the world with their own eyes and braving a bandit camp. They rescued Ship and returned him to Ebonwatch.
-</span>
+-   [[Wheldrake Fortress]] became available as a location
+-   The [[Hungry Coast]] became available as a location

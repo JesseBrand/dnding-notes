@@ -31,13 +31,3 @@ Previous: [[Session 3-8 - Fifdas 3 514|Session 3-8]] | Next: [[Session 3-10 - Si
 
 ### Effects & Repercussions
 -   The upper floor of [[Sootwall Observatory|Sootwall]] was left a mess in the [[Manticore]]'s wake
-
-#timeline 
-#campaign3 
-<span 
-	  class='ob-timelines' 
-	  data-date='514-05-04' 
-	  data-title="Fifdas 4: Manticore Assault" 
-	  data-class='green'>
-	The party aided the Gnomes at Sootwall Observatory by dealing with a Manticore Threat. After eliminating the nests, they were alerted to a Manticore Elder crashing into the Observatory and terrorizing the upper floor. They returned to the Observatory and slew the Huge Manticore and were rewarded with several Magic Items.
-</span>

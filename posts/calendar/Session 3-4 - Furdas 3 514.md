@@ -1,5 +1,5 @@
 ---
-aliases: Session 3-4, Furdas 3, Furdas 3 514
+aliases: Session 3-4, Furdas 3, Furdas 3 514, Session 3-4 - Furdas 3 514: The Observatory
 ---
 Previous: [[Session 3-3 - Furdas 2 514|Session 3-3]] | Next: [[Session 3-5 - Furdas 4 514|Session 3-5]]
 
@@ -21,18 +21,8 @@ Previous: [[Session 3-3 - Furdas 2 514|Session 3-3]] | Next: [[Session 3-5 - Fur
 - left with a few [[Magic Items]], leaving [[Castle-8]], [[Horatio]] and [[Nuk]] behind to conduct their business here while the rest returned to town;
 
 ### Loot & Rewards
-- A [[Hat of the Gnomish Scholar]].
-- A [[Leather Armor of the Tiny Gnome]].
+- A [[Hat of the Gnomish Scholar]]
+- A [[Leather Armor of the Tiny Gnome]]
 
 ### Effects & Repercussions
-- [[Sootwall Observatory]] became available as a location.
-
-#timeline 
-#campaign3 
-<span 
-	  class='ob-timelines' 
-	  data-date='514-04-03' 
-	  data-title='Furdas 3: The Observatory' 
-	  data-class='green'> 
-	The party headed to Sootwall Observatory, fighting Manticores along the way. Castle-8 lost his hand, the party braved a dangerous maze and mechanical constructs and were rewarded with Magic Items by the Gnomes.
-</span>
+- [[Sootwall Observatory]] became available as a location

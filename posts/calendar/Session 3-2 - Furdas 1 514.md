@@ -25,13 +25,3 @@ Previous: [[Session 3-1 - Tridas 4 514|Session 3-1]] | Next: [[Session 3-3 - Fur
 
 ### Effects & Repercussions
 -   [[Castle-8]], [[Horatio]] and [[Nuk]] lost their names
-
-#timeline 
-#campaign3 
-<span 
-	  class='ob-timelines' 
-	  data-date='514-04-01' 
-	  data-title="Furdas 1: What's in a Name?" 
-	  data-class='green'> 
-	The party crossed the Hornwood Stream into the Royal Woodlands, then found themselves in a magical forest. They fought their way through angry Gnomes and plants, then met the Blue Lady, but disappointed her and were ejected, some losing their names.
-</span>

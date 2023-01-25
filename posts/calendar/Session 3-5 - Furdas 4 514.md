@@ -1,5 +1,5 @@
 ---
-aliases: Session 3-5, Furdas 4, Furdas 4 512
+aliases: Session 3-5, Furdas 4, Furdas 4 514
 ---
 Previous: [[Session 3-4 - Furdas 3 514|Session 3-4]] | Next: [[Session 3-6 - Fifdas 1 514|Session 3-6]]
 
@@ -25,13 +25,3 @@ Previous: [[Session 3-4 - Furdas 3 514|Session 3-4]] | Next: [[Session 3-6 - Fif
 
 ### Effects & Repercussions
 - [[Anorak Iron Mine]] became available as a location
-
-#timeline
-#campaign3 
-<span 
-	  class='ob-timelines' 
-	  data-date='514-04-04' 
-	  data-title='Furdas 4: Lizard Incursion' 
-	  data-class='green'> 
-	The party aided the miners in Anorak Iron Mine with their problem with Lizardfolk. The situation turned out differently, involving Troglodytes.
-</span>

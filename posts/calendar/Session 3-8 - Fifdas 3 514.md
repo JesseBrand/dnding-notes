@@ -25,13 +25,3 @@ Previous: [[Session 3-7 - Fifdas 2 514|Session 3-7]] | Next: [[Session 3-9 - Fif
 
 ### Effects & Repercussions
 -   [[Reo Churner]] was left in the cells of [[Ebonwatch Keep]].
-
-#timeline 
-#campaign3 
-<span 
-	  class='ob-timelines' 
-	  data-date='514-05-03' 
-	  data-title="Fifdas 3: The Mutant" 
-	  data-class='green'>
-	The party headed to Arken Fissure to collect the bounty on Reo Churner, slaying several Trolls then scouting south based on Reo's information. They noticed a large horde of Gnolls in the Dread Wastelands then returned to town. They were confronted by Reo on their way back but managed to subdue him and delivered him to the Duke and collected the bounty.
-</span>

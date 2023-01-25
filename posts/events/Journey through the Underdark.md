@@ -29,3 +29,5 @@ They left the [[Whorlstone Tunnels]] through another secret exit, but as they di
 The party emerged in the middle of a riot. [[Madness|Mad]] [[Duergar]] and [[Derro]] were fighting the [[Stone Guard]]. As they made their way through the city, they encountered [[Nuk]], who they joined forces with. They made their way to [[Themberchaud]]'s lair, where they delivered [[Firestarter]] and told him about the [[Keepers of the Flame]]'s plan to replace him with the young wyrmling. After hearing this, [[Themberchaud]] proceeded to [[Blaze of Gracklstugh|burn down the city of Gracklstugh]].
 
 The party fled the city, aided by the inferno. They travelled several days through the [[Underdark]] and encountered [[Grazillax]], who warned them of a horde of [[Gnoll|gnolls]] nearby. They aided him in opening a [[Portal between Tebinor and the Underdark|portal]] out of the [[Underdark]] before being overrun by [[Gnoll|gnolls]] under the command of [[Yeenoghu]] and unknowingly ended up on the shard of [[Tebinor]].
+
+#TODO: Timeline

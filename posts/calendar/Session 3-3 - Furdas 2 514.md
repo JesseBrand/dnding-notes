@@ -23,16 +23,6 @@ Previous: [[Session 3-2 - Furdas 1 514|Session 3-2]] | Next: [[Session 3-4 - Fur
 - 1000g
 
 ### Effects & Repercussions
--   [[Castle-8]], [[Horatio]] and [[Nuk]] regained their names.
--   An agreement was struck between [[Ebonwatch]] and the [[Blue Lady]].
--   [[Hornwood]] Lumbermill became available as a location.
-
-#timeline 
-#campaign3 
-<span 
-	  class='ob-timelines' 
-	  data-date='514-04-02' 
-	  data-title='Furdas 2: The Blue Lady' 
-	  data-class='green'> 
-	The party headed back into the magical forest to face the Blue Lady and recover their names. They impressed the Blue Lady and were able to strike a deal between her and the Duke of Ebonwatch.
-</span>
+-   [[Castle-8]], [[Horatio]] and [[Nuk]] regained their names
+-   An agreement was struck between [[Ebonwatch]] and the [[Blue Lady]]
+-   [[Hornwood]] Lumbermill became available as a location

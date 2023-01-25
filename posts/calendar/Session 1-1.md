@@ -13,13 +13,3 @@ Not long after, [[The Party]] spotted a couple of dead horses riddled with arrow
 
 ### Effects & Repercussions
 -   None
-
-#timeline 
-#campaign1 
-<span 
-	  class='ob-timelines' 
-	  data-date='1-1' 
-	  data-title="A Dwarvish Proposition" 
-	  data-class='green'>
-	The party met with Gundren Rockseeker in Neverwinter and were recruited to bring a cart of supplies to the town of Phandalin. The next morning they left for Phandalin, found two dead horses and were ambushed by Goblins.
-</span>
