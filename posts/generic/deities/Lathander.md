@@ -4,7 +4,7 @@ He is also known as the Morninglord and is the patron of merchants and traveller
 
 His symbol is a road travelling into a sunrise.
 
-[[TODO]]
+#TODO
 
 Some notable followers of Lathander in this Campaign:
  

@@ -7,4 +7,4 @@ The [[Emperor]], also named His Holyness, is head of the Church and considered t
 
 The Vavian Church employs [[Bishop|Bishops]] and [[Cleric|Clerics]] to spread the word of the [[Deity|Gods]].
 
-[[TODO]]
+#TODO

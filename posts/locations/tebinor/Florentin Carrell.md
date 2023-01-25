@@ -4,4 +4,4 @@ He has come to [[Tebinor]] to provide a General Store to the [[Vaviel Empire]] i
 
 Now that the [[Portal between Tebinor and Tuletus]] is closed, Florentin is looking for other sources of resources that are desperately needed in the town.
 
-[[TODO]]: where from? why come here?
+#TODO: where from? why come here?
