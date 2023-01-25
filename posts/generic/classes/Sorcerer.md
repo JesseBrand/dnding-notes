@@ -8,3 +8,4 @@ Some notable Sorcerers in this Campaign:
 * [[Salazar]]
 * [[Drathuul]]
 * [[Nuk]]
+* [[Aboouck]]
