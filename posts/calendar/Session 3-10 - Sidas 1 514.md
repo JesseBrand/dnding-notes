@@ -22,7 +22,7 @@ Previous: [[Session 3-9 - Fifdas 4 514|Session 3-9]] | Next: [[Session 3-11 - Si
 - explored some tunnels and located a [[Shadow Rift]], which they had [[Castle-8]] investigate until he lost a shortsword when it was pulled in;
 - found a large room with a sphere of [[Darkness]] at the far end and concluded this must be the [[Shadow Rift|Rift]]. [[Paxton Umbra|Paxton]] could see a hideous creature with tentacles in the darkness and told the party, who prepared for combat;
 - engaged the [[Shadow Beholder|Creature]] in the [[Darkness]], being targeted by one colored ray after the other while the creature remained hidden;
-- closed the gap as [[Castle-8]], [[Paxton Umbra|Paxton]] and [[Sam]] rushed into the [[Darkness]] to engage the [[Shadow Beholder|Creature]] in melee, while the rest flung spells at it from range;
+- closed the gap as [[Castle-8]], [[Paxton Umbra|Paxton]] and [[Sam Alderleaf|Sam]] rushed into the [[Darkness]] to engage the [[Shadow Beholder|Creature]] in melee, while the rest flung spells at it from range;
 - kept damaging the unseen enemy while rays kept striking the party until a red death beam annihilated [[Drathuul]] and he fell to the ground with a big hole in his chest;
 - finally defeated the [[Shadow Beholder|creature]]; after it was vanquished the [[Darkness]] disappeared and a great black [[Shadow Rift]] was revealed;
 - found a [[Ioun Stone#Insight|Magical Blue Stone]], quickly investigated the [[Shadow Rift|Rift]], took along [[Drathuul]]'s body with them and returned to the [[Dragon|Dragons]];

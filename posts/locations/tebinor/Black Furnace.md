@@ -1,0 +1,3 @@
+The Black Furnace is [[Ebonwatch]]'s local Blacksmith. It is run by [[Borout Bescond]], who lives in the adjacent building with his son [[Ship Bescond|Ship]]. [[Borout Bescond|Borout]] is loved by the people of [[Ebonwatch]] and the surrounding dependencies, and provides [[Smith's Tools|Smithing]] services for all. He is however in service of [[Duke Oakfire]] and therefore has to prioritize any military requests the [[Duke Oakfire|Duke]] may have for him.
+
+When the chance arises and work needs to be done, [[Borout Bescond|Borout]] is happy to employ other Smiths in his forge under his supervision. He takes care of any [[Blacksmith's Guild|Guild]] costs and pays the employees a decent salary, depending on the quality of their work.

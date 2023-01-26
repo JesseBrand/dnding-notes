@@ -11,3 +11,4 @@ The [[Vaviel Empire]] has a cast of Nobles that rule the empire.
 #### Knights
 * [[Sir Dozak the Magnificent]]
 * [[Sir Dixon Fire]]
+* [[Sir Ginimus]]

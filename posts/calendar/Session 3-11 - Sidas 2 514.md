@@ -25,7 +25,7 @@ Previous: [[Session 3-10 - Sidas 1 514|Session 3-10]] | Next: [[Session 3-12 - S
 - saw the [[Roper|Monster]] do a lot of damage biting [[Sam Alderleaf|Sam]] and Horatio when [[Exilian]] pulled a trick from his sleeve and dropped a [[Bead of Force]] into the well, which landed and expanded into a sphere above [[Castle-8]], [[Sam Alderleaf|Sam]] and [[Horatio]] but below [[Bavon]];
 - cut the tentacle grabbing [[Bavon]], then pushed the expanded sphere out of the well, [[Bavon]] - still enlarged - becoming squashed between the sphere and the ceiling;
 - pushed the sphere out of the way, after which the [[Roper|Creature]] was dealt with swiftly;
-- searched the well while down there, [[Sam]] pocketing a heavy magical stone;
+- searched the well while down there, [[Sam Alderleaf|Sam]] pocketing a heavy magical stone;
 - decided to call it a day, went back outside where [[Sir Dozak the Magnificent|Sir Dozak]] and his guards started setting up a [[Sir Dozak's Forward Camp|Fowrard Camp]], where some of the party remained as the rest returned to [[Ebonwatch]];
 
 ### Loot & Rewards

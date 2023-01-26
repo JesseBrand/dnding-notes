@@ -10,7 +10,7 @@ Previous: [[Session 3-6 - Fifdas 1 514|Session 3-6]] | Next: [[Session 3-8 - Fif
 - saw [[Ship Bescond|Ship the Blacksmith's Son]] delivar a newly crafted [[Starmetal Quarterstaff]] to [[Sam Alderleaf|Sam]];
 - headed to [[Anorak Iron Mine]], met [[Ian]] outside, then spoke to the [[Anorak Iron Mine#Inhabitants|Other Miners]] inside, who were somewhat grumpy and yearned for coffee;
 - headed into the [[Anorak Iron Mine|Mine]] and noticed the wooden platforms around the whirlpool;
-- met with the [[Lizardfolk]] who were preparing an assault on the [[Troglodytes]], who asked them to clear the area first;
+- met with the [[Lizardfolk]] who were preparing an assault on the [[Troglodyte|Troglodytes]], who asked them to clear the area first;
 - explored around while [[Horatio]] enhanced the party, following a shallow river to a small island in a small lake where Sam was ambushed by a [[Giant Lizard]], which the party fought and slew;
 - returned to the [[Lizardfolk]], but were told to fight an even bigger one;
 - followed another stream where they were ambushed by 2 [[Black Ooze|Black Oozes]] which were quickly cut up into a lot more by [[Alaric]] and [[Nuk]] before being defeated;

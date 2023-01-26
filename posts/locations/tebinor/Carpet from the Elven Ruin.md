@@ -1,0 +1,1 @@
+An old but beautifully made Carpet was recovered from the [[Elven Ruin in the Royal Woodlands|Elven Ruin]] during the [[Expedition into the Elven Ruin]]. [[Sam Alderleaf|Sam]] and [[Castle-8]] took it to furnish their house of [[Gryffindork]] with.
