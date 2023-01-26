@@ -21,6 +21,7 @@ Now that [[The Party]] has informed the [[Vaviel Empire|Empire]] of the existenc
 * [[Asholas]]
 * [[Tuletus]]
 * [[Acranium]]
+* [[Astreogus]]
  
 ### Others
 * [[Tebinor]], a Frontier Shard claimed by the [[Vaviel Empire]]

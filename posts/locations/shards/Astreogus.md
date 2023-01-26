@@ -1,0 +1,1 @@
+Astreogus is a [[Shards|Shard]] under the dominion of the [[Vaviel Empire]]. The Shard is characterized by large rock formations, making the Shard a bad candidate for large-scale urban development.
