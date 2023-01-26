@@ -2,4 +2,4 @@ Sir Ginimus is a [[Human]] [[Vavian Noble#Knights|Knight]] in the [[Vaviel Empir
 
 He ran into [[The Party]] after they arrived on [[Tebinor]] and decided to take them to [[Ebonwatch]].
 
-Since then, he has led several patrols and ventures around [[Ebonwatch]] and is regularly found at [[Black Barrel Inn]]. [[Sam Alderleaf|Sam]] has been trying to befriend him by buying him [[Boatliver Ale]].
+Since then, he has led several patrols and ventures around [[Ebonwatch]] and is regularly found at [[Black Barrel Inn]]. [[Sam Alderleaf|Sam]] has been trying to befriend him by buying him [[Boatliver]] [[Ale]].

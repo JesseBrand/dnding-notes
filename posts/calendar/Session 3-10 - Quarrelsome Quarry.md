@@ -1,7 +1,7 @@
 ---
-aliases: Session 3-10, Sidas 1, Sidas 1 514
+aliases: Session 3-10, Sidas 1, Sidas 1 514, Session 3-10 - Sidas 1 514, Session 3-10 - Sidas 1 514 - Quarrelsome Quarry
 ---
-Previous: [[Session 3-9 - Fifdas 4 514|Session 3-9]] | Next: [[Session 3-11 - Sidas 2 514|Session 3-11]]
+Previous: [[Session 3-9 - Manticore Assault|Session 3-9]] | Next: [[Session 3-11 - Prove Your Worth|Session 3-11]]
 
 [[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Drathuul]], [[Nuk]], [[Aboouck]], [[Paxton Umbra|Paxton]], [[Enphine]] and [[Freya]]:
 

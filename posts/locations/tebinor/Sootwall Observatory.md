@@ -8,7 +8,7 @@ The observatory houses among other things:
 * Vast Libraries of Spells and Historical Documents,
 * A gigantic [[Telescope]] used to observe the [[Shards]].
 
-Sootwall Observatory was attacked by [[Manticore]] in [[Session 3-9 - Fifdas 4 514|Fifdas 4]], but they were driven out by [[The Party]], which the [[Gnome|Gnomes]] were very thankful for. The top floor was heavily damaged in the attack and the [[Telescope]] needed repairs.
+Sootwall Observatory was attacked by [[Manticore]] in [[Session 3-9 - Manticore Assault|Fifdas 4]], but they were driven out by [[The Party]], which the [[Gnome|Gnomes]] were very thankful for. The top floor was heavily damaged in the attack and the [[Telescope]] needed repairs.
 
 After repairing the telescope, the [[Gnome|Gnomes]] used a complex method of mirroring surfaces on nearby [[Shards]] to look at the underside of the Shard of [[Tebinor]]. However, as [[1st Observer Orxim Pebblebeard|Master Pebblebeard]] did so, he went crazy. None of the [[Gnome|Gnomes]] have dared repeat his observations since.
 

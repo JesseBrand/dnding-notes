@@ -1,7 +1,7 @@
 ---
-aliases: Session 3-12, Sidas 3, Sidas 3 514
+aliases: Session 3-12, Sidas 3, Sidas 3 514, Session 3-12 - Sidas 3 514, Session 3-12 - Sidas 3 514 - Rebellion
 ---
-Previous: [[Session 3-11 - Sidas 2 514|Session 3-11]] | Next: [[Session 3-13 - Sidas 4 514|Session 3-13]]
+Previous: [[Session 3-11 - Prove Your Worth|Session 3-11]] | Next: [[Session 3-13 - Another Sir|Session 3-13]]
 
 [[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Exilian]], [[Horatio]], [[Paxton Umbra|Paxton]], [[Bill]] and [[Bavon]]:
 

@@ -1,7 +1,7 @@
 ---
-aliases: Session 3-6, Fifdas 1, Fifdas 1 514
+aliases: Session 3-6, Fifdas 1, Fifdas 1 514, Session 3-6 - Fifdas 1 514, Session 3-6 - Fifdas 1 514 - Mysteries of the Mire
 ---
-Previous: [[Session 3-5 - Furdas 4 514|Session 3-5]] | Next: [[Session 3-7 - Fifdas 2 514|Session 3-7]]
+Previous: [[Session 3-5 - Lizard Incursion|Session 3-5]] | Next: [[Session 3-7 - Giants Under the Earth|Session 3-7]]
 
 [[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Nuk]], [[Aboouck]], [[Bill]], [[Paxton Umbra|Paxton]] and [[Bavon]]:
 

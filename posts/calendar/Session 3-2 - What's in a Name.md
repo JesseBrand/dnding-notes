@@ -1,7 +1,7 @@
 ---
-aliases: Session 3-2, Furdas 1, Furdas 1 514
+aliases: Session 3-2, Furdas 1, Furdas 1 514, Session 3-2 - Furdas 1 514, Session 3-2 - Furdas 1 514 - What's in a Name
 ---
-Previous: [[Session 3-1 - Tridas 4 514|Session 3-1]] | Next: [[Session 3-3 - Furdas 2 514|Session 3-3]]
+Previous: [[Session 3-1 - Lay of the Land|Session 3-1]] | Next: [[Session 3-3 - The Blue Lady|Session 3-3]]
 
 [[The Party]], consisting of [[Alaric]], [[Sam Alderleaf|Sam]], [[Castle-8|Castle-8 / Horny-1]], [[Exilian]], [[Horatio|Horatio / Fartman]], [[Nuk|Nuk / Reddy]] and [[Bill]]:
 

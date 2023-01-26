@@ -1,7 +1,7 @@
 ---
-aliases: Session 3-9, Fifdas 4, Fifdas 4 514
+aliases: Session 3-9, Fifdas 4, Fifdas 4 514, Session 3-9 - Fifdas 4 514, Session 3-9 - Fifdas 4 514 - Manticore Assault
 ---
-Previous: [[Session 3-8 - Fifdas 3 514|Session 3-8]] | Next: [[Session 3-10 - Sidas 1 514|Session 3-10]]
+Previous: [[Session 3-8 - The Mutant|Session 3-8]] | Next: [[Session 3-10 - Quarrelsome Quarry|Session 3-10]]
 
 [[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Horatio]], [[Drathuul]], [[Nuk]], [[Aboouck]], [[Paxton Umbra|Paxton]], [[Bavon]] and [[Enphine]]:
 - met at the [[Black Barrel Inn|Inn]] when [[Nuk]] returned from [[Sootwall Observatory]] with [[7th Observer Jorfan Billowgrin|Master Billowgrin]] and an unknown wizard lady named [[Enphine]], who was in search of money for her research;

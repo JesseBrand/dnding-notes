@@ -1,4 +1,7 @@
-Previous: [[Session 1-1]] | Next: [[Session 1-3]]
+---
+aliases: Session 1-2
+---
+Previous: [[Session 1-1 - A Dwarvish Proposition|Session 1-1]] | Next: [[Session 1-3]]
 
 [[The Party]] consisted of [[Thorin]], [[John]], [[Hera]], [[Therai]] and [[Morthos]].
 

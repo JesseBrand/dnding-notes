@@ -1,7 +1,7 @@
 ---
-aliases: Session 2-28, Tridas 3, Tridas 3 514
+aliases: Session 2-28, Tridas 3, Tridas 3 514, Session 2-28 - Tridas 3 514, Session 2-28 - Tridas 3 514 - Overrun
 ---
-Previous: [[Session 2-27]] | Next: [[Session 3-1 - Tridas 4 514|Session 3-1]]
+Previous: [[Session 2-27]] | Next: [[Session 3-1 - Lay of the Land|Session 3-1]]
 
 [[The Party]], consisting of [[John]], [[Alaric]], [[Sam Alderleaf|Sam]], [[Castle-8]], [[Drathuul]], [[Nuk]], [[Navani]] (absent), [[Exilian]] (absent), [[Horatio]] (absent), [[Sarith]] and [[Rumpadump]]:
 - were explained the nature of the [[Society of Brilliance]], portal and escape route in detail by [[Grazillax]] and agreed to help him;

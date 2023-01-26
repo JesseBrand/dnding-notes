@@ -6,6 +6,6 @@ Abberations are a qualification of creatures to utterly alien to the [[Material 
 Some types of abberations:
 * [[Beholder|Beholders]]
 	* [[Shadow Beholder|Shadow Beholders]]
-		* A [[Shadow Beholder]] was slain by [[The Party]] under [[Gamwater Quarry]] on [[Session 3-10 - Sidas 1 514|Sidas 1 514]].
+		* A [[Shadow Beholder]] was slain by [[The Party]] under [[Gamwater Quarry]] on [[Session 3-10 - Quarrelsome Quarry|Sidas 1 514]].
 * [[Mindflayer|Mindflayers]]
 	* [[The Party]] met [[Grazillax]], an unusually friendly [[Mindflayer]] in the [[Underdark]].

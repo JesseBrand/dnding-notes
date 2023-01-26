@@ -8,3 +8,5 @@ Tuletus is being actively developed but still contains vast stretches of grassla
 * Coastal [[City of Margieux]] located next to the [[Hollow Range Woods]]
 * [[Hollow Range Woods]]
 * [[Portal between Tebinor and Tuletus]]
+* The city of [[Chamur]] along the [[River Rougnan]]
+	* [[Boatliver Brewery]]

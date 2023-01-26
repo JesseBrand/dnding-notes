@@ -1,7 +1,7 @@
 ---
-aliases: Session 3-3, Furdas 2, Furdas 2 514
+aliases: Session 3-3, Furdas 2, Furdas 2 514, Session 3-3 - Furdas 2 514, Session 3-3 - Furdas 2 514 - The Blue Lady
 ---
-Previous: [[Session 3-2 - Furdas 1 514|Session 3-2]] | Next: [[Session 3-4 - Furdas 3 514|Session 3-4]]
+Previous: [[Session 3-2 - What's in a Name|Session 3-2]] | Next: [[Session 3-4 - The Observatory|Session 3-4]]
 
 [[The Party]], consisting of [[Castle-8|Castle-8 / Horny-1]], [[Horatio|Horatio / Fartman]] , [[Nuk|Nuk / Reddy]] and [[Bill]]:
 

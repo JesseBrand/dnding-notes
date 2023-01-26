@@ -1,7 +1,7 @@
 ---
-aliases: Session 3-8, Fifdas 3, Fifdas 3 514
+aliases: Session 3-8, Fifdas 3, Fifdas 3 514, Session 3-8 - Fifdas 3 514, Session 3-8 - Fifdas 3 514 - The Mutant
 ---
-Previous: [[Session 3-7 - Fifdas 2 514|Session 3-7]] | Next: [[Session 3-9 - Fifdas 4 514|Session 3-9]]
+Previous: [[Session 3-7 - Giants Under the Earth|Session 3-7]] | Next: [[Session 3-9 - Manticore Assault|Session 3-9]]
 
 [[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Exilian]], [[Horatio]], [[Drathuul]] and [[Bavon]]:
 

@@ -30,4 +30,60 @@ The party emerged in the middle of a riot. [[Madness|Mad]] [[Duergar]] and [[Der
 
 The party fled the city, aided by the inferno. They travelled several days through the [[Underdark]] and encountered [[Grazillax]], who warned them of a horde of [[Gnoll|gnolls]] nearby. They aided him in opening a [[Portal between Tebinor and the Underdark|portal]] out of the [[Underdark]] before being overrun by [[Gnoll|gnolls]] under the command of [[Yeenoghu]] and unknowingly ended up on the shard of [[Tebinor]].
 
-#TODO: Timeline
+# Timeline
+## [[Session 2-1 - 21/11/19 - Down Under]]
+
+## [[Session 2-2 - Escape Plans]]
+
+## [[Session 2-3 - Breakout]]
+
+## [[Session 2-4 - The Getaway]]
+
+## [[Session 2-5 - Recuperating]]
+
+## [[Session 2-6 - From the Deep]]
+
+## [[Session 2-7 - There's Power in Blood]]
+
+## [[Session 2-8 - Webcrawling]]
+
+## [[Session 2-9 - Trouble in the Webs]]
+
+## [[Session 2-10 -  Shuushars]]
+
+## [[Session 2-11 - The Ritual]]
+
+## [[Session 2-12 - Into the Water]]
+
+## [[Session 2-13 - Boarding Action]]
+
+## [[Session 2-14 - Down with the Fishes]]
+
+## [[Session 2-15 - Fire on the Lake]]
+
+## [[Session 2-16 - Navani]]
+
+## [[Session 2-17 - The Mad Derro]]
+
+## [[Session 2-18 - The Lady's Dance]]
+
+## [[Session 2-19 - Duergar Fertilizer]]
+
+## [[Session 2-20 - Weird Water]]
+
+## [[Session 2-21 - The Egg]]
+
+## [[Session 2-22 - The Beast]]
+
+## [[Session 2-23 - The Summoning]]
+
+## [[Session 2-24 - Bromance]]
+
+## [[Session 2-25 - The Battle of Gracklstugh]]
+
+## [[Session 2-26 - Through the Mad City]]
+
+## [[Session 2-27 - Burn It All]]
+
+## [[Session 2-28 - Overrun]]
+[[The Party]] escaped the [[Underdark]] to the Shard of [[Tebinor]] with the help of [[Grazillax]] while being overrun by a horde [[Gnoll|Gnolls]], met with [[Vavian Soldiers|Soldiers]] from the [[Vaviel Empire]] and were brought to the town of [[Ebonwatch]].

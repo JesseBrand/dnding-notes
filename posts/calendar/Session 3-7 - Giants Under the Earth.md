@@ -1,7 +1,7 @@
 ---
-aliases: Session 3-7, Fifdas 2, Fifdas 2 514
+aliases: Session 3-7, Fifdas 2, Fifdas 2 514, Session 3-7 - Fifdas 2 514, Session 3-7 - Fifdas 2 514 - Giants Under the Earth
 ---
-Previous: [[Session 3-6 - Fifdas 1 514|Session 3-6]] | Next: [[Session 3-8 - Fifdas 3 514|Session 3-8]]
+Previous: [[Session 3-6 - Mysteries of the Mire|Session 3-6]] | Next: [[Session 3-8 - The Mutant|Session 3-8]]
 
 [[The Party]], consisting of [[Alaric]], [[Sam Alderleaf|Sam]], [[Horatio]], [[Nuk]], [[Aboouck]], [[Bill]] and [[Bavon]]:
 

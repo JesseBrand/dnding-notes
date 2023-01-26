@@ -9,7 +9,7 @@ Giants are divided into different casts according to [[The Ordning]], their beli
 Hill Giants are little more than dumb brutes, using the size to bully others.
 
 Some notable Hill Giants in this Campaign:
-* In [[Session 3-2 - Furdas 1 514|Furdas 1 514]] [[The Party]] tracked the trails of a Hill Giant to the [[Hornwood Stream]] and into the [[Royal Woodlands]]. They found the Giant sleeping, but when approaching him were teleported to the [[Realm of the Blue Lady]].
+* In [[Session 3-2 - What's in a Name|Furdas 1 514]] [[The Party]] tracked the trails of a Hill Giant to the [[Hornwood Stream]] and into the [[Royal Woodlands]]. They found the Giant sleeping, but when approaching him were teleported to the [[Realm of the Blue Lady]].
 
 ### Stone Giants
 Some notable Stone Giants in this Campaign:
@@ -22,7 +22,7 @@ Some notable Frost Giants in this Campaign:
 
 ### Fire Giants
 Some notable Fire Giants in this Campaign:
-* When [[The Party]] first set foot on [[Tebinor]] in [[Session 2-28 - Tridas 3 514|Tridas 3 514]] they encountered a patrol of [[Vavian Soldiers]] that had apparently just slain a Fire Giant in the [[The Black Crevice]].
+* When [[The Party]] first set foot on [[Tebinor]] in [[Session 2-28 - Overrun|Tridas 3 514]] they encountered a patrol of [[Vavian Soldiers]] that had apparently just slain a Fire Giant in the [[The Black Crevice]].
 
 ### Cloud Giants
 Some notable Cloud Giants in this Campaign:

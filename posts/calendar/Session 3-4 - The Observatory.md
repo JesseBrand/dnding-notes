@@ -1,12 +1,12 @@
 ---
-aliases: Session 3-4, Furdas 3, Furdas 3 514
+aliases: Session 3-4, Furdas 3, Furdas 3 514, Session 3-4 - Furdas 3 514, Session 3-4 - Furdas 3 514 - The Observatory
 ---
-Previous: [[Session 3-3 - Furdas 2 514|Session 3-3]] | Next: [[Session 3-5 - Furdas 4 514|Session 3-5]]
+Previous: [[Session 3-3 - The Blue Lady|Session 3-3]] | Next: [[Session 3-5 - Lizard Incursion|Session 3-5]]
 
 [[The Party]], consisting of [[Alaric]], [[Sam Alderleaf|Sam]], [[Castle-8]], [[Horatio]], [[Nuk]], [[Aboouck]] and [[Bill]]:
 
 - examined the [[Notice Board]], noticing a [[Reo Churner|Wanted Poster]];
-- discussed what to do, agreeing to go to the [[Sootwall Observatory|Gnomish Observatory]] to help [[Nuk]] now, then go to the [[Anorak Iron Mine|Mines]] to help [[Aboouck]] [[Session 3-5 - Furdas 4 514|Next Week]];
+- discussed what to do, agreeing to go to the [[Sootwall Observatory|Gnomish Observatory]] to help [[Nuk]] now, then go to the [[Anorak Iron Mine|Mines]] to help [[Aboouck]] [[Session 3-5 - Lizard Incursion|Next Week]];
 - left the [[Ebonwatch|town]] west, slowly following the trail up the [[Smithwrath Mountains|mountains]] until they saw [[Sootwall Observatory|Sootwall]] before them;
 - approached the [[Sootwall Observatory|observatory]], to see two [[Manticore|Manticores]] snacking on a [[Huge Humanoid]];
 - engaged the [[Manticore|Manticores]], where [[Castle-8]] was enlarged and body-slammed a [[Manticore]] to the ground, with [[Bill]] and [[Sam Alderleaf|Sam]] dealing considerable damage;

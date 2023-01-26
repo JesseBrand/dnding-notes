@@ -1,0 +1,3 @@
+Boatliver Brewery is a [[Brewer's Supplies|Brewery]] on [[Tuletus]], located near the City of [[Chamur]]. Its location near the [[River Rougnan]] ensures a steady supply of freshwater year-long.
+
+One of the more well-known [[Brewer's Supplies|Breweries]] in the [[Vaviel Empire]], its two most famous [[Ale|Ales]] are Boatliver Ale and Boutliver Stout, sold on every Shard of the [[Vaviel Empire|Empire]].

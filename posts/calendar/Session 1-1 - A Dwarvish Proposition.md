@@ -1,4 +1,7 @@
-Next: [[Session 1-2]]
+---
+aliases: Session 1-1
+---
+Next: [[Session 1-2 - Down with the Animals|Session 1-2]]
 
 [[The Party]] consisted of [[Thorin]], [[John]], [[Hera]] and [[Therai]].
 

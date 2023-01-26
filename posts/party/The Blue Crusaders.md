@@ -5,6 +5,7 @@ At any point, the Blue Crusaders consisted of:
 * [[Thorin]] (unknown)
 * [[Hera]] (dead)
 * [[Morthos]] (dead)
+* [[Alaric]]
 * [[Orsik]] (dead)
 * [[Zatarra]] (dead)
 * [[Sam Alderleaf]]

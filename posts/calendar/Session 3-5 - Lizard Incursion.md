@@ -1,7 +1,7 @@
 ---
-aliases: Session 3-5, Furdas 4, Furdas 4 514
+aliases: Session 3-5, Furdas 4, Furdas 4 514, Session 3-5 - Furdas 4 514, Session 3-5 - Furdas 4 514 - Lizard Incursion
 ---
-Previous: [[Session 3-4 - Furdas 3 514|Session 3-4]] | Next: [[Session 3-6 - Fifdas 1 514|Session 3-6]]
+Previous: [[Session 3-4 - The Observatory|Session 3-4]] | Next: [[Session 3-6 - Mysteries of the Mire|Session 3-6]]
 
 [[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Horatio]], [[Nuk]] and [[Aboouck]]:
 

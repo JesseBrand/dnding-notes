@@ -1,7 +1,7 @@
 ---
-aliases: Session 3-1, Tridas 4, Tridas 4 514
+aliases: Session 3-1, Tridas 4, Tridas 4 514, Session 3-1 - Tridas 4 514, Session 3-1 - Tridas 4 514 - Lay of the Land
 ---
-Previous: [[Session 2-28 - Tridas 3 514|Session 2-28]] | Next: [[Session 3-2 - Furdas 1 514|Session 3-2]]
+Previous: [[Session 2-28 - Overrun|Session 2-28]] | Next: [[Session 3-2 - What's in a Name|Session 3-2]]
 
 [[The Party]], consisting of [[Alaric]], [[Sam Alderleaf|Sam]], [[Castle-8]], [[Horatio]], [[Nuk]] and [[Aboouck]]:
 - met [[Aboouck]] the stressed rabbit in [[Black Barrel Inn]];

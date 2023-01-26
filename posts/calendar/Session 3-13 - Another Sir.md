@@ -1,7 +1,7 @@
 ---
-aliases: Session 3-13, Sidas 4, Sidas 4 514
+aliases: Session 3-13, Sidas 4, Sidas 4 514, Session 3-13 - Sidas 4 514, Session 3-13 - Sidas 4 514 - Another Sir
 ---
-Previous: [[Session 3-12 - Sidas 3 514|Session 3-12]] | Next: [[Session 3-14]] #TODO
+Previous: [[Session 3-12 - Rebellion|Session 3-12]] | Next: [[Session 3-14]] #TODO
 
 [[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Nuk]], [[Paxton Umbra|Paxton]], [[Bill]], [[Enphine]] and [[Sir Dixon Fire|Sir Dixon]]:
 

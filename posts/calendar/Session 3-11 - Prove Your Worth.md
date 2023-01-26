@@ -1,7 +1,7 @@
 ---
-aliases: Session 3-11, Sidas 2, Sidas 2 514
+aliases: Session 3-11, Sidas 2, Sidas 2 514, Session 3-11 - Sidas 2 514, Session 3-11 - Sidas 2 514 - Prove Your Worth
 ---
-Previous: [[Session 3-10 - Sidas 1 514|Session 3-10]] | Next: [[Session 3-12 - Sidas 3 514|Session 3-12]]
+Previous: [[Session 3-10 - Quarrelsome Quarry|Session 3-10]] | Next: [[Session 3-12 - Rebellion|Session 3-12]]
 
 [[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Exilian]], [[Horatio]], [[Nuk]], [[Aboouck]], [[Paxton Umbra|Paxton]], [[Bill]], [[Bavon]] and [[Enphine]]:
 - discussed current affairs in the [[Black Barrel Inn|Tavern]] and noticed [[Bavon]] was not getting served anymore;
