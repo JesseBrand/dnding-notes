@@ -1,0 +1,1 @@
+Gust is a [[Spells#Cantrips|Cantrip]] that attempts to move a Creature by wind or creates a harmless blast of air to attempt to move objects or gasses. It can be learned by many [[Class|Classes]].

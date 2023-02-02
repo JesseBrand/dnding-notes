@@ -1,5 +1,4 @@
-One of the [[Shards]].
-A frontier Shard claimed by the [[Vaviel Empire]] under leadership of [[Duke Oakfire]].
+A frontier [[Shards|Shard]] claimed by the [[Vaviel Empire]] under leadership of [[Duke Oakfire]]. It is governed from the town of [[Ebonwatch]].
 
 ## [[Oakfire Plains]]
 * Town of [[Ebonwatch]]
@@ -15,6 +14,7 @@ A frontier Shard claimed by the [[Vaviel Empire]] under leadership of [[Duke Oak
 
 ## [[Slumbering Hills]]
 * [[Anorak Iron Mine]]
+	* [[Tebinor Troglodyte Lair|Troglodyte Lair]]
 
 ## [[Hungry Coast]]
 * [[Cliffside Bandit Camp]]

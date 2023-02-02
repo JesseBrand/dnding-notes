@@ -15,7 +15,7 @@ Previous: [[Session 3-13 - Another Sir|Session 3-13]] | Next: [[Session 3-15]]
 - came by [[Wheldrake Fortress]], then continued to the [[Anorak Iron Mine|Mine]] without effort, meeting [[Ian]] out front who asked for coffee and mentioned their [[Aboouck|Bunny Friend]];
 - reached the poisonous fog, where [[Sir Dixon Fire|Sir Dixon]] gave [[Sam Alderleaf|Sam]] an [[Air Bubble]] around his head in order to scout ahead, where he found a barrier before returning with his findings;
 - cleared out a lot of the poisonous fog as [[Enphine]] cast her [[Gust]] and [[Sir Dixon Fire|Sir Dixon]] used [[Gust of Wind]] to clear out most of the tunnel before he got poisoned and lost half his health and was cured by listening to the [[Artificer#Protector|Groovy Tunes]] of [[Horatio]];
-- went into the tunnel, but faced a last barier of thick poisonous fog that would not clear it, [[Sam Alderleaf|Sam]] went in and they heard a fuse being lit before [[Sam Alderleaf|Sam]] came out shout "RUN!";
+- went into the tunnel, but faced a last barrier of thick poisonous fog that would not clear it, [[Sam Alderleaf|Sam]] went in and they heard a fuse being lit before [[Sam Alderleaf|Sam]] came out shout "RUN!";
 - were surprised by a massive explosion as [[Sam Alderleaf|Sam]] had detonated a [[Gunpowder|Horn of Gunpowder]] when half the cave started to tremble and rocks started to fall;
 - watched the gas clear out and the force field gone and proceeded along the stream to a bridge which led to two tunnels as the river was blocked off by debris;
 - investigated several tunnels, discovering most of them blocked with only one actually leading to an interesting room, while another ended in a weird flat surface which they could not find anything special about;
@@ -25,7 +25,7 @@ Previous: [[Session 3-13 - Another Sir|Session 3-13]] | Next: [[Session 3-15]]
 - had [[Sam Alderleaf|Sam]] explore further, discovering a passage down and some ropes leading from back of the stone slabs;
 - attempted to push one of the slabs aside, with only [[Paxton Umbra|Paxton]] really trying and the rest flailing about;
 - remembered [[Sam Alderleaf|Sam]] had a crowbar, which [[Paxton Umbra|Paxton]] used to lift a slab with the help others, which eventually succeeded;
-- followed the passage down, leading to spiral staircase down to an [[Troglodyte Lair|Old, Very Wet Ruin]];
+- followed the passage down, leading to spiral staircase down to an [[Tebinor Troglodyte Lair|Old, Very Wet Ruin]];
 - entered the room with [[Sam Alderleaf|Sam]] in front as a net dropped down on him which he was easily able to avoid, before they were set upon by several of the amphibian [[Troglodyte|Troglodytes]] who remained hidden until now;
 - saw [[Bill]] run north dodging another net effortlessly, dealing some severe damage to several [[Troglodyte|Troglodytes]] he spotted;
 - noticed more and more creatures pouring out of the side chambers before hearing some loud roars as several [[Troglodyte#Juggernaut|Huge Troglodytes]] came charging from the rooms and descended upon the party;

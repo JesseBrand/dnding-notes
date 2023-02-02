@@ -1,3 +1,6 @@
+---
+aliases: Classes
+---
 The available classes:
 * [[Artificer]]
 * [[Barbarian]]
