@@ -33,7 +33,7 @@ This section shows the exploits of [[The Party]] in relation to the [[Vavian Cal
 [[The Party]] came to the aid of [[Granny Moss]] and travelled into the [[Gleaming Mire]], braving a tribe of [[Bullywug|Bullywugs]] and a [[Giant Crocodile]], recovering [[The One True Hat|Ancient]] [[The One True Fork|Artifacts]] and discovering a source of valuable [[Starmetal]].
 
 ## [[Session 3-7 - Giants Under the Earth|Session 3-7 - Fifdas 2 514: Giants Under the Earth]]
-[[The Party]] travelled back to [[Anorak Iron Mine]] to aid the [[Lizardfolk]] in their fight against the [[Troglodytes]]. They slew a [[Giant Lizard]] and a [[White Maw|Giant White Ooze]] and recovered some [[Magic Items]], but were unable to find a way to pass the poisonous gas present in the tunnels.
+[[The Party]] travelled back to [[Anorak Iron Mine]] to aid the [[Lizardfolk]] in their fight against the [[Troglodyte|Troglodytes]]. They slew a [[Giant Lizard]] and a [[White Maw|Giant White Ooze]] and recovered some [[Magic Items]], but were unable to find a way to pass the poisonous gas present in the tunnels.
 
 ## [[Session 3-8 - The Mutant|Session 3-8 - Fifdas 3 514: The Mutant]]
 [[The Party]] headed south to [[Arken Fissure]] to collect the bounty on [[Reo Churner]], slaying several [[Troll|Trolls]] then scouting south based on [[Reo Churner|Reo]]'s information. They noticed a large horde of [[Gnoll|Gnolls]] in the [[Dread Wastelands]] then returned to [[Ebonwatch]]. They were confronted by [[Reo Churner|Reo]] on their way back but managed to subdue him and delivered him to the [[Duke Oakfire|Duke]] and collected the bounty.
@@ -53,4 +53,5 @@ This section shows the exploits of [[The Party]] in relation to the [[Vavian Cal
 ## [[Session 3-13 - Another Sir|Session 3-13 - Sidas 4 514: Another Sir]]
 [[The Party]] obtained information on several new threats and met with [[Sir Dixon Fire]], then decided to safeguard [[Gamwater Quarry]] first. After encountering [[Bavon]] and talking to the [[Dragon|Dragons]] they concluded there was little they could do at present. They instead headed back to [[Sir Dozak's Forward Camp]] and together with him cleared the [[Elven Ruin in the Royal Woodlands|Elven Ruin]] as far as they could, slaying a large [[Demon]] they accidentally unleashed and an ancient [[Treant#Corrupted Treant|Corrupted Tree]], after which they discovered a caved-in shaft that needed excavating.
 
-#TODO: Links in all summaries
+## [[Session 3-14 - The Trapped Lair|Session 3-14 - Sepdas 1 514: The Trapped Lair]]
+[[The Party]] were alarmed by [[Enphine]]'s report and decided to try and recruit the [[Lizardfolk]] to aid them against the [[Demon|Demons]]. They returned to [[Anorak Iron Mine]] and made their way down through the Poisonous Gas and overcame several traps before descending into the [[Troglodyte Lair]] and slaying many [[Troglodyte|Troglodytes]].
