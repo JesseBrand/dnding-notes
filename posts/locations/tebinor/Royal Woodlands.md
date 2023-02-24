@@ -1,3 +1,6 @@
+---
+aliases: Woods
+---
 Locations in the Royal Woodlands
 * [[Hornwood]]
 * [[Realm of the Blue Lady]]

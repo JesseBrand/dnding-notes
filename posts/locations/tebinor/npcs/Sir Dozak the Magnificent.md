@@ -9,7 +9,7 @@ Sir Dozak currently resides in [[Tebinor]] in [[Sir Dozak's Forward Camp]] where
 
 Sir Dozak employs a small squad of loyal [[Vavian Soldiers]], in particular:
 * [[Sir Isaac]]
-* [[Sir Lambert]]
+* [[Lambert]]
 * [[Sir Lancel]] who was killed by [[Bavon]].
 * [[Sir William the Torchbearer]]
 * [[Sir Wyat]]

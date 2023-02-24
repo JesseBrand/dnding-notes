@@ -9,11 +9,14 @@ The location of Ebonwatch was chosen because of its defensive area, located upon
 
 Ebonwatch houses a population of about 350 people, including the [[Vavian Soldiers|Soldiers]] stationed in [[Ebonwatch Keep]] and the surrounding areas. Many of these are employed in different dependencies in the surrounding areas.
 
-**Features**
+## Features
+### [[Ebonwatch Keep]]
+* A compound within the town, defended by a stone wall
+* Ruled by [[Duke Oakfire]]
+- Provides residence to the [[Duke Oakfire|Duke]]'s Family
+
+### Inside the Palisade
 - A Palisade and Guardtowers encircling the Town.
-- [[Ebonwatch Keep]]
-	- Ruled by [[Duke Oakfire]]
-	- Provides residence to the [[Duke Oakfire|Duke]]'s Family
 - [[Black Barrel Inn]]
 	- Run by [[Florellius Patar]]
 	- Location of the [[Notice Board]] and [[Chamberlain Gerrard]]
@@ -27,3 +30,8 @@ Ebonwatch houses a population of about 350 people, including the [[Vavian Soldie
 - A Training Field
 - The Compound of [[Gryffindork]]
 	- Owned by [[Sam Alderleaf|Sam]], [[Alaric]] and [[Castle-8]]
+- Many homes of the townspeople
+
+### Outside the Palisade
+* [[Ebonwatch Church]]
+* More homes of townspeople, as well as several tents housing families

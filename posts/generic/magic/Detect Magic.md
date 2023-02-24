@@ -1,0 +1,1 @@
+Detect Magic is a [[Spells#1st Level|1st Level Spell]] that allows the caster to see magical items and objects around them. It can also be cast as a ritual. [[Sir Dixon Fire|Sir Dixon]] is able to cast this spell.

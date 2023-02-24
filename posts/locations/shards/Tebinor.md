@@ -25,6 +25,9 @@ A frontier [[Shards|Shard]] claimed by the [[Vaviel Empire]] under leadership of
 
 ##  [[Royal Woodlands]]
 * [[Elven Ruin in the Royal Woodlands]]
+* [[Grassroads|The Grassroads]]
+* [[Termite Mound]]
+* [[Stone Archway]]
 
 ## [[Smithwrath Mountains]]
 * [[Sootwall Observatory]]

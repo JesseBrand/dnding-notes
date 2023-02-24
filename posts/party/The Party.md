@@ -24,6 +24,8 @@ The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shar
 * [[Enphine]]
 * [[Freya]]
 * [[Sir Dixon Fire]]
+* [[Ru Eir Hydrus]]
+* [[Girard de Kosigan]]
 
  
 ### Companions

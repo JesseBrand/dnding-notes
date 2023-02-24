@@ -1,0 +1,1 @@
+An enormous Stone Archway was spotted to the far north of the [[Royal Woodlands]]. It seemed to rise far into the sky.

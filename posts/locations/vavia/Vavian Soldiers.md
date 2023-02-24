@@ -1,3 +1,6 @@
+---
+aliases: Vavian Soldier, Soldier, Soldiers, Guard, Guards, Conscript, Conscripts, Scout, Scouts
+---
 The regular Soldiers employed by the [[Vaviel Empire]] can be found on any of the [[Shards]] under control of the [[Vaviel Empire|Empire]], and the ones under contention.
 
 The Vavian Soldiers are usually well-trained and well-equipped, each man being outfitted with at least a breastplate, open helmet and a pike. Higher-ranking Soldiers and members of the [[Vavian Noble|Nobility]] are usually equipped a lot better. Where possible and needed, the [[Vaviel Empire|Empire]] will attempt to outfit key Units and [[Vavian Noble|Nobles]] with [[Magic Items]] or employ members of [[The Tempest]] along the Army.

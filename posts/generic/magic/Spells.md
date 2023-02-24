@@ -6,6 +6,9 @@ Spells are divided into levels, denoting an increase in power and spell slot usa
 * [[Gust]]
 
 ## 1st Level
+* [[Comprehend Languages]]
+* [[Detect Magic]]
+* [[Vortex Warp]]
 * [[Web]]
 
 ## 2nd Level
@@ -14,7 +17,9 @@ Spells are divided into levels, denoting an increase in power and spell slot usa
 * [[Gust of Wind]]
 
 ## 3rd Level
+* [[Daylight]]
 * [[Fireball]]
+* [[Spirit Guardians]]
 
 ## 4th Level
 
