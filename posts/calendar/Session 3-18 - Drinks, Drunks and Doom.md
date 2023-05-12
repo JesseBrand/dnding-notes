@@ -1,5 +1,5 @@
 ---
-aliases: Session 3-18, Octdas 1, Octdas 1 514, Session 3-18 - Octdas 1 514, Session 3-18 - Octdas 1 514 - Drinks, Drunks and Doom
+aliases: [Session 3-18, Octdas 1, Octdas 1 514, Session 3-18 - Octdas 1 514, "Session 3-18 - Octdas 1 514 - Drinks, Drunks and Doom"]
 ---
 Previous: [[Session 3-17]] | Next: [[Session 3-19 - Back Into the Dark Hole|Session 3-19]]
 

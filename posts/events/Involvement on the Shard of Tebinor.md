@@ -55,3 +55,16 @@ This section shows the exploits of [[The Party]] in relation to the [[Vavian Cal
 
 ## [[Session 3-14 - The Trapped Lair|Session 3-14 - Sepdas 1 514: The Trapped Lair]]
 [[The Party]] were alarmed by [[Enphine]]'s report and decided to try and recruit the [[Lizardfolk]] to aid them against the [[Demon|Demons]]. They returned to [[Anorak Iron Mine]] and made their way down through the Poisonous Gas and overcame several traps before descending into the [[Tebinor Troglodyte Lair|Troglodyte Lair]] and slaying many [[Troglodyte|Troglodytes]].
+
+## [[Session 3-15 - The Jungle Bridge|Session 3-15 - Sepdas 2 514 - The Jungle Bridge]]
+
+
+## [[Session 3-16 - TODO]]
+
+## [[Session 3-17 - TODO]]
+
+## [[Session 3-18 - Drinks, Drunks and Doom|Session 3-18 - Octdas 1 514 - Drinks, Drunks and Doom]]
+[[The Party]] returned to [[Mythana]] and had a drinking contest at the [[Dwarven Mining Camp]]. They sought for the source of corruption in the forest and found the [[Cave of Cleansing Waters]]. Inside they encountered a [[Giant Floating Pus Blob Monster]] which proved very though, especially when [[Aboouck]] exploded at a rather unfortunate moment. They closed a [[Portal]] and left to explore further later.
+
+## [[Session 3-19 - Back Into the Dark Hole|Session 3-19 - Octdas 2 514 - Back Into the Dark Hole]]
+[[The Party]] returned to the [[Heart of the Forest]] and visited [[Mythana]] and the [[Dwarven Mining Camp]]. They returned to the [[Cave of Cleansing Waters]], spared the animals and confronted [[Sylvanus|Sylvanus' Spirit]] who told them to retrace his footsteps by following the lights. They found a [[Desecrated Altar]] and [[Banishment|Banished]] a [[Huge Gorilla-like Demon]].

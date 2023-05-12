@@ -1,1 +1,4 @@
+---
+aliases: Sylvanus' Spirit
+---
 #TODO
