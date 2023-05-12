@@ -16,3 +16,4 @@ Not long after, [[The Party]] spotted a couple of dead horses riddled with arrow
 
 ### Effects & Repercussions
 -   None
+

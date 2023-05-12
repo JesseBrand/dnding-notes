@@ -27,7 +27,6 @@ A frontier [[Shards|Shard]] claimed by the [[Vaviel Empire]] under leadership of
 * [[Elven Ruin in the Royal Woodlands]]
 * [[Grassroads|The Grassroads]]
 * [[Termite Mound]]
-* [[Stone Archway]]
 
 ## [[Smithwrath Mountains]]
 * [[Sootwall Observatory]]
@@ -41,3 +40,12 @@ A frontier [[Shards|Shard]] claimed by the [[Vaviel Empire]] under leadership of
 ## [[Dread Wastelands]]
 * [[The Black Crevice]]
 	* [[Portal between Tebinor and the Underdark|Portal]] to the [[Underdark]]
+
+## [[Uranmel]]
+* [[Heart of the Forest]]
+	* [[Cave of Cleansing Waters]]
+	* [[Dwarven Mine]]
+	* [[Dwarven Mining Camp]]
+	* [[Sylvanus' Cabin]]
+* [[Mythana]]
+* [[Stone Archway]]

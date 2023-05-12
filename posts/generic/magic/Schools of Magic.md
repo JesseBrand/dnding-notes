@@ -1,0 +1,10 @@
+All magic is divided into nine different schools. All [[Spells]] belong to one of these schools.
+* [[Abjuration Magic]]
+* [[Alteration Magic]]
+* [[Conjuration Magic]]
+* [[Divination Magic]]
+* [[Enchantment Magic]]
+* [[Evocation Magic]]
+* [[Illusion Magic]]
+* [[Necrotic Magic]]
+* [[Transmutation Magic]]

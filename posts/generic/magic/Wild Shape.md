@@ -1,0 +1,1 @@
+Wild Shape is a [[Druid]] ability which allow them to change into a [[Beast]] temporarily.

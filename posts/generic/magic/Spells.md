@@ -3,11 +3,14 @@ A Spell is a manifestation of magical power, brought forth by an incantation or 
 Spells are divided into levels, denoting an increase in power and spell slot usage.
 
 ## Cantrips
+* [[Fire Bolt]]
 * [[Gust]]
+* [[Minor Illusion]]
 
 ## 1st Level
 * [[Comprehend Languages]]
 * [[Detect Magic]]
+* [[Identify]]
 * [[Vortex Warp]]
 * [[Web]]
 
@@ -15,13 +18,18 @@ Spells are divided into levels, denoting an increase in power and spell slot usa
 * [[Air Bubble]]
 * [[Darkness]]
 * [[Gust of Wind]]
+* [[Knock]]
 
 ## 3rd Level
 * [[Daylight]]
+* [[Dispel Magic]]
 * [[Fireball]]
+* [[Haste]]
+* [[Sending]]
 * [[Spirit Guardians]]
 
 ## 4th Level
+* [[Banishment]]
 
 ## 5th Level
 
