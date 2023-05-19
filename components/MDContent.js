@@ -35,8 +35,8 @@ function MDContent({content, backLinks, handleOpenNewContent}) {
         handleOpenNewContent(content)
     }
 
-  useRouter();
-  return (
+    useRouter();
+    return (
 
          <div className="markdown-rendered">
                   <div dangerouslySetInnerHTML={{__html: content}}/>
