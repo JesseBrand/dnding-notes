@@ -1,7 +1,7 @@
 ---
 aliases: Session 3-19, Octdas 2, Octdas 2 514, Session 3-19 - Octdas 2 514, Session 3-19 - Octdas 2 514 - Back Into the Dark Hole
 ---
-Previous: [[Session 3-18 - Drinks, Drunks and Doom|Session 3-18]] | Next: [[Session 3-20]]
+Previous: [[Session 3-18 - Drinks, Drunks and Doom|Session 3-18]] | Next: [[Session 3-20 - Into the Dark Forest, with a Drip of Blood|Session 3-20]]
 
 ## [[The Party]]
 - [[Sam Alderleaf|Sam]]
