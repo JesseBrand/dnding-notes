@@ -68,5 +68,5 @@ This section shows the exploits of [[The Party]] in relation to the [[Vavian Cal
 ## [[Session 3-19 - Back Into the Dark Hole|Session 3-19 - Octdas 2 514 - Back Into the Dark Hole]]
 [[The Party]] returned to the [[Heart of the Forest]] and visited [[Mythana]] and the [[Dwarven Mining Camp]]. They returned to the [[Cave of Cleansing Waters]], spared the animals and confronted [[Sylvanus|Sylvanus' Spirit]] who told them to retrace his footsteps by following the lights. They found a [[Desecrated Altar]] and [[Banishment|Banished]] a [[Huge Gorilla-like Demon]].
 
-## [[Session 3-20 - Into the Dark Forest, with a Drip of Blood|Session 3-20 - Octdas 3 514 - Into the Dark Forest]]
+## [[Session 3-20 - Into the Dark Forest, with a Drip of Blood]]
 [[The Party]] returned to the [[Heart of the Forest]] and visited [[Mythana]] on their way there. They followed the Lights into the [[Marrowgrove]] and located an open clearing. They fought a [[Harpy]] while some donated their blood while the roots of the grove bashed in on them. [[Horatio]] used a [[Bead of Force]] to escape the battle and regrouped with [[The Party]] at the [[Dwarven Mining Camp]]. As they arrived they noticed the [[Tebinor Dwarves|Dwarves]] lighted up magically, seemingly the next target of this magic.

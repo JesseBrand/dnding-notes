@@ -9,7 +9,7 @@ Previous: [[Session 3-19 - Back Into the Dark Hole|Session 3-19]] | Next: [[Sess
 - [[Bill]]
 - [[Sir Dixon Fire|Sir Dixon]]
 - [[Ru Eir Hydrus|Ru]]
-- [[Paxton Umbra|Paxton Umbra|Paxton]]
+- [[Paxton Umbra|Paxton]]
 - [[Aboouck]]
 - [[Enphine]]
 - [[Castle-8]]
@@ -42,7 +42,7 @@ While [[The Party]] was dealing with the swarms of ravens the giant tree roots w
 [[Bill]] was trying to harvest the [[Augury Root|Root]] as he had seen the person in the vision do, but some goo sprayed out of the [[Augury Root|Root]] sticking his daggers to his hands. When he tried to pry his dagger off with one of his other daggers his hands got stuck together. [[Paxton Umbra|Paxton]] tried to see what type of goo it was and how to get it off but didn't get much further than knowing it was sticky. [[Sir Dixon Fire|Sir Dixon]] tried to wash off the goo using water, but it didn't seem effective. However, he realized that it was possible to get it off using acid. [[Bill]] then ran towards [[Enphine]] to ask for the acid he gave to her last week. [[Aboouck]] tried to hold [[Bill]]'s hands steady but this only made [[Enphine]] more anxious causing her to spill more than just a little drop of acid on [[Bill]]'s hands. Meanwhile [[Sir Dixon Fire|Sir Dixon]] started harvesting the [[Augury Root|Root]] from the tree based on [[Bill]]'s idea and was tempted to lick it just like the person in the vision did, but he changed his mind. [[Sir Dixon Fire|Sir Dixon]] noticed the gloves the Harpy was wearing were still lighting up under his [[Detect Magic]] spell and took them off of her. [[Sam Alderleaf|Sam]] decided she could always use more feathers and plucked some from the Harpy's dead body.
 After all of this [[The Party]] decided to follow the green lights again which now showed up on the other side of the clearing.
 
-# [[Horatio]] Airlines
+# Horatio Airlines
 High up in the air [[Horatio]] was traveling at his leisure, allowing him to see everything on the [[Shards|Shard]], he saw a massive [[Stone Archway]] far to the north, which was even higher than him. He saw [[Ebonwatch]] far to the south, and he saw the [[Dwarven Mining Camp]] which also happened to be the direction he was heading. Just 20 foot above the ground the bubble popped and [[Horatio]] fell the remaining distance to the ground. The [[Tebinor Dwarves|Dwarves]] were surprised to see him and asked what happened. [[Horatio]] explained how he started a touring business and told the [[Tebinor Dwarves|Dwarves]] if there was anywhere they wanted to go, he would be able to get them there. He then started drinking some beer with the [[Tebinor Dwarves|Dwarves]], who were suddenly very interested in his ventures.  
 
 A little while later the rest of [[The Party]] noticed they were being led back by the lights and ended up back at the [[Dwarven Mining Camp]]. The green lights disappeared and all the dwarves started giving off the same light.
