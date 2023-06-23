@@ -1,7 +1,7 @@
 ---
 aliases: [Session 3-18, Octdas 1, Octdas 1 514, Session 3-18 - Octdas 1 514, "Session 3-18 - Octdas 1 514 - Drinks, Drunks and Doom"]
 ---
-Previous: [[Session 3-17]] | Next: [[Session 3-19 - Back Into the Dark Hole|Session 3-19]]
+Previous: [[Session 3-17 - Two Encampments and a Haunted Spirit|Session 3-17]] | Next: [[Session 3-19 - Back Into the Dark Hole|Session 3-19]]
 
 ## [[The Party]]
 - [[Sam Alderleaf|Sam]]

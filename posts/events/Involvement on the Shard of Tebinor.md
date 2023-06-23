@@ -56,17 +56,23 @@ This section shows the exploits of [[The Party]] in relation to the [[Vavian Cal
 ## [[Session 3-14 - The Trapped Lair|Session 3-14 - Sepdas 1 514: The Trapped Lair]]
 [[The Party]] were alarmed by [[Enphine]]'s report and decided to try and recruit the [[Lizardfolk]] to aid them against the [[Demon|Demons]]. They returned to [[Anorak Iron Mine]] and made their way down through the Poisonous Gas and overcame several traps before descending into the [[Tebinor Troglodyte Lair|Troglodyte Lair]] and slaying many [[Troglodyte|Troglodytes]].
 
-## [[Session 3-15 - The Jungle Bridge|Session 3-15 - Sepdas 2 514 - The Jungle Bridge]]
+## [[Session 3-15 - The Jungle Bridge|Session 3-15 - Sepdas 2 514: The Jungle Bridge]]
+[[The Party]] met [[Girard de Kosigan]] and [[Ru Eir Hydrus|Ru]] at [[Ebonwatch]] and got to know each other. They decided to head north to try and find the [[Runaway Slaves]]. They discovered a [[Grassroads|Huge Bridge]] running along the treetops in the jungle to the north. They rescued a [[Cricketmen|Cricketman]] from [[Griffon|Griffons]] on the bridge and communicated with him. They found a [[Termite Mound]] at the end of the bridge and engaged the [[Giant Termite|Giant Termites]], employing [[Gunpowder]] against them.
 
-## [[Session 3-16 - TODO]]
+## [[Session 3-16 - A Stone Hard Greeting|Session 3-16 - Sepdas 3 514: A Stone Hard Greeting]]
+[[The Party]] travelled back across the [[Grassroads]] to the [[Termite Mound]] and faced more [[Giant Termite|Termites]]. They discovered the entrance to another [[Plane]] without color, then explored inside. They found a talking statue which turned out to be some evil creatures, then turned the [[Tebinor Elves|Elves]] they found back from stone to flesh, not without a fight of course. They had a long talk with the [[Tebinor Elves|Elves]] and were invited to visit them at the [[Mythana|Elven Village]] in a week.
 
-## [[Session 3-17 - TODO]]
+## [[Session 3-17 - Two Encampments and a Haunted Spirit|Session 3-17 - Sepdas 4 514: Two Encampments and a Haunted Spirit]]
+[[The Party]] met the [[Tebinor Elves|Elven Elders]] of [[Mythana]] and were introduced to the village. They were given a quest to solve the corruption in the [[Heart of the Forest]] and travelled there. They met the [[Pixie|Pixies]], found a [[Sylvanus' Cabin|Cabin]] and discovered the hostility between the [[Tebinor Elves|Elves]] and [[Tebinor Dwarves|Dwarves]] within the forest. They visited the [[Dwarven Mining Camp]] and had a beer, then confronted [[Sylvanus]] at the [[Dwarven Mine]] before returning to [[Mythana]].
 
-## [[Session 3-18 - Drinks, Drunks and Doom|Session 3-18 - Octdas 1 514 - Drinks, Drunks and Doom]]
+## [[Session 3-18 - Drinks, Drunks and Doom|Session 3-18 - Octdas 1 514: Drinks, Drunks and Doom]]
 [[The Party]] returned to [[Mythana]] and had a drinking contest at the [[Dwarven Mining Camp]]. They sought for the source of corruption in the forest and found the [[Cave of Cleansing Waters]]. Inside they encountered a [[Giant Floating Pus Blob Monster]] which proved very though, especially when [[Aboouck]] exploded at a rather unfortunate moment. They closed a [[Portal]] and left to explore further later.
 
-## [[Session 3-19 - Back Into the Dark Hole|Session 3-19 - Octdas 2 514 - Back Into the Dark Hole]]
+## [[Session 3-19 - Back Into the Dark Hole|Session 3-19 - Octdas 2 514: Back Into the Dark Hole]]
 [[The Party]] returned to the [[Heart of the Forest]] and visited [[Mythana]] and the [[Dwarven Mining Camp]]. They returned to the [[Cave of Cleansing Waters]], spared the animals and confronted [[Sylvanus|Sylvanus' Spirit]] who told them to retrace his footsteps by following the lights. They found a [[Desecrated Altar]] and [[Banishment|Banished]] a [[Huge Gorilla-like Demon]].
 
-## [[Session 3-20 - Into the Dark Forest, with a Drip of Blood]]
+## [[Session 3-20 - Into the Dark Forest, with a Drip of Blood|Session 3-20 - Octdas 3 514: Into the Dark Forest]]
 [[The Party]] returned to the [[Heart of the Forest]] and visited [[Mythana]] on their way there. They followed the Lights into the [[Marrowgrove]] and located an open clearing. They fought a [[Harpy]] while some donated their blood while the roots of the grove bashed in on them. [[Horatio]] used a [[Bead of Force]] to escape the battle and regrouped with [[The Party]] at the [[Dwarven Mining Camp]]. As they arrived they noticed the [[Tebinor Dwarves|Dwarves]] lighted up magically, seemingly the next target of this magic.
+
+## [[Session 3-21 - Bones and Rooted Bodies|Session 3-21 - Octdas 4 514: Bones and Rooted Bodies]]
+After observing [[Aboouck]] and [[Exilian]] have a nice meal, [[The Party]] returned to the [[Marrowgrove]] and headed further in. They found a [[Burned-Out Tower]] and witnessed a vision from [[Sylvanus]], after which they ran for their lives. They crossed a [[Skeletal Bridge]] across a fuming stream chased by dangerous Beetles and faced the corpse of [[Sylvanus]], twisted by the corruption into an evil creature made of roots and defeated it.

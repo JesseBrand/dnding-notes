@@ -1,7 +1,7 @@
 ---
 aliases: Session 3-14, Sepdas 1, Sepdas 1 514, Session 3-14 - Sepdas 1 514, Session 3-14 - Sepdas 1 514 - The Trapped Lair
 ---
-Previous: [[Session 3-13 - Another Sir|Session 3-13]] | Next: [[Session 3-15 - The Jungle Bridge]] 
+Previous: [[Session 3-13 - Another Sir|Session 3-13]] | Next: [[Session 3-15 - The Jungle Bridge|Session 3-15]]
 
 [[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Horatio]], [[Paxton Umbra|Paxton]], [[Bill]], [[Enphine]] and [[Sir Dixon Fire|Sir Dixon]]:
 - met up in the inn, missing [[Horatio]], [[Enphine]] and [[Nuk]], when [[Paxton Umbra|Paxton]] told them that the body of a child was found somewhere outside town which looked as if his life essence was drained, the body looked shriveled; then reported it to [[Chamberlain Gerrard]];

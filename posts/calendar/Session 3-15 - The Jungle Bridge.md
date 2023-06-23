@@ -1,7 +1,7 @@
 ---
 aliases: Session 3-15, Sepdas 2, Sepdas 2 514, Session 3-15 - Sepdas 2 514, Session 3-15 - Sepdas 2 514 - The Jungle Bridge
 ---
-Previous: [[Session 3-14 - The Trapped Lair|Session 3-14]] | Next: [[Session 3-16]] 
+Previous: [[Session 3-14 - The Trapped Lair|Session 3-14]] | Next: [[Session 3-16 - A Stone Hard Greeting|Session 3-16]] 
 
 [[The Party]], consisting of [[Alaric]], [[Sam Alderleaf|Sam]], [[Castle-8]], [[Exilian]], [[Horatio]], [[Paxton Umbra|Paxton]], [[Enphine]], [[Sir Dixon Fire|Sir Dixon]], [[Girard de Kosigan|Girard]] and [[Ru Eir Hydrus|Ru]]:
 - met up in the the [[Black Barrel Inn|Inn]] when [[Sam Alderleaf|Sam]] and [[Sir Dixon Fire|Sir Dixon]] reported on their meeting with the [[Duke Oakfire|Duke]], about [[Demon Armies|Demons]] overrunning the [[Tebinor|Shard]] and that they could all be in real trouble being outnumbered, recommending the [[The Party|Party]] members focus their activities on preparing against this invasion;

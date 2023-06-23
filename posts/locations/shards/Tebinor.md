@@ -1,3 +1,6 @@
+---
+aliases: Shard
+---
 A frontier [[Shards|Shard]] claimed by the [[Vaviel Empire]] under leadership of [[Duke Oakfire]]. It is governed from the town of [[Ebonwatch]].
 
 ## [[Oakfire Plains]]

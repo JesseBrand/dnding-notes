@@ -3,6 +3,7 @@ The Heart of the Forest is a sacred forest located in [[Uranmel]] on the shard o
 Notable Landmarks:
 * [[Cave of Cleansing Waters]]
 * [[Dwarven Mine]]
+	* [[Dwarven Idol]]
 * [[Dwarven Mining Camp]]
 * [[Pixie Clearing]]
 * [[Sylvanus' Cabin]]

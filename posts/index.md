@@ -4,6 +4,7 @@ Some starting points you may be interested in:
 - [[The Party]] where all party members can be found.
 - [[Involvement on the Shard of Tebinor|Involved on the Shard of Tebinor]] containing the summaries of the current campaign.
 - [[Journey through the Underdark]] describes the story in the [[Underdark]] [[The Party]] went through before arriving on the Shard of [[Tebinor]].
+- [[Search for the Forge of Spells]]
 - [[Tebinor]], [[Ebonwatch]] and [[Black Barrel Inn]].
 
 Many pages may still be empty. The graph is being expanded on pretty much a day-to-day basis.

@@ -1,7 +1,7 @@
 ---
 aliases: Session 3-20, Octdas 3, Octdas 3 514, Session 3-20 - Octdas 3 514, Session 3-20 - Octdas 3 514 - Into the Dark Forest, with a Drip of Blood
 ---
-Previous: [[Session 3-19 - Back Into the Dark Hole|Session 3-19]] | Next: [[Session 3-21]]
+Previous: [[Session 3-19 - Back Into the Dark Hole|Session 3-19]] | Next: [[Session 3-21 - Bones and Rooted Bodies|Session 3-21]]
 
 ## [[The Party]]
 - [[Sam Alderleaf|Sam]]
