@@ -1,4 +1,4 @@
-Humans are a [[generic/races/Race]] of humanoids very common throughout the realms.
+Humans are a [[Race]] of humanoids very common throughout the realms.
 
 Some notable Humans in this Campaign:
 * [[John]]

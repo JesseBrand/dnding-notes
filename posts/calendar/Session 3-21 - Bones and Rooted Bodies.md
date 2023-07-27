@@ -1,7 +1,7 @@
 ---
 aliases: Session 3-21, Octdas 4, Octdas 4 514, Session 3-21 - Octdas 4 514, Session 3-21 - Octdas 4 514 - Bones and Rooted Bodies
 ---
-Previous: [[Session 3-20 - Into the Dark Forest, with a Drip of Blood|Session 3-20]] | Next: [[Session 3-22]]
+Previous: [[Session 3-20 - Into the Dark Forest, with a Drip of Blood|Session 3-20]] | Next: [[Session 3-22 - Two Funerals and no Wedding|Session 3-22]]
 
 ## [[The Party]]
 - [[Sam Alderleaf|Sam]]
