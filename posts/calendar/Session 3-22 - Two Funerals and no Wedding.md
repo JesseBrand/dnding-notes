@@ -1,7 +1,7 @@
 ---
 aliases: Session 3-22, Nendas 1, Nendas 1 514, Session 3-22 - Nendas 1 514, Session 3-22 - Nendas 1 514 - Two Funerals and no Wedding
 ---
-Previous: [[Session 3-21 - Bones and Rooted Bodies|Session 3-21]] | Next: [[Session 3-23]]
+Previous: [[Session 3-21 - Bones and Rooted Bodies|Session 3-21]] | Next: [[Session 3-23 - Confronted with Demonic Reality|Session 3-23]]
 
 ## [[The Party]]
 - [[Bill]]
@@ -63,6 +63,9 @@ As [[The Party]] carried [[Paxton Umbra|Paxton]]'s broken body outside, [[Enphin
 ### Loot & Rewards
 - [[Staff of Beekeeping]] ([[Sir Dixon Fire|Sir Dixon]])
 - Unopenable Dark Container ([[Enphine]]) 
+- [[Paxton Umbra|Paxton]]'s belongings ([[Sir Dixon Fire|Sir Dixon]])
+- [[Paxton Umbra|Paxton]]'s [[Demon Lore Book]] ([[Ru Eir Hydrus|Ru]])
+- [[Paxton Umbra|Paxton]]'s Gold (24g, 6s) ([[The Party]] present during [[Session 3-22 - Two Funerals and no Wedding|Session 3-22]])
 
 ### Effects & Repercussions
 - [[Sylvanus]]' body buried

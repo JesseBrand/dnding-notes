@@ -9,8 +9,8 @@ Previous: [[Session 3-9 - Manticore Assault|Session 3-9]] | Next: [[Session 3-11
 - had Horatio identify several items, sometimes for something in return;
 - were surprised when a fiery lady suddenly burst into the tavern, alarming everyone, introducing herself as Freya, and joining the party;
 - discussed what quest to undertake, with people being in favor of killing [[Troll|Trolls]] until [[Sam Alderleaf|Sam]] made them a better offer to help clear the stone [[Gamwater Quarry|Quarry]] to the east, which was supposedly infested by some vile creature;
-- left [[Ebonwatch]] where [[Aboouck]] showed his heavily modified [[Teddybear of the Warmage +1|teddybear-wand]] which he offered to the spellcasters, [[Nuk]] taking it but [[Bill]] being severely diappointed;
-- headed to [[Gamwater Quarry]] to the east, [[Nuk]] attuning with the [[Teddybear of the Warmage +1|puppet]] along the way;
+- left [[Ebonwatch]] where [[Aboouck]] showed his heavily modified [[Special Doll of the Warmage +1|teddybear-wand]] which he offered to the spellcasters, [[Nuk]] taking it but [[Bill]] being severely diappointed;
+- headed to [[Gamwater Quarry]] to the east, [[Nuk]] attuning with the [[Special Doll of the Warmage +1|puppet]] along the way;
 - reached the [[Gamwater Quarry|Quarry]] and were heeded by a female warrior identifying herself as [[Essephy]], warning the party about a blue [[Dragon]] making its lair in this quarry; [[Castle-8]] having no interest and continuing to walk down;
 - invited [[Essephy]] to join them and entered the [[Gamwater Quarry|Quarry]], exploring some corridors only to be beset upon by a brilliantly blue dragon named [[Nivrath]];
 - tried to reason with it before it decided to attack the party, using a high-pitched scream which heavily damaged the party and downed [[Enphine]];

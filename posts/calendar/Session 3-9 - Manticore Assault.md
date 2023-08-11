@@ -27,7 +27,7 @@ Previous: [[Session 3-8 - The Mutant|Session 3-8]] | Next: [[Session 3-10 - Quar
 - a [[Ring of Protection]]
 - a [[Ring of Evasion]]
 - a set of [[Sending Stones]]
-- a [[Teddybear of the Warmage +1]]
+- a [[Special Doll of the Warmage +1]]
 
 ### Effects & Repercussions
 -   The upper floor of [[Sootwall Observatory|Sootwall]] was left a mess in the [[Manticore]]'s wake
