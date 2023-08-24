@@ -2,7 +2,7 @@
 aliases: Session 3-23, Nendas 2, Nendas 2 514, Session 3-23 - Nendas 2 514, Session 3-23 - Nendas 2 514 - Confronted with Demonic Reality
 ---
 
-Previous: [[Session 3-22 - Two Funerals and no Wedding|Session 3-22]] | Next: [[Session 3-24]]
+Previous: [[Session 3-22 - Two Funerals and no Wedding|Session 3-22]] | Next: [[Session 3-24 - Mess with the Debt Collectors|Session 3-24]]
 ## [[The Party]]
 - [[Sam Alderleaf|Sam]]
 - [[Bill]]
