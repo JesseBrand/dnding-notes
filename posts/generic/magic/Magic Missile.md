@@ -1,1 +1,5 @@
+---
+aliases:
+  - Magic Missiles
+---
 #TODO

@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Frog Demon
+  - Giant Bees
 ---
-
 #TODO

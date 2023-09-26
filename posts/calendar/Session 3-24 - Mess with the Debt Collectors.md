@@ -2,11 +2,10 @@
 aliases: Session 3-24, Nendas 3, Nendas 3 514, Session 3-24 - Nendas 3 514, Session 3-24 - Nendas 3 514 - Mess with the Debt Collectors
 ---
 
-Previous: [[Session 3-23 - Confronted with Demonic Reality|Session 3-23]] | Next: [[Session 3-25]]
+Previous: [[Session 3-23 - Confronted with Demonic Reality|Session 3-23]] | Next: [[Session 3-25 - Bulls on Parade]]
 ## [[The Party]]
 - [[Bill]]
 - [[Sir Dixon Fire|Sir Dixon]]
-- [[Nuk]]
 - [[Ru Eir Hydrus|Ru]]
 - [[Enphine]]
 - [[Alaric]]

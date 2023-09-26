@@ -1,1 +1,6 @@
+---
+aliases:
+  - Goat Demons
+---
+
 #TODO
