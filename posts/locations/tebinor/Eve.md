@@ -1,0 +1,1 @@
+Eve was a [[Vavia|Vavian]] barmaid working for [[Florellius Patar]] in [[Black Barrel Inn]] in [[Ebonwatch]].
