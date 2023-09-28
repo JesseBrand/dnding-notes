@@ -1,0 +1,1 @@
+On of the [[Demonic Teddy Bear|Demonic Teddy Bears]], an [[Avatar of Slaughter]] was bound to [[Enphine]]'s [[Arcane Focus]] Crystal, infusing her with great power and fire resistance.

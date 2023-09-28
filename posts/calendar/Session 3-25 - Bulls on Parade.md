@@ -5,7 +5,7 @@ aliases:
   - Nendas 4
   - Nendas 4 514
 ---
-Previous: [[Session 3-24 - Mess with the Debt Collectors|Session 3-24]] | Next: [[Session 3-26]]
+Previous: [[Session 3-24 - Mess with the Debt Collectors|Session 3-24]] | Next: [[Session 3-26 - Extraction from the Shadows|Session 3-26]]
 ## [[The Party]]
 - [[Bill]]
 - [[Sir Dixon Fire|Sir Dixon]]
@@ -35,7 +35,7 @@ Three hideous [[Malformed Minotaur|Malformed Minotaurs]] came rushing out of the
 
 [[The Party]] succeeded with limited struggles and removed once against some demons from the shard making it a insignificant amount more peaceful.
 ## Angry Bears and Black Sacks
-[[Sir Dixon Fire|Sir Dixon]] tried to cut off some of the horns with his scimitar, to which [[Paxton Umbra|Paxton]] said it wasn't useful. [[Sir Dixon Fire|Sir Dixon]] replied with "Shut the hell up", ever grumpy as he was. [[Paxton Umbra|Paxton]] was a lot more insightful though and noticed that the energy of the [[Demon|Demons]] could be harvested and transferred into items. [[Aboouck]] suggested to try it out on one of the stuffed animals he was carrying around. The effect of this experiment was that the [[Sentient Teddy Bear]] came alive, rather pesky and moody due to the energy obtained from demonic presence. Encouraged greatly by seeing the success, [[Aboouck]] mentioned he had more stuffed animals. Before anyone could provide helpful insights, the essences of the other two [[Demon|Demons]] were transferred into two additional [[Sentient Teddy Bear|Sentient Teddy Bears]].
+[[Sir Dixon Fire|Sir Dixon]] tried to cut off some of the horns with his scimitar, to which [[Paxton Umbra|Paxton]] said it wasn't useful. [[Sir Dixon Fire|Sir Dixon]] replied with "Shut the hell up", ever grumpy as he was. [[Paxton Umbra|Paxton]] was a lot more insightful though and noticed that the energy of the [[Demon|Demons]] could be harvested and transferred into items. [[Aboouck]] suggested to try it out on one of the stuffed animals he was carrying around. The effect of this experiment was that the [[Demonic Teddy Bear]] came alive, rather pesky and moody due to the energy obtained from demonic presence. Encouraged greatly by seeing the success, [[Aboouck]] mentioned he had more stuffed animals. Before anyone could provide helpful insights, the essences of the other two [[Demon|Demons]] were transferred into two additional [[Demonic Teddy Bear|Sentient Teddy Bears]].
 
 The presence of the demonic items sparked [[Enphine]]'s intellect. She remembered she was carrying a black bag found at the [[Shadow Monster]] earlier. She mentioned that she had this checked out by the [[Gnome|Gnomes]] and that they were unable to open it up and said it was held by some strong magic. She did tell the [[Gnome|Gnomes]] indicated it could be worth a pretty penny.
 ## Shadow-Touched
@@ -45,6 +45,6 @@ Immediately [[Sir Dixon Fire|Sir Dixon]] was pulled out by [[Bill]] who had an e
 ## On the Retreat
 The whole [[The Party|Party]] managed to get away without too much damage. On their way back they saw that the [[Darkness]] had spread even further, trying to close them in, but they retreated just in time.
 ### Loot & Rewards
-- 3 [[Sentient Teddy Bear|Sentient Teddy Bears]] ([[Paxton Umbra|Paxton]])
+- 3 [[Demonic Teddy Bear|Sentient Teddy Bears]] ([[Paxton Umbra|Paxton]])
 ### Effects & Repercussions
 - The [[Shadow|Shadows]] spread further throughout the forest

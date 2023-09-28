@@ -1,0 +1,1 @@
+One of the [[Demonic Teddy Bear|Demonic Teddy Bears]], an [[Avatar of Slaughter]] was bound to [[Paxton Umbra]]'s chest, giving him [[Demon|Demonic]] powers.

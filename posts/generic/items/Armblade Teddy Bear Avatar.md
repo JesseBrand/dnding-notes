@@ -1,0 +1,1 @@
+On of the [[Demonic Teddy Bear|Demonic Teddy Bears]], an [[Avatar of Slaughter]] was bound to [[Castle-8]]'s [[Armblade]], infusing it with great power.

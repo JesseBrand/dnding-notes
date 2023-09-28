@@ -7,7 +7,6 @@ After finding the [[Forge of Spells]], the party was captured by [[Drow]] and ta
 After fleeing the [[Underdark]], the party found themselves on the shard of [[Tebinor]], and started their [[Involvement on the Shard of Tebinor]].
 
 #### Current Whereabouts
-
 The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shard of [[Tebinor]].
 
 ## Current Party Members
@@ -19,13 +18,12 @@ The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shar
 * [[Nuk]]
 * [[Aboouck]]
 * [[Bill]]
-* [[Bavon]]
 * [[Paxton Umbra]]
 * [[Enphine]]
-* [[Freya]]
 * [[Sir Dixon Fire]]
 * [[Ru Eir Hydrus]]
 * [[Girard de Kosigan]]
+* [[Layden Fantail]]
 
  
 ### Companions
@@ -34,7 +32,8 @@ The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shar
 ### Former Party Members
 #### Alive
 * [[John]] the Druid has been with the party a long time. After escaping the [[Underdark]], he sank into a depressive mood and has since been drinking vodka in [[Black Barrel Inn]].
-* [[Navani]] has pretty much retired in [[Black Barrel Inn]].
+* [[Navani]] has pretty much retired in [[Black Barrel Inn]] and is racking up a formidable tab there.
+* [[Freya]] has pretty much retired in [[Black Barrel Inn]] and is racking up a formidable tab there.
 #### Dead
 * [[Hera]] was assassinated by the [[Redbrand Ruffians]] in [[Phandalin]].
 * [[Therai]] #TODO
@@ -52,7 +51,7 @@ The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shar
 * [[Teezee]] was still down in the [[Whorlstone Tunnels]] as they exploded and was not seen after.
 * [[Buttercup]] was still down in the [[Whorlstone Tunnels]] as they exploded and was not seen after.
 * [[Shank]] was regularly missing, but was not seen after the explosion of the [[Whorlstone Tunnels]].
-
+* [[Bavon]] was put in the employ of [[Sir Dozak the Magnificent|Sir Dozak]] at the [[Elven Ruin in the Royal Woodlands|Elven Ruin]] 
 ### Former NPC Companions
 #### Alive
 * [[Sarith]] accompanied the party on their flight out of the [[Underdark]]. He currently resides in [[Black Barrel Inn]] in [[Ebonwatch]].
