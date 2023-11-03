@@ -5,8 +5,7 @@ aliases:
   - Mendas 1
   - Session 3-26 - Mendas 1 514 - Extraction from the Shadows
 ---
----
-Previous: [[Session 3-25 - Bulls on Parade|Session 3-25]] | Next: [[Session 3-27]]
+Previous: [[Session 3-25 - Bulls on Parade|Session 3-25]] | Next: [[Session 3-27 - Corruption From Within|Session 3-27]]
 ## [[The Party]]
 - [[Sam Alderleaf]]
 - [[Castle-8]]

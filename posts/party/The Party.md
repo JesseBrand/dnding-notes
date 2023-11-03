@@ -24,6 +24,7 @@ The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shar
 * [[Ru Eir Hydrus]]
 * [[Girard de Kosigan]]
 * [[Layden Fantail]]
+* [[Lynel]]
 
  
 ### Companions
