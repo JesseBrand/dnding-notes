@@ -1,4 +1,6 @@
 ---
-aliases: Elven Ruin
+aliases:
+  - Elven Ruin
+  - Ruin
 ---
 #TODO

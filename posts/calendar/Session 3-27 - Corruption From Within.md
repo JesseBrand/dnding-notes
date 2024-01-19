@@ -4,7 +4,7 @@ aliases:
   - Mendas 2 514
   - Session 3-27 - Mendas 2 514 - Corruption From Within
 ---
-Previous: [[Session 3-26 - Extraction from the Shadows|Session 3-26]] | Next: [[Session 3-28]]
+Previous: [[Session 3-26 - Extraction from the Shadows|Session 3-26]] | Next: [[Session 3-28 - Demons in the Shadows|Session 3-28]]
 ## [[The Party]]
 - [[Alaric]]
 - [[Castle-8]]
@@ -50,6 +50,7 @@ Not long after [[The Party]] turned to the last remaining enemy on this plane of
 - [[Adamantine Golem]] Sword
 - [[Scotia Hammerarm|Scotia]]'s Arm Hammer
 - [[Adamantine]] Battleaxe
+- [[Corrupted Heart]]
 ### Effects & Repercussions
 - The [[Heart of the Forest]] was restored to life
 - [[Sir Dixon Fire|Sir Dixon]] seemed to slowly recover along with the forest.

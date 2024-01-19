@@ -1,3 +1,7 @@
+---
+aliases:
+  - Spell
+---
 A Spell is a manifestation of magical power, brought forth by an incantation or innate ability. Many Spellcasters, such as [[Wizard|Wizards]], [[Sorcerer|Sorcerers]], [[Warlock|Warlocks]], [[Cleric|Clerics]] and [[Bard]] employ a variety of direct-damage, concentration, buff, debuff and utility Spells.
 
 Spells are divided into levels, denoting an increase in power and spell slot usage.
