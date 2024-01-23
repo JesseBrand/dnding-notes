@@ -300,6 +300,7 @@ main {
 
 .markdown-rendered div > h1:first-of-type {
   font-size: 2.5em;
+  line-height: 0.8;
 }
 
 .theme-dnd .markdown-rendered h1:not(:first-of-type) + p::first-letter,
