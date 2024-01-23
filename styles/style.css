@@ -298,7 +298,11 @@ main {
   font-weight: 800;
 }
 
-.theme-dnd .markdown-rendered h1 + p::first-letter,
+.markdown-rendered div > h1:first-of-type {
+  font-size: 2.5em;
+}
+
+.theme-dnd .markdown-rendered h1:not(:first-of-type) + p::first-letter,
 .theme-dnd .markdown-rendered h2 + p::first-letter {
   float: left;
   font-family: Solberry;
