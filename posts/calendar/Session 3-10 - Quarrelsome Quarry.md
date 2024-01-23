@@ -3,7 +3,16 @@ aliases: Session 3-10, Sidas 1, Sidas 1 514, Session 3-10 - Sidas 1 514, Session
 ---
 Previous: [[Session 3-9 - Manticore Assault|Session 3-9]] | Next: [[Session 3-11 - Prove Your Worth|Session 3-11]]
 
-[[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Drathuul]], [[Nuk]], [[Aboouck]], [[Paxton Umbra|Paxton]], [[Enphine]] and [[Freya]]:
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf|Sam]] 
+> - [[Castle-8]] 
+> - [[Drathuul]] 
+> - [[Nuk]] 
+> - [[Aboouck]] 
+> - [[Paxton Umbra|Paxton]] 
+> - [[Enphine]]
+> - [[Freya]]
 
 - noticed a somewhat irritated [[Florellius Patar|Florellius]] watching the drink consumption of patrons closely after hearing [[Bavon]] made a mess of things last night and was now in the [[Ebonwatch Jail|Duke's jail]];
 - had Horatio identify several items, sometimes for something in return;
@@ -29,13 +38,13 @@ Previous: [[Session 3-9 - Manticore Assault|Session 3-9]] | Next: [[Session 3-11
 - were helped back up by the [[Dragon|Dragons]] who were very thankful for their effort and expressed their condolences for [[Drathuul]]'s death; they offered to help his essence, being one of their kin, to return to the world;
 - were granted a [[Dragon's Wrath Glaive]] as a reward, left [[Drathuul]]'s body and belongings with [[Essephy]] and [[Nivrath]] and returned to [[Ebonwatch]], knowing the [[Gamwater Quarry|Quarry]] was open for production once more;
 
-### Loot & Rewards
+> ### Loot & Rewards
+> 
+> - An [[Ioun Stone#Insight|Ioun Stone of Insight]]
+> - A [[Dragon's Wrath Glaive]]
 
-- An [[Ioun Stone#Insight|Ioun Stone of Insight]]
-- A [[Dragon's Wrath Glaive]]
-
-### Effects & Repercussions
-
-- [[Drathuul]] was annihilated by a [[Shadow Beholder]]
-- An agreement was struck with the [[Dragon|Dragons]] inhabiting [[Gamwater Quarry]]
-- [[Gamwater Quarry]] became available as a location
+> ### Effects & Repercussions
+> 
+> - [[Drathuul]] was annihilated by a [[Shadow Beholder]]
+> - An agreement was struck with the [[Dragon|Dragons]] inhabiting [[Gamwater Quarry]]
+> - [[Gamwater Quarry]] became available as a location

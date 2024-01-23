@@ -3,15 +3,17 @@ aliases: Session 3-23, Nendas 2, Nendas 2 514, Session 3-23 - Nendas 2 514, Sess
 ---
 
 Previous: [[Session 3-22 - Two Funerals and no Wedding|Session 3-22]] | Next: [[Session 3-24 - Mess with the Debt Collectors|Session 3-24]]
-## [[The Party]]
-- [[Sam Alderleaf|Sam]]
-- [[Bill]]
-- [[Sir Dixon Fire|Sir Dixon]]
-- [[Nuk]]
-- [[Enphine]]
-- [[Alaric]]
-- [[Castle-8]]
-- [[Horatio]]
+
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf|Sam]]
+> - [[Bill]]
+> - [[Sir Dixon Fire|Sir Dixon]]
+> - [[Nuk]]
+> - [[Enphine]]
+> - [[Alaric]]
+> - [[Castle-8]]
+> - [[Horatio]]
 
 # Making an Oath
 The day started off where most of [[The Party]] was present inside the [[Black Barrel Inn|Inn]]. [[Sir Dixon Fire|Sir Dixon]] walked up to [[Castle-8]] to ask him if he had heard of [[Paxton Umbra|Paxton]]'s demise. [[Castle-8]] acknowledged, [[Sir Dixon Fire|Sir Dixon]] then showed him the [[Dragon's Wrath Glaive|Glaive]], on which [[Chamberlain Gerrard]] replied that that would be a great [[Dragon's Wrath Glaive|Glaive]] to cut off some [[Troll]] heads. [[Sir Dixon Fire|Sir Dixon]] asked if [[Castle-8]] would want to continue [[Paxton Umbra|Paxton]]'s legacy of hunting [[Demon|Demons]] using this [[Dragon's Wrath Glaive|Glaive]] to which [[Castle-8]] agreed.
@@ -60,10 +62,12 @@ With the cavern closed there was only one huge [[Demon]] remaining. Surrounded b
 
 Close to defeat [[The Party]] retreated into the forest and moved to the [[Mythana]], leaving the [[Demon]] rampaging throughout the surroundings. Once there they healed [[Alaric]] back up.
 
-### Loot & Rewards
-- [[Paxton Umbra|Paxton]]'s Longsword & Shield ([[Sam Alderleaf|Sam]])
-- Nothing from the combat with the [[Demon|Demons]]
+> ### Loot & Rewards
+> 
+> - [[Paxton Umbra|Paxton]]'s Longsword & Shield ([[Sam Alderleaf|Sam]])
+> - Nothing from the combat with the [[Demon|Demons]]
 
-### Effects & Repercussions
-- [[The Party]] was even more concerned with the threat the [[Demon|Demons]] posed to the [[Tebinor|Shard]]
-- A huge [[Demon]] was left to roam and ravage the forest near [[Mythana]]
+> ### Effects & Repercussions
+> 
+> - [[The Party]] was even more concerned with the threat the [[Demon|Demons]] posed to the [[Tebinor|Shard]]
+> - A huge [[Demon]] was left to roam and ravage the forest near [[Mythana]]

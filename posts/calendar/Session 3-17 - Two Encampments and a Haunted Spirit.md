@@ -3,14 +3,15 @@ aliases: [Session 3-17, Sepdas 4, Sepdas 4 514, Session 3-17 - Sepdas 4 514, "Se
 ---
 Previous: [[Session 3-16 - A Stone Hard Greeting|Session 3-16]] | Next: [[Session 3-18 - Drinks, Drunks and Doom|Session 3-18]]
 
-## [[The Party]]
-- [[Sam Alderleaf|Sam]]
-- [[Horatio]]
-- [[Bill]]
-- [[Enphine]]
-- [[Sir Dixon Fire|Sir Dixon]]
-- [[Castle-8]]
-- [[Ru Eir Hydrus|Ru]]
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf|Sam]]
+> - [[Horatio]]
+> - [[Bill]]
+> - [[Enphine]]
+> - [[Sir Dixon Fire|Sir Dixon]]
+> - [[Castle-8]]
+> - [[Ru Eir Hydrus|Ru]]
 
 # Small Business to settle of last time
 When [[The Party]] opened up the [[Portable Hole]] for the first time, they found 100 gold in there, along with a [[Tankard of Sobriety|Tankard]] and a [[Dread Helmet|Helmet]] which would make your eyes glow red.
@@ -97,11 +98,13 @@ Making their way back to [[Mythana]], the [[Tebinor Elves|Elves]] were surprised
 
 [[The Party]] returned to [[Ebonwatch]] to rest, except for [[Enphine]] and [[Sir Dixon Fire|Sir Dixon]].
 
-# Loot & Rewards
-- The Gold stash, [[Dread Helmet]] and [[Tankard of Sobriety]] from within the [[Portable Hole]]
-- [[Sylvanus' Diary]]
+> # Loot & Rewards
+> 
+> - The Gold stash, [[Dread Helmet]] and [[Tankard of Sobriety]] from within the [[Portable Hole]]
+> - [[Sylvanus' Diary]]
 
-# Effects & Repercussions
-- [[Mythana]] was discovered and [[Enphine]] and [[Sir Dixon Fire|Sir Dixon]] were granted permission to stay there. The [[Tebinor Elves|Elves]] tolerated [[The Party]], for now.
-- [[Sylvanus]]' condition and the threat to the [[Heart of the Forest]] became clear.
-- The [[Dwarven Mining Camp]] within the [[Heart of the Forest]] was discovered.
+> # Effects & Repercussions
+> 
+> - [[Mythana]] was discovered and [[Enphine]] and [[Sir Dixon Fire|Sir Dixon]] were granted permission to stay there. The [[Tebinor Elves|Elves]] tolerated [[The Party]], for now.
+> - [[Sylvanus]]' condition and the threat to the [[Heart of the Forest]] became clear.
+> - The [[Dwarven Mining Camp]] within the [[Heart of the Forest]] was discovered.

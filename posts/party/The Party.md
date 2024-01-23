@@ -36,15 +36,15 @@ The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shar
 * [[Navani]] has pretty much retired in [[Black Barrel Inn]] and is racking up a formidable tab there.
 * [[Freya]] has pretty much retired in [[Black Barrel Inn]] and is racking up a formidable tab there.
 #### Dead
-* [[Hera]] was assassinated by the [[Redbrand Ruffians]] in [[Phandalin]].
-* [[Therai]] #TODO
-* [[Zatarra]] was killed by the [[Redbrand Ruffians]] in the [[Redbrand Hideout]] in [[Phandalin]].
-* [[Lynxakasendalor Ghesh]] was killed by [[Zombie|Zombies]] in [[Wave Echo Cave]].
-* [[Orsik]] was killed by [[Zombie|Zombies]] in [[Wave Echo Cave]].
-* [[Morthos]] was killed by an [[Ochre Jelly]] while scouting ahead in [[Wave Echo Cave]].
-* [[Salazar]] was killed during [[The Breakout of Velkynvelve]].
-* [[Jacob]] was pulled underwater by [[Merrow]] while travelling over the [[Darklake]].
-* [[Drathuul]] was killed by a [[Shadow Beholder]] under [[Gamwater Quarry]].
+* ![dead](/images/dead20.png) [[Hera]] was assassinated by the [[Redbrand Ruffians]] in [[Phandalin]].
+* ![dead](/images/dead20.png) [[Therai]] #TODO
+* ![dead](/images/dead20.png) [[Zatarra]] was killed by the [[Redbrand Ruffians]] in the [[Redbrand Hideout]] in [[Phandalin]].
+* ![dead](/images/dead20.png) [[Lynxakasendalor Ghesh]] was killed by [[Zombie|Zombies]] in [[Wave Echo Cave]].
+* ![dead](/images/dead20.png) [[Orsik]] was killed by [[Zombie|Zombies]] in [[Wave Echo Cave]].
+* ![dead](/images/dead20.png) [[Morthos]] was killed by an [[Ochre Jelly]] while scouting ahead in [[Wave Echo Cave]].
+* ![dead](/images/dead20.png) [[Salazar]] was killed during [[The Breakout of Velkynvelve]].
+* ![dead](/images/dead20.png) [[Jacob]] was pulled underwater by [[Merrow]] while travelling over the [[Darklake]].
+* ![dead](/images/dead20.png) [[Drathuul]] was killed by a [[Shadow Beholder]] under [[Gamwater Quarry]].
 #### Unknown
 * [[Thorin]] was with the party when they were captured by [[Drow]] in [[Wave Echo Cave]], but was not taken to [[Velkynvelve]]
 * [[Vheidin]] #TODO
@@ -58,15 +58,15 @@ The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shar
 * [[Sarith]] accompanied the party on their flight out of the [[Underdark]]. He currently resides in [[Black Barrel Inn]] in [[Ebonwatch]].
 * [[Firestarter]] remained behind in [[Gracklstugh]] with his father, [[Themberchaud]].
 #### Dead
-* [[Jimjar]] died during [[The Breakout of Velkynvelve]].
-* [[Derendil]] was killed during the night while sleeping in the [[Underdark]].
-* [[Buppido]] was killed by the party after going [[Madness|Mad]] within the [[Whorlstone Tunnels]]
-* [[Turvy]] died during [[The Breakout of Velkynvelve]]
-* [[Shuushar the Awakened]] went [[Madness|Mad]] in [[Sloobludop]] and perished as the village was destroyed soon after.
-* [[Stool]] was blown off the [[Silken Paths]] by a thunderwave by [[Buttercup]].
-* [[Eldeth Feldrun]] #TODO
-* [[Ront]] #TODO
-* [[Rumpadump]] escaped the [[Underdark]] along with the party, but died as [[John]] failed miserably trying to bring him down a steep slope shortly after.
+* ![dead](/images/dead20.png) [[Jimjar]] died during [[The Breakout of Velkynvelve]].
+* ![dead](/images/dead20.png) [[Derendil]] was killed during the night while sleeping in the [[Underdark]].
+* ![dead](/images/dead20.png) [[Buppido]] was killed by the party after going [[Madness|Mad]] within the [[Whorlstone Tunnels]]
+* ![dead](/images/dead20.png) [[Turvy]] died during [[The Breakout of Velkynvelve]]
+* ![dead](/images/dead20.png) [[Shuushar the Awakened]] went [[Madness|Mad]] in [[Sloobludop]] and perished as the village was destroyed soon after.
+* ![dead](/images/dead20.png) [[Stool]] was blown off the [[Silken Paths]] by a thunderwave by [[Buttercup]].
+* ![dead](/images/dead20.png) [[Eldeth Feldrun]] #TODO
+* ![dead](/images/dead20.png) [[Ront]] #TODO
+* ![dead](/images/dead20.png) [[Rumpadump]] escaped the [[Underdark]] along with the party, but died as [[John]] failed miserably trying to bring him down a steep slope shortly after.
 #### Unknown
 * [[Gundren Rockseeker]] was still outside [[Wave Echo Cave]] when the party was captured by [[Drow]].
 * [[Nundro Rockseeker]] was still outside [[Wave Echo Cave]] when the party was captured by [[Drow]].

@@ -3,17 +3,18 @@ aliases: Session 3-21, Octdas 4, Octdas 4 514, Session 3-21 - Octdas 4 514, Sess
 ---
 Previous: [[Session 3-20 - Into the Dark Forest, with a Drip of Blood|Session 3-20]] | Next: [[Session 3-22 - Two Funerals and no Wedding|Session 3-22]]
 
-## [[The Party]]
-- [[Sam Alderleaf|Sam]]
-- [[Bill]]
-- [[Sir Dixon Fire|Sir Dixon]]
-- [[Ru Eir Hydrus|Ru]]
-- [[Paxton Umbra|Paxton]]
-- [[Aboouck]]
-- [[Enphine]]
-- [[Castle-8]]
-- [[Exilian]]
-- [[Alaric]]
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf|Sam]]
+> - [[Bill]]
+> - [[Sir Dixon Fire|Sir Dixon]]
+> - [[Ru Eir Hydrus|Ru]]
+> - [[Paxton Umbra|Paxton]]
+> - [[Aboouck]]
+> - [[Enphine]]
+> - [[Castle-8]]
+> - [[Exilian]]
+> - [[Alaric]]
 
 # Mystery Egg
 The morning started off with a fresh cooked meal by [[Aboouck]], he was sharing this meal with [[Exilian]]. The fried egg was well-prepared and smelled pretty pleasant. As soon as the two started digging into the meal they both became a little bit drowsy and wary. [[Aboouck]] was knocked over hitting the table on his way down and suffered quite some damage in doing so. [[Exilian]] seemed to get the better part of the meal and suddenly gained some strength, the protein seemed to have done him good. 
@@ -79,9 +80,11 @@ After all were across, [[Sir Dixon Fire|Sir Dixon]] fixed up [[Enphine]], [[Exil
 
 [[The Party]] lifted the body onto [[Sir Dixon Fire|Sir Dixon]] who had changed into a [[Bear#Brown Bear|Bear Form]] once more in order to transport it back to [[Mythana]]. The corruption seemed to be waning from the forest.
 
-### Loot & Rewards
- - Torn up Elven Cape
+> ### Loot & Rewards
+> 
+>  - Torn up Elven Cape
  
-### Effects & Repercussions
- - The Corruption in the [[Marrowgrove]] seemed to be waning
- - [[Sylvanus]]' body was recovered and returned to [[Mythana]]
+> ### Effects & Repercussions
+> 
+>  - The Corruption in the [[Marrowgrove]] seemed to be waning
+>  - [[Sylvanus]]' body was recovered and returned to [[Mythana]]

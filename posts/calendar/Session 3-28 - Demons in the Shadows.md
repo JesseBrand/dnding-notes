@@ -1,16 +1,20 @@
 ---
 aliases: Session 3-28, Mendas 3 514, Session 3-28 - Mendas 3 514 - Demons In The Shadows
 ---
+
 Previous: [[Session 3-27 - Corruption From Within|Session 3-27]] | Next: [[Session 3-29 - This Water Tastes Fishy|Session 3-29]]
-## [[The Party]]
-- [[Castle-8]]
-- [[Horatio]]
-- [[Bill]]
-- [[Enphine]]
-- [[Paxton Umbra|Paxton]]
-- [[Sir Dixon Fire|Sir Dixon]]
-- [[Ru Eir Hydrus|Ru]]
-- [[Lynel]]
+
+> ## [[The Party]]
+> 
+> - [[Castle-8]]
+> - [[Horatio]]
+> - [[Bill]]
+> - [[Enphine]]
+> - [[Paxton Umbra|Paxton]]
+> - [[Sir Dixon Fire|Sir Dixon]]
+> - [[Ru Eir Hydrus|Ru]]
+> - [[Lynel]]
+
 ## Peace and Quiet... Finally
 When looking into the [[Black Barrel Inn|Inn]], one thing was noticeable, [[Sir Dixon Fire|Sir Dixon]] shouting in frustration towards [[Sam Alderleaf|Sam]] about her taking all of his coin in a game of dice. Not long afterwards [[Sir Dixon Fire|Sir Dixon]] asked [[Sam Alderleaf|Sam]] if she could [[Fly]] the [[Corrupted Heart]] from last week's adventure away and throw it off the edge of the [[Tebinor|Shard]].
 
@@ -50,12 +54,16 @@ After slaying them all and undoing them of their loincloths the [[Shadow|Shadows
 [[The Party]] came upon a huge wall of [[Shadow]] deep inside the cave. As they studied it a [[Shadow Giant|Giant Shadow]] stepped out of the wall of [[Shadow|Shadows]]. The party was scared as hell, so scary [[Sir Dixon Fire|Sir Dixon]] shat his pants, dropped his weapon and ran off out of the cave. [[Castle-8]]'s aura inspired heroism into most of the others, preventing them from running off like [[Sir Dixon Fire|Sir Dixon]].  Several more [[Shadow]] emerged from the wall, joining the fight. [[Horatio]] tried to grease up this little piggy, which [[Enphine]] set on fire. [[Lynel]] was radiating an aura of light, preventing any serious injuries. [[Horatio]] was blasting groovy tunes with his boombox. [[Paxton Umbra|Paxton]] was on a roll this adventure. Where he would normally miss most of his attacks, he was beating the shit out of the [[Shadow|Shadows]] just like he was at the [[Demon|Demons]] with his mighty [[Dragon's Wrath Glaive|Glaive]].
 ## Claustrophobia
 After [[The Party]] killed the [[Shadow Giant]] and looted its armor and weapon the [[Shadow]] surrounding them started closing in on them. [[Bill]] rushed to grab [[Sir Dixon Fire|Sir Dixon]]'s [[Staff of Beekeeping|Staff]] as they moved out. [[The Party]] rushed through the pass, out of the [[Shadow|Shadows]] as they were closing in more and more and barely made it out in time.
-### Loot & Rewards
-- +1 arcane focus gemstone ([[Sir Dixon Fire|Sir Dixon]])
-- [[Giant Shadow Half Plate]] Armor
-- [[Giant Quarterstaff]]
-- 2 magic horns from [[Demon Spellcaster]]
-- 2 [[Minotaur]] horns ([[Sir Dixon Fire|Sir Dixon]])
-### Effects & Repercussions
- * The last of the runaway [[Demon|Demons]] were fully removed from the forest for the time being.
- * End of Act 2
+
+> ### Loot & Rewards
+> 
+> - +1 arcane focus gemstone ([[Sir Dixon Fire|Sir Dixon]])
+> - [[Giant Shadow Half Plate]] Armor
+> - [[Giant Quarterstaff]]
+> - 2 magic horns from [[Demon Spellcaster]]
+> - 2 [[Minotaur]] horns ([[Sir Dixon Fire|Sir Dixon]])
+
+> ### Effects & Repercussions
+> 
+> - The last of the runaway [[Demon|Demons]] were fully removed from the forest for the time being.
+> - End of Act 2

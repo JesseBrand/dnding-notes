@@ -3,7 +3,19 @@ aliases: Session 3-15, Sepdas 2, Sepdas 2 514, Session 3-15 - Sepdas 2 514, Sess
 ---
 Previous: [[Session 3-14 - The Trapped Lair|Session 3-14]] | Next: [[Session 3-16 - A Stone Hard Greeting|Session 3-16]] 
 
-[[The Party]], consisting of [[Alaric]], [[Sam Alderleaf|Sam]], [[Castle-8]], [[Exilian]], [[Horatio]], [[Paxton Umbra|Paxton]], [[Enphine]], [[Sir Dixon Fire|Sir Dixon]], [[Girard de Kosigan|Girard]] and [[Ru Eir Hydrus|Ru]]:
+> ## [[The Party]]
+> 
+> - [[Alaric]] 
+> - [[Sam Alderleaf|Sam]] 
+> - [[Castle-8]] 
+> - [[Exilian]] 
+> - [[Horatio]] 
+> - [[Paxton Umbra|Paxton]] 
+> - [[Enphine]] 
+> - [[Sir Dixon Fire|Sir Dixon]] 
+> - [[Girard de Kosigan|Girard]]
+> - [[Ru Eir Hydrus|Ru]]
+
 - met up in the the [[Black Barrel Inn|Inn]] when [[Sam Alderleaf|Sam]] and [[Sir Dixon Fire|Sir Dixon]] reported on their meeting with the [[Duke Oakfire|Duke]], about [[Demon Armies|Demons]] overrunning the [[Tebinor|Shard]] and that they could all be in real trouble being outnumbered, recommending the [[The Party|Party]] members focus their activities on preparing against this invasion;
 - were disturbed by a rumble and shouting [[Vavian Soldiers|Guards]] outside the tavern, having [[Sir Dixon Fire|Sir Dixon]], [[Sam Alderleaf|Sam]], [[Enphine]], [[Horatio]] and [[Alaric]] go outside to check it out;
 - noticed a [[Ru Eir Hydrus|creature/person]] outside of the gate with a [[Ru's Mask|Mask]] on, claiming he is unable to remove it, [[Sir Dixon Fire|Sir Dixon]] vaguely recognising the voice and asking him about it, then being recognised himself for his involvement on [[Asholas]] along with [[Sir Dozak the Magnificent|Sir Dozak]];
@@ -33,9 +45,11 @@ Previous: [[Session 3-14 - The Trapped Lair|Session 3-14]] | Next: [[Session 3-1
 - looked around the place to investigate if the [[Runaway Slaves]] had come past it, and noticed trails leading into the [[Termite Mound|Mound]];
 - had Sir Dixon activate [[Detect Magic]] and noticed there was a magic barrier inside the cave, then headed back to [[Ebonwatch]] to return another day;
 
-### Loot & Rewards
-- none
+> ### Loot & Rewards
+> 
+> - none
 
-### Effects & Repercussions
-- [[The Party]] was made aware of the dire situation surrounding the [[Demon Armies|Demon Invasion]]
-- News of the [[Grassroads|Long Bridge]] in the [[Royal Woodlands]] made its way back to [[Ebonwatch]]
+> ### Effects & Repercussions
+> 
+> - [[The Party]] was made aware of the dire situation surrounding the [[Demon Armies|Demon Invasion]]
+> - News of the [[Grassroads|Long Bridge]] in the [[Royal Woodlands]] made its way back to [[Ebonwatch]]

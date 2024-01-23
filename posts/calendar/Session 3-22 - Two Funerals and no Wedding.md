@@ -3,15 +3,16 @@ aliases: Session 3-22, Nendas 1, Nendas 1 514, Session 3-22 - Nendas 1 514, Sess
 ---
 Previous: [[Session 3-21 - Bones and Rooted Bodies|Session 3-21]] | Next: [[Session 3-23 - Confronted with Demonic Reality|Session 3-23]]
 
-## [[The Party]]
-- [[Bill]]
-- [[Sir Dixon Fire|Sir Dixon]]
-- [[Ru Eir Hydrus|Ru]]
-- [[Paxton Umbra|Paxton]]
-- [[Aboouck]]
-- [[Enphine]]
-- [[Exilian]]
-- [[Alaric]]
+> ## [[The Party]]
+> 
+> - [[Bill]]
+> - [[Sir Dixon Fire|Sir Dixon]]
+> - [[Ru Eir Hydrus|Ru]]
+> - [[Paxton Umbra|Paxton]]
+> - [[Aboouck]]
+> - [[Enphine]]
+> - [[Exilian]]
+> - [[Alaric]]
 
 # Return to the Ground
 At the end of the previous adventure a funeral was held for [[Sylvanus]], of [[The Party]] the following members were present: [[Bill]], [[Sir Dixon Fire|Sir Dixon]], [[Sam Alderleaf|Sam]], [[Enphine]], [[Paxton Umbra|Paxton]], [[Aboouck]] and [[Ru Eir Hydrus|Ru]].
@@ -60,14 +61,16 @@ As the monster was killed the dust settled and the real damage to the world beca
 # A Hasty Retreat
 As [[The Party]] carried [[Paxton Umbra|Paxton]]'s broken body outside, [[Enphine]] noticed a container of shadowy material left behind by the [[Shadow Monster]] which she picked up. As she studied it [[The Party]] became aware of the danger they were still in and hurried back to the entrance. On their way back they noticed more and more increasingly dangerous looking [[Shadow Monster|Shadow Monsters]] in the patches of [[Darkness]]. They increased their step further and quickly retreated back to the relative safety of the [[Dragon|Dragons]]' presence.
 
-### Loot & Rewards
-- [[Staff of Beekeeping]] ([[Sir Dixon Fire|Sir Dixon]])
-- Unopenable Dark Container ([[Enphine]]) 
-- [[Paxton Umbra|Paxton]]'s belongings ([[Sir Dixon Fire|Sir Dixon]])
-- [[Paxton Umbra|Paxton]]'s [[Demon Lore Book]] ([[Ru Eir Hydrus|Ru]])
-- [[Paxton Umbra|Paxton]]'s Gold (24g, 6s) ([[The Party]] present during [[Session 3-22 - Two Funerals and no Wedding|Session 3-22]])
+> ### Loot & Rewards
+> 
+> - [[Staff of Beekeeping]] ([[Sir Dixon Fire|Sir Dixon]])
+> - Unopenable Dark Container ([[Enphine]]) 
+> - [[Paxton Umbra|Paxton]]'s belongings ([[Sir Dixon Fire|Sir Dixon]])
+> - [[Paxton Umbra|Paxton]]'s [[Demon Lore Book]] ([[Ru Eir Hydrus|Ru]])
+> - [[Paxton Umbra|Paxton]]'s Gold (24g, 6s) ([[The Party]] present during [[Session 3-22 - Two Funerals and no Wedding|Session 3-22]])
 
-### Effects & Repercussions
-- [[Sylvanus]]' body buried
-- Shadow army reduced by a tiny part
-- [[Paxton Umbra|Paxton]] deceased
+> ### Effects & Repercussions
+> 
+> - [[Sylvanus]]' body buried
+> - Shadow army reduced by a tiny part
+> - [[Paxton Umbra|Paxton]] deceased

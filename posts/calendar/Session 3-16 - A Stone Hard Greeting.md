@@ -3,17 +3,18 @@ aliases: Session 3-16, Sepdas 3, Sepdas 3 514, Session 3-16 - Sepdas 3 514, Sess
 ---
 Previous: [[Session 3-15 - The Jungle Bridge|Session 3-15]] | Next: [[Session 3-17 - Two Encampments and a Haunted Spirit|Session 3-17]] 
 
-## [[The Party]]
- - [[Sam Alderleaf|Sam]]
- - [[Horatio]]
- - [[Paxton Umbra|Paxton]]
- - [[Girard de Kosigan|Girard]]
- - [[Enphine]]
- - [[Sir Dixon Fire|Sir Dixon]]
- - [[Alaric]]
- - [[Castle-8]]
- - [[Ru Eir Hydrus|Ru]]
- - [[Aboouck]]
+> ## [[The Party]]
+>
+> - [[Sam Alderleaf|Sam]]
+> - [[Horatio]]
+> - [[Paxton Umbra|Paxton]]
+> - [[Girard de Kosigan|Girard]]
+> - [[Enphine]]
+> - [[Sir Dixon Fire|Sir Dixon]]
+> - [[Alaric]]
+> - [[Castle-8]]
+> - [[Ru Eir Hydrus|Ru]]
+> - [[Aboouck]]
 
 # A Stone Hard Greeting
 [[The Party]] met up in the [[Black Barrel Inn|Inn]]. They decided to continue on last week's quest which was tracking down the [[Runaway Slaves]]. After being absent from [[The Party]] for a while [[Aboouck]] had rejoined, seeing three new faces he had not seen before, and thus he questioned what has happened in the time being apart from the group. [[Sam Alderleaf|Sam]] briefed [[Aboouck]] about the recent events on the shard, she explained who the newcomers were and what their intentions were for today.
@@ -56,9 +57,11 @@ Before leaving, [[The Party]] exchanged names with the [[Tebinor Elves|Elves]]. 
 
 #TODO: Add post-epilogue
 
-### Loot & Rewards
-- A [[Portable Hole]] (with some undiscovered contents)
+> ### Loot & Rewards
+> 
+> - A [[Portable Hole]] (with some undiscovered contents)
 
 ### Effects & Repercussions
-- [[The Party]] freed three [[Tebinor Elves|Elves]] from their stone encapsulation
-- A new civilisation was discovered on the [[Tebinor|Shard]] (The [[Tebinor Elves]])
+
+> - [[The Party]] freed three [[Tebinor Elves|Elves]] from their stone encapsulation
+> - A new civilisation was discovered on the [[Tebinor|Shard]] (The [[Tebinor Elves]])

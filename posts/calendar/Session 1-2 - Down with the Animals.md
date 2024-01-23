@@ -3,7 +3,13 @@ aliases: Session 1-2
 ---
 Previous: [[Session 1-1 - A Dwarvish Proposition|Session 1-1]] | Next: [[Session 1-3]]
 
-[[The Party]] consisted of [[Thorin]], [[John]], [[Hera]], [[Therai]] and [[Morthos]].
+> ## [[The Party]]
+> 
+> - [[Thorin]] 
+> - [[John]] 
+> - [[Hera]] 
+> - [[Therai]]
+> - [[Morthos]]
 
 While scavenging the fallen [[Goblins]] and tending to the wounded, [[The Party]] noticed a [[Tiefling]] walking down the road towards them. After inquiring about their intentions, he introduced himself as [[Morthos]] and suggested to join them in tracking down the nearby [[Goblins]].
 
@@ -15,8 +21,10 @@ Not long after, they reached a cave entrance where two [[Goblin|Goblins]] were l
 
 #TODO
 
-### Loot & Rewards
--   None
+> ### Loot & Rewards
+> 
+> -   None
 
-### Effects & Repercussions
--   None
+> ### Effects & Repercussions
+> 
+> -   None

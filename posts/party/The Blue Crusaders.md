@@ -3,13 +3,13 @@ The Blue Crusaders was the name [[The Party]] referred to itself to during their
 At any point, the Blue Crusaders consisted of:
 * [[John]]
 * [[Thorin]] (unknown)
-* [[Hera]] (dead)
-* [[Morthos]] (dead)
+* ![dead](/images/dead20.png) [[Hera]]
+* ![dead](/images/dead20.png) [[Morthos]]
 * [[Alaric]]
-* [[Orsik]] (dead)
-* [[Zatarra]] (dead)
+* ![dead](/images/dead20.png) [[Orsik]]
+* ![dead](/images/dead20.png) [[Zatarra]]
 * [[Sam Alderleaf]]
-* [[Lynxakasendalor Ghesh]] (dead)
+* ![dead](/images/dead20.png) [[Lynxakasendalor Ghesh]]
 * [[Vheidin]] (unknown)
 * [[Mac Hiavelli]] (unknown)
 * [[Teezee]] (unknown)

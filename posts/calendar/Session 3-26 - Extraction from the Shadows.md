@@ -6,15 +6,18 @@ aliases:
   - Session 3-26 - Mendas 1 514 - Extraction from the Shadows
 ---
 Previous: [[Session 3-25 - Bulls on Parade|Session 3-25]] | Next: [[Session 3-27 - Corruption From Within|Session 3-27]]
-## [[The Party]]
-- [[Sam Alderleaf]]
-- [[Castle-8]]
-- [[Enphine]]
-- [[Bill]]
-- [[Paxton Umbra]]
-- [[Aboouck]]
-- [[Ru Eir Hydrus|Ru]]
-- [[Layden Fantail]]
+
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf]]
+> - [[Castle-8]]
+> - [[Enphine]]
+> - [[Bill]]
+> - [[Paxton Umbra]]
+> - [[Aboouck]]
+> - [[Ru Eir Hydrus|Ru]]
+> - [[Layden Fantail]]
+
 ## Nude Shiny Training Rabbit
 Throughout the last week strange events had happened within [[Ebonwatch]], mostly focused around one little rabbit called [[Aboouck|Aboouck]], who was focusing on his training. Spread out over the days the following events happened:
 1. He shad his fur within the blink of an eye, which slowly started growing back over the subsequent days;
@@ -54,9 +57,12 @@ When [[Enphine]]'s [[Wall of Fire]] failed, she set up an area of [[Sickening Ra
 ## Extraction and Retreat (Plan D)
 [[Sam Alderleaf|Sam]] called out to [[Aboouck|Aboouck]] to [[Enlarge]] him so he could [[Fly]] into the [[Darkness]] to pick up the blue ball, which he had now identified as a [[Blue Dragon Egg|Dragon Egg]]. [[Aboouck]] immediately dropped the [[Enlarge]] when [[Sam Alderleaf|Sam]]'s head peaked out the top of the shroud in order to save [[Castle-8|Castle-8]] and frankly also the rest of [[The Party|The party]] by turning [[Castle-8|Castle-8]] into a [[Giant Ape]]. The end result was that [[The Party]] managed to kill almost all of the little and medium [[Shadow|Shadows]] that had emerge from the shroud, except for the large [[Shadow Monster]]. [[Paxton Umbra|Paxton]] however noticed many more [[Shadow|Shadows]] and [[Shadow Monster|Shadow Monsters]] approaching, prompting their escape with the egg and their lives.
 
-## Loot & Rewards
-- [[Blue Dragon Egg]] ([[Sam Alderleaf|Sam]])
-## Effects & Repercussions
-- [[Paxton's Chest Teddy Bear Avatar]] molded with [[Paxton Umbra|Paxton]]'s chest, making him more powerful.
-- [[Armblade Teddy Bear Avatar]] attached to [[Castle-8]]'s [[Armblade]], helping and hindering him in equal measure.
-- [[Crystal Teddy Bear Avatar]] merged with [[Enphine]]'s Crystal [[Arcane Focus]], making it more powerful, seemingly without any side effects.
+> ## Loot & Rewards
+> 
+> - [[Blue Dragon Egg]] ([[Sam Alderleaf|Sam]])
+
+> ## Effects & Repercussions
+> 
+> - [[Paxton's Chest Teddy Bear Avatar]] molded with [[Paxton Umbra|Paxton]]'s chest, making him more powerful.
+> - [[Armblade Teddy Bear Avatar]] attached to [[Castle-8]]'s [[Armblade]], helping and hindering him in equal measure.
+> - [[Crystal Teddy Bear Avatar]] merged with [[Enphine]]'s Crystal [[Arcane Focus]], making it more powerful, seemingly without any side effects.

@@ -3,7 +3,15 @@ aliases: Session 3-2, Furdas 1, Furdas 1 514, Session 3-2 - Furdas 1 514, Sessio
 ---
 Previous: [[Session 3-1 - Lay of the Land|Session 3-1]] | Next: [[Session 3-3 - The Blue Lady|Session 3-3]]
 
-[[The Party]], consisting of [[Alaric]], [[Sam Alderleaf|Sam]], [[Castle-8|Castle-8 / Horny-1]], [[Exilian]], [[Horatio|Horatio / Fartman]], [[Nuk|Nuk / Reddy]] and [[Bill]]:
+> ## [[The Party]]
+> 
+> - [[Alaric]]
+> - [[Sam Alderleaf|Sam]]
+> - [[Castle-8|Castle-8 / Horny-1]]
+> - [[Exilian]]
+> - [[Horatio|Horatio / Fartman]]
+> - [[Nuk|Nuk / Reddy]]
+> - [[Bill]]
 
 - watched as [[Sarith]] was gambling with a [[Bill|kid]] in the [[Black Barrel Inn|Inn]];
 - watched as [[Exilian]] beat [[Bill]] the child gambling, then recruited him into the party while [[Exilian]] adopted him as his son;
@@ -20,8 +28,10 @@ Previous: [[Session 3-1 - Lay of the Land|Session 3-1]] | Next: [[Session 3-3 - 
 - realized nobody could remember the names of [[Castle-8]], [[Horatio]] and [[Nuk]], then thought up new names for them;
 - visited [[Duke Oakfire]], handed in the [[Vavian Soldiers#Scout|Scouts']] emblems, then returned to the [[Black Barrel Inn|Inn]];
 
-### Loot & Rewards
--   None
+> ### Loot & Rewards
+> 
+> -   None
 
-### Effects & Repercussions
--   [[Castle-8]], [[Horatio]] and [[Nuk]] lost their names
+> ### Effects & Repercussions
+> 
+> -   [[Castle-8]], [[Horatio]] and [[Nuk]] lost their names

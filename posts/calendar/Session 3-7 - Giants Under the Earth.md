@@ -3,7 +3,15 @@ aliases: Session 3-7, Fifdas 2, Fifdas 2 514, Session 3-7 - Fifdas 2 514, Sessio
 ---
 Previous: [[Session 3-6 - Mysteries of the Mire|Session 3-6]] | Next: [[Session 3-8 - The Mutant|Session 3-8]]
 
-[[The Party]], consisting of [[Alaric]], [[Sam Alderleaf|Sam]], [[Horatio]], [[Nuk]], [[Aboouck]], [[Bill]] and [[Bavon]]:
+> ## [[The Party]]
+> 
+> - [[Alaric]] 
+> - [[Sam Alderleaf|Sam]] 
+> - [[Horatio]] 
+> - [[Nuk]] 
+> - [[Aboouck]] 
+> - [[Bill]]
+> - [[Bavon]]
 
 - tried out [[Sam Alderleaf|Sam]]'s newly brewed beer, which was very good!;
 - discussed on what to do, negotiated about [[Troll]] heads, then decided to go and aid the [[Lizardfolk]] in [[Anorak Iron Mine]] in their struggle against the [[Troglodyte|Troglodytes]];
@@ -21,8 +29,10 @@ Previous: [[Session 3-6 - Mysteries of the Mire|Session 3-6]] | Next: [[Session 
 - returned, only to find the [[Lizardfolk]] had dragged the dead [[Giant Lizard]] out towards their lair and were feasting on it;
 - joined the feast, said goodbye to the [[Lizardfolk]] and returned to [[Ebonwatch]];
 
-### Loot & Rewards
-- An [[Ioun Stone#Protection|Ioun Stone of Protection]]
+> ### Loot & Rewards
+> 
+> - An [[Ioun Stone#Protection|Ioun Stone of Protection]]
 
-### Effects & Repercussions
-- The [[Lizardfolk]] expect the party to find a way through the poison gas to continue their assault on the [[Troglodyte|Troglodytes]]
+> ### Effects & Repercussions
+> 
+> - The [[Lizardfolk]] expect the party to find a way through the poison gas to continue their assault on the [[Troglodyte|Troglodytes]]

@@ -3,7 +3,15 @@ aliases: Session 3-12, Sidas 3, Sidas 3 514, Session 3-12 - Sidas 3 514, Session
 ---
 Previous: [[Session 3-11 - Prove Your Worth|Session 3-11]] | Next: [[Session 3-13 - Another Sir|Session 3-13]]
 
-[[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Exilian]], [[Horatio]], [[Paxton Umbra|Paxton]], [[Bill]] and [[Bavon]]:
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf|Sam]] 
+> - [[Castle-8]] 
+> - [[Exilian]] 
+> - [[Horatio]] 
+> - [[Paxton Umbra|Paxton]] 
+> - [[Bill]]
+> - [[Bavon]]
 
 - met up in the [[Black Barrel Inn|Tavern]] where [[Sam Alderleaf|Sam]] made an announcement about the [[Duke Oakfire|Duke]] paying them to safeguard the [[Gamwater Quarry|Quarry]];
 - quickly departed to join [[Sir Dozak the Magnificent|Sir Dozak]] at the [[Sir Dozak's Forward Camp|Forward Camp]] in the [[Royal Woodlands]], then headed back into the [[Elven Ruin in the Royal Woodlands|Elven Ruin]] together;
@@ -24,13 +32,15 @@ Previous: [[Session 3-11 - Prove Your Worth|Session 3-11]] | Next: [[Session 3-1
 - evaluated the next room, which was opposite of the crevice where the first [[Bloodvine|Thorny Plant]] was fought, but decided to return to [[Sir Dozak's Forward Camp|Camp]] to rest and recuperate;
 - exited the [[Elven Ruin in the Royal Woodlands|Ruin]] while [[Sir Dozak the Magnificent|Sir Dozak]] asked for [[Sam Alderleaf|Sam]]'s input on what to do with [[Bavon]] and whether or not he could be trusted... and kept alive;
 
-### Loot & Rewards
-- A heavy, small chest
-- 3 [[Spell Scroll|Spell Scrolls]]: Disguise Self (lvl1), Misty Step (lvl2) and Meld Into Stone (lvl3)
-- A [[Ring of Swimming|Ring Engraved with Fishes]]
-- A [[Potion of Giant Strength#Hill Giant|Muddy Potion]]
-- 4 arrows
+> ### Loot & Rewards
+> 
+> - A heavy, small chest
+> - 3 [[Spell Scroll|Spell Scrolls]]: Disguise Self (lvl1), Misty Step (lvl2) and Meld Into Stone (lvl3)
+> - A [[Ring of Swimming|Ring Engraved with Fishes]]
+> - A [[Potion of Giant Strength#Hill Giant|Muddy Potion]]
+> - 4 arrows
 
-### Effects & Repercussions
-- The [[Expedition into the Elven Ruin|Expedition]] into the [[Elven Ruin in the Royal Woodlands]] proceeded slowly.
-- [[Bavon]] has earned the ire of [[Sir Dozak]].
+> ### Effects & Repercussions
+> 
+> - The [[Expedition into the Elven Ruin|Expedition]] into the [[Elven Ruin in the Royal Woodlands]] proceeded slowly.
+> - [[Bavon]] has earned the ire of [[Sir Dozak]].

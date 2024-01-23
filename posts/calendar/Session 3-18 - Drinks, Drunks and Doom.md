@@ -3,16 +3,17 @@ aliases: [Session 3-18, Octdas 1, Octdas 1 514, Session 3-18 - Octdas 1 514, "Se
 ---
 Previous: [[Session 3-17 - Two Encampments and a Haunted Spirit|Session 3-17]] | Next: [[Session 3-19 - Back Into the Dark Hole|Session 3-19]]
 
-## [[The Party]]
-- [[Sam Alderleaf|Sam]]
-- [[Horatio]]
-- [[Bill]]
-- [[Sir Dixon Fire|Sir Dixon]]
-- [[Ru Eir Hydrus|Ru]]
-- [[Paxton Umbra|Paxton]]
-- [[Aboouck]]
-- [[Exilian]]
-- [[Alaric]]
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf|Sam]]
+> - [[Horatio]]
+> - [[Bill]]
+> - [[Sir Dixon Fire|Sir Dixon]]
+> - [[Ru Eir Hydrus|Ru]]
+> - [[Paxton Umbra|Paxton]]
+> - [[Aboouck]]
+> - [[Exilian]]
+> - [[Alaric]]
 
 # Adventure Agent at your service
 Most of [[The Party]] gathers up in the [[Black Barrel Inn|Inn]], everyone except [[Sir Dixon Fire|Sir Dixon]] and [[Enphine]]. Here [[Aboouck]] shares the happy news of him getting a new job, he is now the new chef at the tavern, his cooking seems to do well, an opinion shared by all but for [[Bill]] and [[Sam Alderleaf|Sam]] who show a noticeable sign of dislike for the food.
@@ -61,11 +62,13 @@ When [[The Party]] left the cave they noticed how the forest was less dark and i
 
 [[The Party]] left the [[Heart of the Forest]] and split, some returning to [[Ebonwatch]], others heading back to [[Mythana]] or [[Anorak Iron Mine]].
 
-### Loot & Rewards
-- [[Poison]] from the Big Blob
-- 8 Mushrooms
-- 7 [[Strange Crystals]]
+> ### Loot & Rewards
+> 
+> - [[Poison]] from the Big Blob
+> - 8 Mushrooms
+> - 7 [[Strange Crystals]]
 
-### Effects & Repercussions
-- The [[Heart of the Forest]] started slowly restoring
-- [[Brannis Boulderblade|Brannis]] joined [[The Party]] back to [[Anorak Iron Mine]] to investigate the ores to be mined
+> ### Effects & Repercussions
+> 
+> - The [[Heart of the Forest]] started slowly restoring
+> - [[Brannis Boulderblade|Brannis]] joined [[The Party]] back to [[Anorak Iron Mine]] to investigate the ores to be mined
