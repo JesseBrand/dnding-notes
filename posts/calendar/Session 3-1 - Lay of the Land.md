@@ -3,7 +3,15 @@ aliases: Session 3-1, Tridas 4, Tridas 4 514, Session 3-1 - Tridas 4 514, Sessio
 ---
 Previous: [[Session 2-28 - Overrun|Session 2-28]] | Next: [[Session 3-2 - What's in a Name|Session 3-2]]
 
-[[The Party]], consisting of [[Alaric]], [[Sam Alderleaf|Sam]], [[Castle-8]], [[Horatio]], [[Nuk]] and [[Aboouck]]:
+> ## [[The Party]]
+> 
+> - [[Alaric]] 
+> - [[Sam Alderleaf|Sam]] 
+> - [[Castle-8]] 
+> - [[Horatio]] 
+> - [[Nuk]] 
+> - [[Aboouck]]
+
 - met [[Aboouck]] the stressed rabbit in [[Black Barrel Inn]];
 - discovered their open bar tabs;
 - discovered the [[Notice Board]], learned of the missing coffee bottle and the missing blacksmith's son;
@@ -19,9 +27,11 @@ Previous: [[Session 2-28 - Overrun|Session 2-28]] | Next: [[Session 3-2 - What's
 - returned to [[Ebonwatch]] with the horses and [[Ship Bescond|Ship]], being welcomed as heroes;
 - returned [[Ship Bescond|Ship]], obtained the bounty of 100g and returned to the [[Black Barrel Inn|Inn]];
 
-### Loot & Rewards
--   100gp
+> ### Loot & Rewards
+> 
+> - 100gp
 
-### Effects & Repercussions
--   [[Wheldrake Fortress]] became available as a location
--   The [[Hungry Coast]] became available as a location
+> ### Effects & Repercussions
+> 
+> - [[Wheldrake Fortress]] became available as a location
+> - The [[Hungry Coast]] became available as a location

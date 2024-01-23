@@ -3,17 +3,20 @@ aliases: Session 3-24, Nendas 3, Nendas 3 514, Session 3-24 - Nendas 3 514, Sess
 ---
 
 Previous: [[Session 3-23 - Confronted with Demonic Reality|Session 3-23]] | Next: [[Session 3-25 - Bulls on Parade]]
-## [[The Party]]
-- [[Bill]]
-- [[Sir Dixon Fire|Sir Dixon]]
-- [[Ru Eir Hydrus|Ru]]
-- [[Enphine]]
-- [[Alaric]]
-- [[Castle-8]]
-- [[Horatio]]
-- [[Aboouck]]
-- [[Exilian]]
-- [[Paxton Umbra|Paxton]] (?)
+
+> ## [[The Party]]
+> 
+> - [[Bill]]
+> - [[Sir Dixon Fire|Sir Dixon]]
+> - [[Ru Eir Hydrus|Ru]]
+> - [[Enphine]]
+> - [[Alaric]]
+> - [[Castle-8]]
+> - [[Horatio]]
+> - [[Aboouck]]
+> - [[Exilian]]
+> - [[Paxton Umbra|Paxton]] (?)
+
 ## Gambling Consequences
 [[The Party]] had noticed that [[Bill]] was sitting at the table with a several guards, and they were playing a die game. Something that was very noticeable was the stack of gold that [[Bill]] had collected on his side of the table, but also that there was a guard sobbing a table down without his armor.
 
@@ -55,16 +58,20 @@ The corpses were very smelly, but that didn't keep [[The Party]] from looting th
 As the fight was over [[The Party]] focused on the portal. [[Enphine]] and [[Horatio]] headed to the portal to study. [[Aboouck]] picked up a small stone and threw it in. A large stone was launched out of the portal, which [[Aboouck]] could barely dodge. [[Enphine]] decided to cast [[Dispel Magic]] on the portal while [[Horatio]] in all his intelligence attempted to pour [[Flask of Acid|Acid]] in. As the acid was about to connect the spell was cast and the portal closed. [[Horatio]] was fully convinced his acid had done the trick and he had discovered how to handle these portal and save the [[Tebinor|Shard]].
 
 Meanwhile [[The Party]] started looking deeper into [[Paxton Umbra|Paxton]]'s return, asking him what had happened and if he remembered anything. He mentioned he heard a voice from his past calling for him, telling him his fight wasn't over. He said it sounded like a loved one he knew from a long time ago. [[The Party]] then decided to return to [[Ebonwatch]] and continue their hunt later.
-### Loot & Rewards
-- [[Minotaur]]'s [[Greataxe]] ([[Sir Dixon Fire|Sir Dixon]])
-- [[Minotaur]]'s Horns x2 ([[Sir Dixon Fire|Sir Dixon]])
-- [[Minotaur]]'s Loincloth ([[Sir Dixon Fire|Sir Dixon]])
-- [[Goat Demon]]'s Horns x8 ([[Sir Dixon Fire|Sir Dixon]])
-- [[Goat Demon]]'s tails x4 ([[Sir Dixon Fire|Sir Dixon]])
-- [[Goat Demon]]'s ears ([[Ru Eir Hydrus|Ru]])
-- [[Goat Demon]]'s Poison extraction ([[Exilian]])
-- [[Frog Demon]]'s Claws x2 ([[Bill]])
-- [[Frog Demon]]'s Tong ([[Bill]])
-- [[Magic Beer]], 1/2 gallon ([[Enphine]])
-### Effects & Repercussions
-- Knowledge of the Debt Collector's threshold
+
+> ### Loot & Rewards
+> 
+> - [[Minotaur]]'s [[Greataxe]] ([[Sir Dixon Fire|Sir Dixon]])
+> - [[Minotaur]]'s Horns x2 ([[Sir Dixon Fire|Sir Dixon]])
+> - [[Minotaur]]'s Loincloth ([[Sir Dixon Fire|Sir Dixon]])
+> - [[Goat Demon]]'s Horns x8 ([[Sir Dixon Fire|Sir Dixon]])
+> - [[Goat Demon]]'s tails x4 ([[Sir Dixon Fire|Sir Dixon]])
+> - [[Goat Demon]]'s ears ([[Ru Eir Hydrus|Ru]])
+> - [[Goat Demon]]'s Poison extraction ([[Exilian]])
+> - [[Frog Demon]]'s Claws x2 ([[Bill]])
+> - [[Frog Demon]]'s Tong ([[Bill]])
+> - [[Magic Beer]], 1/2 gallon ([[Enphine]])
+
+> ### Effects & Repercussions
+> 
+> - Knowledge of the Debt Collector's threshold

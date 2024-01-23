@@ -3,16 +3,17 @@ aliases: Session 3-20, Octdas 3, Octdas 3 514, Session 3-20 - Octdas 3 514, Sess
 ---
 Previous: [[Session 3-19 - Back Into the Dark Hole|Session 3-19]] | Next: [[Session 3-21 - Bones and Rooted Bodies|Session 3-21]]
 
-## [[The Party]]
-- [[Sam Alderleaf|Sam]]
-- [[Horatio]]
-- [[Bill]]
-- [[Sir Dixon Fire|Sir Dixon]]
-- [[Ru Eir Hydrus|Ru]]
-- [[Paxton Umbra|Paxton]]
-- [[Aboouck]]
-- [[Enphine]]
-- [[Castle-8]]
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf|Sam]]
+> - [[Horatio]]
+> - [[Bill]]
+> - [[Sir Dixon Fire|Sir Dixon]]
+> - [[Ru Eir Hydrus|Ru]]
+> - [[Paxton Umbra|Paxton]]
+> - [[Aboouck]]
+> - [[Enphine]]
+> - [[Castle-8]]
 
 # One week earlier
 The week before, before [[The Party]] went back to [[Ebonwatch]], the [[Sootwall Observatory|Gnomes]] or the [[Tebinor Elves|Elves]], [[Sir Dixon Fire|Sir Dixon]] scouted in the [[Heart of the Forest]] using a [[Familiar]] in the shape of a bat. In doing so he saw an [[Open Place]] with a lot of bird screeches, a [[Burned-Out Tower]] and a [[Bridge Made out of Bones]].
@@ -52,10 +53,12 @@ A little while later the rest of [[The Party]] noticed they were being led back 
 
 [[Ru Eir Hydrus|Ru]] wasn't trusting whether or not [[Moldarhim]], the capital city of the [[Tebinor Dwarves|Dwarves]] actually existed and suggested that [[The Party]] could transport the raw ore to their capital as the [[Tebinor Dwarves|Dwarves]] were still unable to leave the [[Heart of the Forest]]. The [[Tebinor Dwarves|Dwarves]] agreed to do this as long as they sent another [[Dwarf]] with them to ensure nothing was stolen.
 
-### Loot & Rewards
- - [[Gloves of Missile Snaring]]
- - By [[Sam Alderleaf|Sam]]: An certain amount of [[Harpy Feathers]]
- - By [[Sir Dixon Fire|Sir Dixon]]: [[Augury Root|Root]] of the tree of the heart of the forest
+> ### Loot & Rewards
+> 
+> - [[Gloves of Missile Snaring]]
+> - By [[Sam Alderleaf|Sam]]: An certain amount of [[Harpy Feathers]]
+> - By [[Sir Dixon Fire|Sir Dixon]]: [[Augury Root|Root]] of the tree of the heart of the forest
 
-### Effects & Repercussions
-- The Lights led back to the [[Dwarven Mining Camp]], presenting [[The Party]] with a difficult choice.
+> ### Effects & Repercussions
+> 
+> - The Lights led back to the [[Dwarven Mining Camp]], presenting [[The Party]] with a difficult choice.

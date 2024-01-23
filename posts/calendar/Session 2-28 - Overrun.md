@@ -3,7 +3,20 @@ aliases: Session 2-28, Tridas 3, Tridas 3 514, Session 2-28 - Tridas 3 514, Sess
 ---
 Previous: [[Session 2-27]] | Next: [[Session 3-1 - Lay of the Land|Session 3-1]]
 
-[[The Party]], consisting of [[John]], [[Alaric]], [[Sam Alderleaf|Sam]], [[Castle-8]], [[Drathuul]], [[Nuk]], [[Navani]] (absent), [[Exilian]] (absent), [[Horatio]] (absent), [[Sarith]] and [[Rumpadump]]:
+> ## [[The Party]]
+> 
+> - [[John]] 
+> - [[Alaric]] 
+> - [[Sam Alderleaf|Sam]] 
+> - [[Castle-8]] 
+> - [[Drathuul]] 
+> - [[Nuk]] 
+> - [[Navani]] (absent)
+> - [[Exilian]] (absent)
+> - [[Horatio]] (absent)
+> - [[Sarith]]
+> - [[Rumpadump]]
+
 - were explained the nature of the [[Society of Brilliance]], portal and escape route in detail by [[Grazillax]] and agreed to help him;
 - reached the [[Ritual Chamber]] and cleared it of [[Gnoll|Gnolls]];
 - defended [[Grazillax]] as he started his ritual from wave after wave of [[Gnoll|Gnolls]] of increasing strength on two fronts, including commanders and spellcasters;
@@ -13,11 +26,13 @@ Previous: [[Session 2-27]] | Next: [[Session 3-1 - Lay of the Land|Session 3-1]]
 - followed the [[The Black Crevice|Crevice]] north and ran into [[Sir Ginimus]] and some [[Vavian Soldiers]] who had dealt with a [[Giant#Fire Giant|Fire Giant]], who explained to them they had arrived on the Shard of [[Tebinor]] and wished to learn more of them;
 - were escorted to the town of [[Ebonwatch]], where they found refuge in the [[Black Barrel Inn]], discussing the [[Vaviel Empire]], [[Shards]] and [[Beer]] along the way.
 
-### Loot & Rewards
--   None
+> ### Loot & Rewards
+> 
+> -   None
 
-### Effects & Repercussions
-- [[The Party]] escaped the [[Underdark]] and is now in the town of [[Ebonwatch]] on the Shard of [[Tebinor]]
-- A [[Portal between Tebinor and the Underdark]] was opened
-- [[Rumpadump]] died and was smeared over the mountainside
-- [[John]] sank into a depressed state and retired from [[The Party]]
+> ### Effects & Repercussions
+> 
+> - [[The Party]] escaped the [[Underdark]] and is now in the town of [[Ebonwatch]] on the Shard of [[Tebinor]]
+> - A [[Portal between Tebinor and the Underdark]] was opened
+> - [[Rumpadump]] died and was smeared over the mountainside
+> - [[John]] sank into a depressed state and retired from [[The Party]]

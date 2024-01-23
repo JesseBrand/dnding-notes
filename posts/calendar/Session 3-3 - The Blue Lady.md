@@ -3,7 +3,12 @@ aliases: Session 3-3, Furdas 2, Furdas 2 514, Session 3-3 - Furdas 2 514, Sessio
 ---
 Previous: [[Session 3-2 - What's in a Name|Session 3-2]] | Next: [[Session 3-4 - The Observatory|Session 3-4]]
 
-[[The Party]], consisting of [[Castle-8|Castle-8 / Horny-1]], [[Horatio|Horatio / Fartman]] , [[Nuk|Nuk / Reddy]] and [[Bill]]:
+> ## [[The Party]]
+> 
+> - [[Castle-8|Castle-8 / Horny-1]] 
+> - [[Horatio|Horatio / Fartman]]  
+> - [[Nuk|Nuk / Reddy]]
+> - [[Bill]]
 
 - saw [[Nuk|Reddy]] talking to an [[7th Observer Jorfan Billowgrin|Interesting Gnome]];
 - discussed where to go, had [[Nuk|Reddy]] propose [[Sootwall Observatory|Sootwall]], but decided to go back to the [[Realm of the Blue Lady|magical forest]] first;
@@ -18,11 +23,13 @@ Previous: [[Session 3-2 - What's in a Name|Session 3-2]] | Next: [[Session 3-4 -
 - brokered an agreement with the [[Blue Lady]], who besides returning their names, would leave the villagers alone if they would replant trees and leave the [[Sacred Groves]] alone;
 - reported back to the [[Duke Oakfire|Duke]], who after verifying their story, rewarded them with the full reward of 1000g;
 
-### Loot & Rewards
-- A set of heavy [[Redcap|Gnome]] boots
-- 1000g
+> ### Loot & Rewards
+> 
+> - A set of heavy [[Redcap|Gnome]] boots
+> - 1000g
 
-### Effects & Repercussions
--   [[Castle-8]], [[Horatio]] and [[Nuk]] regained their names
--   An agreement was struck between [[Ebonwatch]] and the [[Blue Lady]]
--   [[Hornwood]] Lumbermill became available as a location
+> ### Effects & Repercussions
+> 
+> -   [[Castle-8]], [[Horatio]] and [[Nuk]] regained their names
+> -   An agreement was struck between [[Ebonwatch]] and the [[Blue Lady]]
+> -   [[Hornwood]] Lumbermill became available as a location

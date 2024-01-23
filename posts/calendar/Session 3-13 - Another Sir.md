@@ -3,7 +3,15 @@ aliases: Session 3-13, Sidas 4, Sidas 4 514, Session 3-13 - Sidas 4 514, Session
 ---
 Previous: [[Session 3-12 - Rebellion|Session 3-12]] | Next: [[Session 3-14 - The Trapped Lair|Session 3-14]] 
 
-[[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Nuk]], [[Paxton Umbra|Paxton]], [[Bill]], [[Enphine]] and [[Sir Dixon Fire|Sir Dixon]]:
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf|Sam]]
+> - [[Castle-8]]
+> - [[Nuk]]
+> - [[Paxton Umbra|Paxton]]
+> - [[Bill]]
+> - [[Enphine]]
+> - [[Sir Dixon Fire|Sir Dixon]]
 
 - saw [[Enphine]] come into the [[Black Barrel Inn|Tavern]] somewhat excited and distressed at the same time, with news from the [[Sootwall Observatory|Observatory]]; she told [[The Party]] the [[Gnome|Gnomes]] had fixed the [[Telescope]] and are able to look under the Shard using some complex mirror construction; it unfortunately turned the [[1st Observer Orxim Pebblebeard|Gnome watching]] [[Madness|Mad]];
 - shared news by [[Sam Alderleaf|Sam]] and [[Paxton Umbra|Paxton]] about some [[Shadow|Shadowy Figures]] appearing around the [[Gamwater Quarry|Quarry]] and attacking shipments;
@@ -32,15 +40,16 @@ Previous: [[Session 3-12 - Rebellion|Session 3-12]] | Next: [[Session 3-14 - The
 - discovered a stone shaft down into the ground, which was filled with rubble, when [[Sir Dozak the Magnificent|Sir Dozak]] indicated the next step in the [[Expedition into the Elven Ruin|Expedition]] would involve excavating it;
 - noticed a faint magical aura within the [[Dragon]] statue before leaving the [[Elven Ruin in the Royal Woodlands|Elven Ruin]] and returning to [[Ebonwatch]];
 
-### Loot & Rewards
+> ### Loot & Rewards
+> 
+> - A [[Cloak of Elvenkind]]
+> - An [[Alchemy|Alchemy Set]]
+> - A [[Sentient Plant]]
+> - A nice-looking but ancient [[Carpet from the Elven Ruin|Carpet]]
 
-- A [[Cloak of Elvenkind]]
-- An [[Alchemy|Alchemy Set]]
-- A [[Sentient Plant]]
-- A nice-looking but ancient [[Carpet from the Elven Ruin|Carpet]]
-
-### Effects & Repercussions
-- [[Paxton Umbra|Paxton]] had a strange encounter with a [[Glabrezu|Large Demon]].
-- The [[Expedition into the Elven Ruin]] in the [[Royal Woodlands]] came to a hold as a deep shaft was uncovered that needs to be excavated.
-- The [[Portal|Portals]] in the [[Elven Ruin in the Royal Woodlands|Elven Ruin]] were activated.
-- [[The Party]] learned that some way of providing [[Daylight]] will be required to face the .
+> ### Effects & Repercussions
+> 
+> - [[Paxton Umbra|Paxton]] had a strange encounter with a [[Glabrezu|Large Demon]].
+> - The [[Expedition into the Elven Ruin]] in the [[Royal Woodlands]] came to a hold as a deep shaft was uncovered that needs to be excavated.
+> - The [[Portal|Portals]] in the [[Elven Ruin in the Royal Woodlands|Elven Ruin]] were activated.
+> - [[The Party]] learned that some way of providing [[Daylight]] will be required to face the .

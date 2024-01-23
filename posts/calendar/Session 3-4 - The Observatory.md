@@ -3,7 +3,15 @@ aliases: Session 3-4, Furdas 3, Furdas 3 514, Session 3-4 - Furdas 3 514, Sessio
 ---
 Previous: [[Session 3-3 - The Blue Lady|Session 3-3]] | Next: [[Session 3-5 - Lizard Incursion|Session 3-5]]
 
-[[The Party]], consisting of [[Alaric]], [[Sam Alderleaf|Sam]], [[Castle-8]], [[Horatio]], [[Nuk]], [[Aboouck]] and [[Bill]]:
+> ## [[The Party]]
+> 
+> - [[Alaric]] 
+> - [[Sam Alderleaf|Sam]] 
+> - [[Castle-8]] 
+> - [[Horatio]] 
+> - [[Nuk]] 
+> - [[Aboouck]]
+> - [[Bill]]
 
 - examined the [[Notice Board]], noticing a [[Reo Churner|Wanted Poster]];
 - discussed what to do, agreeing to go to the [[Sootwall Observatory|Gnomish Observatory]] to help [[Nuk]] now, then go to the [[Anorak Iron Mine|Mines]] to help [[Aboouck]] [[Session 3-5 - Lizard Incursion|Next Week]];
@@ -20,9 +28,11 @@ Previous: [[Session 3-3 - The Blue Lady|Session 3-3]] | Next: [[Session 3-5 - Li
 - were greeted by [[2nd Observer Calric Whittlefist|Observer Whittlefist]], who congratulated them and played a game with the involving barrels with [[Magic Items]];
 - left with a few [[Magic Items]], leaving [[Castle-8]], [[Horatio]] and [[Nuk]] behind to conduct their business here while the rest returned to town;
 
-### Loot & Rewards
-- A [[Hat of the Gnomish Scholar]]
-- A [[Leather Armor of the Tiny Gnome]]
+> ### Loot & Rewards
+> 
+> - A [[Hat of the Gnomish Scholar]]
+> - A [[Leather Armor of the Tiny Gnome]]
 
-### Effects & Repercussions
-- [[Sootwall Observatory]] became available as a location
+> ### Effects & Repercussions
+> 
+> - [[Sootwall Observatory]] became available as a location

@@ -3,17 +3,18 @@ aliases: Session 3-19, Octdas 2, Octdas 2 514, Session 3-19 - Octdas 2 514, Sess
 ---
 Previous: [[Session 3-18 - Drinks, Drunks and Doom|Session 3-18]] | Next: [[Session 3-20 - Into the Dark Forest, with a Drip of Blood|Session 3-20]]
 
-## [[The Party]]
-- [[Sam Alderleaf|Sam]]
-- [[Horatio]]
-- [[Bill]]
-- [[Sir Dixon Fire|Sir Dixon]]
-- [[Ru Eir Hydrus|Ru]]
-- [[Paxton Umbra|Paxton]]
-- [[Aboouck]]
-- [[Enphine]]
-- [[Alaric]]
-- [[Castle-8]]
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf|Sam]]
+> - [[Horatio]]
+> - [[Bill]]
+> - [[Sir Dixon Fire|Sir Dixon]]
+> - [[Ru Eir Hydrus|Ru]]
+> - [[Paxton Umbra|Paxton]]
+> - [[Aboouck]]
+> - [[Enphine]]
+> - [[Alaric]]
+> - [[Castle-8]]
 
 # Whatever happened last time?
 Part of [[The Party]] had gathered in the [[Black Barrel Inn|Inn]] excluding [[Sir Dixon Fire|Sir Dixon]], [[Bill]] and [[Enphine]]. A discussing was started as to what had happened on the previous encounter where the big [[Fireball]] explosion had happened.
@@ -91,15 +92,17 @@ Under [[Paxton Umbra|Paxton]]'s guidance they focused their magical energies int
 # Shiny Light, Where Art Thy?
 [[The Party]] continued to follow the glowing green light outside the cave and slowly travelled east. After an hour and a half they noticed the forest slightly, cleared up a bit ahead. The lights led them to the edge of a devastated forest which seemed to evil, dark and dangerous. [[Sir Dixon Fire|Sir Dixon]] sent out a familiar to scout the forest for up to 2 hours to gain more insights in what was happening in the forest. [[The Party]] concluded the quest for the day and headed back out of the [[Heart of the Forest]], before heading their own ways.
 
->### Loot & Rewards
->- [[Silverleaf Oaken Shield]]
->- [[Grass Whistle Blade]]
->- 3 Crates full of Gold coming to a total of: 260 gold and 310 silver
->- By [[Sir Dixon Fire|Sir Dixon]]: 9 Mushrooms (3 regular, 6 [[Translucent Mushrooms|Translucent]])
->- By [[Sam Alderleaf|Sam]]: 5 Mushrooms (3 regular, 2 [[Translucent Mushrooms|Translucent]])
->- A note from [[Sylvanus]]
+> ### Loot & Rewards
+>  
+> - [[Silverleaf Oaken Shield]]
+> - [[Grass Whistle Blade]]
+> - 3 Crates full of Gold coming to a total of: 260 gold and 310 silver
+> - By [[Sir Dixon Fire|Sir Dixon]]: 9 Mushrooms (3 regular, 6 [[Translucent Mushrooms|Translucent]])
+> - By [[Sam Alderleaf|Sam]]: 5 Mushrooms (3 regular, 2 [[Translucent Mushrooms|Translucent]])
+> - A note from [[Sylvanus]]
 
-### Effects & Repercussions
-- The [[Huge Gorilla-like Demon]] was [[Banishment|Banished]]
-- [[Sylvanus]]' Guiding Lights were uncovered
-- The [[Marrowgrove]] was discovered
+> ### Effects & Repercussions
+> 
+> - The [[Huge Gorilla-like Demon]] was [[Banishment|Banished]]
+> - [[Sylvanus]]' Guiding Lights were uncovered
+> - The [[Marrowgrove]] was discovered

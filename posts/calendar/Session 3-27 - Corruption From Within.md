@@ -5,15 +5,18 @@ aliases:
   - Session 3-27 - Mendas 2 514 - Corruption From Within
 ---
 Previous: [[Session 3-26 - Extraction from the Shadows|Session 3-26]] | Next: [[Session 3-28 - Demons in the Shadows|Session 3-28]]
-## [[The Party]]
-- [[Alaric]]
-- [[Castle-8]]
-- [[Paxton Umbra|Paxton]]
-- [[Enphine]]
-- [[Bill]]
-- [[Sir Dixon Fire|Sir Dixon]]
-- [[Ru Eir Hydrus|Ru]]
-- [[Lynel]]
+
+> ## [[The Party]]
+> 
+> - [[Alaric]]
+> - [[Castle-8]]
+> - [[Paxton Umbra|Paxton]]
+> - [[Enphine]]
+> - [[Bill]]
+> - [[Sir Dixon Fire|Sir Dixon]]
+> - [[Ru Eir Hydrus|Ru]]
+> - [[Lynel]]
+
 ## Beeping Ball
 There was a cosy atmosphere within the [[Black Barrel Inn|Inn]], there was only one thing that was noticeably disturbing it, which was a repeating beep coming from the bar, to be precise from [[Alaric]]. [[Alaric]] was looking into an [[Starmetal Ball]] with a red light emitting from it. [[Alaric]] was thinking what he could do to see what was inside, quite unlike him he didn't want to smash it as it looked too valuable to break it. [[Sam Alderleaf|Sam]] [[Identify|Identified]] the [[Starmetal Ball|Ball]] but could not find any magic and noticed it was a mechanical thing that might have something inside it.
 This ball was noticeable annoying for many people within the [[Black Barrel Inn|Inn]] but none dared to approach the big half-orc to do anything about it.
@@ -45,12 +48,16 @@ Another [[Ooze]] showed up at the south end of the cave from which [[The Party]]
 Not long after [[The Party]] turned to the last remaining enemy on this plane of existence and beat the living shit out of her. Half a minute later the [[Adamantine Golem|Golem]] returned back from its banishment but wasn't responding anymore as if it was missing a command from its master. [[The Party]] ceased to engage it.
 
 [[Sir Dixon Fire|Sir Dixon]] sensed that the bodies of the enemies needed to remain behind as this was part of the [[Heart of the Forest]]. The missing [[Adamantine|Adamantine Ore]] was also to be returned. The Armor of the [[Adamantine Golem|Golem]] and the Weapons were ripe for the picking as the forest seemed to have lost its connection with it. Also, the [[Adamantine Golem|Golem]] contained a [[Adamantine Golem Heart|Heart]] which was badly corrupted and could no longer stay within the [[Heart of the Forest]].
-### Loot & Rewards
-- Large [[Adamantine]] Plate Armor (to be separated from the body)
-- [[Adamantine Golem]] Sword
-- [[Scotia Hammerarm|Scotia]]'s Arm Hammer
-- [[Adamantine]] Battleaxe
-- [[Corrupted Heart]]
-### Effects & Repercussions
-- The [[Heart of the Forest]] was restored to life
-- [[Sir Dixon Fire|Sir Dixon]] seemed to slowly recover along with the forest.
+
+> ### Loot & Rewards
+> 
+> - Large [[Adamantine]] Plate Armor (to be separated from the body)
+> - [[Adamantine Golem]] Sword
+> - [[Scotia Hammerarm|Scotia]]'s Arm Hammer
+> - [[Adamantine]] Battleaxe
+> - [[Corrupted Heart]]
+
+> ### Effects & Repercussions
+> 
+> - The [[Heart of the Forest]] was restored to life
+> - [[Sir Dixon Fire|Sir Dixon]] seemed to slowly recover along with the forest.

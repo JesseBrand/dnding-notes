@@ -3,7 +3,14 @@ aliases: Session 3-8, Fifdas 3, Fifdas 3 514, Session 3-8 - Fifdas 3 514, Sessio
 ---
 Previous: [[Session 3-7 - Giants Under the Earth|Session 3-7]] | Next: [[Session 3-9 - Manticore Assault|Session 3-9]]
 
-[[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Exilian]], [[Horatio]], [[Drathuul]] and [[Bavon]]:
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf|Sam]] 
+> - [[Castle-8]] 
+> - [[Exilian]] 
+> - [[Horatio]] 
+> - [[Drathuul]]
+> - [[Bavon]]
 
 - spent some time in the [[Black Barrel Inn|Inn]], deciding what to do; noticed [[Exilian]] having trouble with his tab and [[Castle-8]] arriving with a huge amount of [[Starmetal]];
 - decided to attempt to apprehend [[Reo Churner]], and asked around town for more information, among which [[Borout Bescond|Borout the Blacksmith]];
@@ -20,8 +27,10 @@ Previous: [[Session 3-7 - Giants Under the Earth|Session 3-7]] | Next: [[Session
 - eventually subdued him and bound him to take him to [[Ebonwatch]]
 - returned to the [[Ebonwatch|Town]] late at night, visiting the [[Duke Oakfire|Duke]] in the morning and collecting the bounty after turning [[Reo Churner|Reo]] in;
 
-### Loot & Rewards
--   50gp
+> ### Loot & Rewards
+> 
+> - 50gp
 
-### Effects & Repercussions
--   [[Reo Churner]] was left in the cells of [[Ebonwatch Keep]].
+> ### Effects & Repercussions
+> 
+> - [[Reo Churner]] was left in the cells of [[Ebonwatch Keep]].

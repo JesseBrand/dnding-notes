@@ -3,7 +3,13 @@ aliases: Session 3-5, Furdas 4, Furdas 4 514, Session 3-5 - Furdas 4 514, Sessio
 ---
 Previous: [[Session 3-4 - The Observatory|Session 3-4]] | Next: [[Session 3-6 - Mysteries of the Mire|Session 3-6]]
 
-[[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Horatio]], [[Nuk]] and [[Aboouck]]:
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf|Sam]] 
+> - [[Castle-8]] 
+> - [[Horatio]] 
+> - [[Nuk]]
+> - [[Aboouck]]
 
 - had a drink in the [[Black Barrel Inn|Tavern]] while [[Horatio]] identified [[Aboouck]]'s [[Amulet]] #TODO;
 - were shown [[Castle-8]]'s new [[Integrated Weapon|sword-hand]] and [[Horatio]]'s new [[Eldritch Cannon|Cannon]] which inspired [[The Party]];
@@ -19,9 +25,11 @@ Previous: [[Session 3-4 - The Observatory|Session 3-4]] | Next: [[Session 3-6 - 
 - crossed the stream once more, reported back to the [[Lizardfolk]] and were told they would get in touch;
 - reported back to the miners, were rewarded with their [[Bottle of Boundless Coffee|Coffee Bottle]] and returned to [[Ebonwatch]];
 
-### Loot & Rewards
-- An [[Eversmoking Bottle]]
-- A [[Bottle of Boundless Coffee]]
+> ### Loot & Rewards
+> 
+> - An [[Eversmoking Bottle]]
+> - A [[Bottle of Boundless Coffee]]
 
-### Effects & Repercussions
-- [[Anorak Iron Mine]] became available as a location
+> ### Effects & Repercussions
+> 
+> - [[Anorak Iron Mine]] became available as a location

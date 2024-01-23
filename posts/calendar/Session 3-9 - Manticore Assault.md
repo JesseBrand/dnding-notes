@@ -3,7 +3,17 @@ aliases: Session 3-9, Fifdas 4, Fifdas 4 514, Session 3-9 - Fifdas 4 514, Sessio
 ---
 Previous: [[Session 3-8 - The Mutant|Session 3-8]] | Next: [[Session 3-10 - Quarrelsome Quarry|Session 3-10]]
 
-[[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Horatio]], [[Drathuul]], [[Nuk]], [[Aboouck]], [[Paxton Umbra|Paxton]], [[Bavon]] and [[Enphine]]:
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf|Sam]] 
+> - [[Horatio]] 
+> - [[Drathuul]] 
+> - [[Nuk]] 
+> - [[Aboouck]] 
+> - [[Paxton Umbra|Paxton]] 
+> - [[Bavon]]
+> - [[Enphine]]
+
 - met at the [[Black Barrel Inn|Inn]] when [[Nuk]] returned from [[Sootwall Observatory]] with [[7th Observer Jorfan Billowgrin|Master Billowgrin]] and an unknown wizard lady named [[Enphine]], who was in search of money for her research;
 - understood from [[7th Observer Jorfan Billowgrin|Master Billowgrin]] that [[Sootwall Observatory|Sootwall]] was under threat from [[Manticore|Manticores]];
 - decided on aiding the [[Gnome|Gnomes]] and prepared to depart but negotiated for a breathing apparatus for use in the [[Anorak Iron Mine|Mine]], while [[Alaric]] and [[Castle-8]] signaled they had other business to attend to;
@@ -23,11 +33,13 @@ Previous: [[Session 3-8 - The Mutant|Session 3-8]] | Next: [[Session 3-10 - Quar
 - saw [[Aboouck]] cause [[Bavon]] and [[Sam Alderleaf|Sam]] to grow in size until [[Bavon]] could pick up a [[Ballista]] by himself and shoot the [[Manticore Elder|Manticore]] repeatedly until it went down, but not before it took down [[Paxton Umbra|Paxton]] with it;
 - noticed [[Aboouck]] taking the [[Wand of the Warmage +1|Wand]] off [[Paxton Umbra|Paxton]], then returned to the [[Gnome|Gnomes]] for their reward; again picking from several barrels of [[Magic Items]], then returned to [[Ebonwatch]], taking the [[Manticore Eggs|Eggs]] with them;
 
-### Loot & Rewards
-- a [[Ring of Protection]]
-- a [[Ring of Evasion]]
-- a set of [[Sending Stones]]
-- a [[Special Doll of the Warmage +1]]
+> ### Loot & Rewards
+> 
+> - a [[Ring of Protection]]
+> - a [[Ring of Evasion]]
+> - a set of [[Sending Stones]]
+> - a [[Special Doll of the Warmage +1]]
 
-### Effects & Repercussions
--   The upper floor of [[Sootwall Observatory|Sootwall]] was left a mess in the [[Manticore]]'s wake
+> ### Effects & Repercussions
+> 
+> -   The upper floor of [[Sootwall Observatory|Sootwall]] was left a mess in the [[Manticore]]'s wake

@@ -3,7 +3,15 @@ aliases: Session 3-6, Fifdas 1, Fifdas 1 514, Session 3-6 - Fifdas 1 514, Sessio
 ---
 Previous: [[Session 3-5 - Lizard Incursion|Session 3-5]] | Next: [[Session 3-7 - Giants Under the Earth|Session 3-7]]
 
-[[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Nuk]], [[Aboouck]], [[Bill]], [[Paxton Umbra|Paxton]] and [[Bavon]]:
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf|Sam]] 
+> - [[Castle-8]] 
+> - [[Nuk]] 
+> - [[Aboouck]] 
+> - [[Bill]] 
+> - [[Paxton Umbra|Paxton]]
+> - [[Bavon]]
 
 - were alarmed by some ruckus outside the tavern and witnessed an [[Orc|Orcish]] child being roughly handled, before [[Aboouck]] got him into the tavern;
 - met with [[Bavon]] the 30-year old [[Orc]] child and [[Paxton Umbra|Paxton]], who joined [[The Party]] on their quest;
@@ -20,14 +28,16 @@ Previous: [[Session 3-5 - Lizard Incursion|Session 3-5]] | Next: [[Session 3-7 -
 - dealt with the [[Bullywug|Bullywugs]] and the [[Froghemoth|giant]] without too much trouble, then beat the king to a pulp;
 - returned to [[Granny Moss|Granny]], handed over the capsule after quite some delaying, got [[Aboouck]]'s life restored, then returned to [[Ebonwatch]];
 
-### Loot & Rewards
-- [[The One True Hat]]
-- [[The One True Fork]]
-- 300gp, 50sp
-- 3 jade frog statuettes
-- an empty [[Rod of Lightning Bolts]]
+> ### Loot & Rewards
+> 
+> - [[The One True Hat]]
+> - [[The One True Fork]]
+> - 300gp, 50sp
+> - 3 jade frog statuettes
+> - an empty [[Rod of Lightning Bolts]]
 
-### Effects & Repercussions
-- [[Granny Moss' Hut]] became available as a location
-- A tube with a strange liquid and shape inside were handed over to [[Granny Moss]]
-- The [[Meteorite|Mysterious Metal Cache]] became available as a location
+> ### Effects & Repercussions
+> 
+> - [[Granny Moss' Hut]] became available as a location
+> - A tube with a strange liquid and shape inside were handed over to [[Granny Moss]]
+> - The [[Meteorite|Mysterious Metal Cache]] became available as a location

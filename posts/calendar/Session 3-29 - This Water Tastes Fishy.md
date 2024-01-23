@@ -2,14 +2,17 @@
 aliases: Session 3-29, Mendas 4 514, Session 3-29 - Mendas 4 514 - This Water Tastes Fishy
 ---
 Previous: [[Session 3-28 - Demons in the Shadows|Session 3-28]] | Next: [[Session 3-30]]
-## [[The Party]]
-- [[Castle-8]]
-- [[Horatio]]
-- [[Bill]]
-- [[Enphine]]
-- [[Paxton Umbra|Paxton]]
-- [[Sir Dixon Fire|Sir Dixon]]
-- [[Lynel]]
+
+> ## [[The Party]]
+> 
+> - [[Castle-8]]
+> - [[Horatio]]
+> - [[Bill]]
+> - [[Enphine]]
+> - [[Paxton Umbra|Paxton]]
+> - [[Sir Dixon Fire|Sir Dixon]]
+> - [[Lynel]]
+
 ## A Tribute
 The day started off with a song just as beautiful as a rooster's sounds in the morning. The [[Black Barrel Inn|Inn]] was filled with [[Layden Fantail|Layden]]'s amazing voice, vocalizing the good and true words about [[Sir Dozak the Magnificent]].
 [[Bill]] and [[Sir Dixon Fire|Sir Dixon]] walked up to the [[Black Barrel Inn|Inn]]. Opening the door they were confronted with [[Layden Fantail|Layden]]'s eardrum-menacing vocalization. Having no interest in being confronted with this before having a beer, they opted to wait outside until the song had stopped.
@@ -51,11 +54,15 @@ As [[The Party]] arrived in the scrapyard, they witnessed a [[Hippo-like Creatur
 [[Enphine]] cast one more [[Fireball]], enraging one of the monsters, which suddenly started lashing out to everything surrounding it, taking [[Enphine]] down with him. It left it very weakened afterwards though, and [[Lynel]]'s [[Spirit Guardians]] were able to mop it up quite easily. 
 
 [[The Party]] managed to finish off the [[Hippo-like Creatures|Monsters]], using [[Lynel]]'s [[Spirit Guardians]] to great effect, and noticed how the water recovered. They searched the scrapyard and found a couple of very valuable items.
-### Loot & Rewards
- - [[A Fiery Warhammer]]
- - [[A Copper Breastplate with Interlocking Gears]]
- - [[A Flickering Crystal Shard]]
- - [[A Shield with a Grieving Face on it]]
- - [[A Magic Wand]]
-### Effects & Repercussions
- - The [[Water Supply]] had been decontaminated
+
+> ### Loot & Rewards
+> 
+> - [[A Fiery Warhammer]]
+> - [[A Copper Breastplate with Interlocking Gears]]
+> - [[A Flickering Crystal Shard]]
+> - [[A Shield with a Grieving Face on it]]
+> - [[A Magic Wand]]
+
+> ### Effects & Repercussions
+> 
+> - The [[Water Supply]] had been decontaminated

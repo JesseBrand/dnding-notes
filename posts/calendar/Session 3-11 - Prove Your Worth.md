@@ -3,7 +3,19 @@ aliases: Session 3-11, Sidas 2, Sidas 2 514, Session 3-11 - Sidas 2 514, Session
 ---
 Previous: [[Session 3-10 - Quarrelsome Quarry|Session 3-10]] | Next: [[Session 3-12 - Rebellion|Session 3-12]]
 
-[[The Party]], consisting of [[Sam Alderleaf|Sam]], [[Castle-8]], [[Exilian]], [[Horatio]], [[Nuk]], [[Aboouck]], [[Paxton Umbra|Paxton]], [[Bill]], [[Bavon]] and [[Enphine]]:
+> ## [[The Party]]
+> 
+> - [[Sam Alderleaf|Sam]] 
+> - [[Castle-8]] 
+> - [[Exilian]] 
+> - [[Horatio]] 
+> - [[Nuk]] 
+> - [[Aboouck]] 
+> - [[Paxton Umbra|Paxton]] 
+> - [[Bill]] 
+> - [[Bavon]]
+> - [[Enphine]]
+
 - discussed current affairs in the [[Black Barrel Inn|Tavern]] and noticed [[Bavon]] was not getting served anymore;
 - were approached by [[Sir Dozak the Magnificent]] who told [[Sam Alderleaf|Sir Sam]] his [[Expedition into the Elven Ruin|Expedition]] was ready to go;
 - left with [[Sir Dozak the Magnificent|Sir Dozak]] after having been promised treasure and set off towards [[Hornwood]];
@@ -28,9 +40,11 @@ Previous: [[Session 3-10 - Quarrelsome Quarry|Session 3-10]] | Next: [[Session 3
 - searched the well while down there, [[Sam Alderleaf|Sam]] pocketing a heavy magical stone;
 - decided to call it a day, went back outside where [[Sir Dozak the Magnificent|Sir Dozak]] and his guards started setting up a [[Sir Dozak's Forward Camp|Fowrard Camp]], where some of the party remained as the rest returned to [[Ebonwatch]];
 
-### Loot & Rewards
-- An interesting heavy stone.
+> ### Loot & Rewards
+> 
+> - An interesting heavy stone.
 
-### Effects & Repercussions
-- [[Sir Dozak the Magnificent]] set out on his [[Expedition into the Elven Ruin|Expedition]], recruiting [[The Party]].
-- An [[Elven Ruin in the Royal Woodlands]] became available as a location.
+> ### Effects & Repercussions
+> 
+> - [[Sir Dozak the Magnificent]] set out on his [[Expedition into the Elven Ruin|Expedition]], recruiting [[The Party]].
+> - An [[Elven Ruin in the Royal Woodlands]] became available as a location.

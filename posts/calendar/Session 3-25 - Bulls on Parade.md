@@ -6,15 +6,18 @@ aliases:
   - Nendas 4 514
 ---
 Previous: [[Session 3-24 - Mess with the Debt Collectors|Session 3-24]] | Next: [[Session 3-26 - Extraction from the Shadows|Session 3-26]]
-## [[The Party]]
-- [[Bill]]
-- [[Sir Dixon Fire|Sir Dixon]]
-- [[Ru Eir Hydrus|Ru]]
-- [[Enphine]]
-- [[Horatio]]
-- [[Aboouck]]
-- [[Paxton Umbra|Paxton]]
-- [[Sam Alderleaf|Sam]]
+
+> ## [[The Party]]
+> 
+> - [[Bill]]
+> - [[Sir Dixon Fire|Sir Dixon]]
+> - [[Ru Eir Hydrus|Ru]]
+> - [[Enphine]]
+> - [[Horatio]]
+> - [[Aboouck]]
+> - [[Paxton Umbra|Paxton]]
+> - [[Sam Alderleaf|Sam]]
+
 ## Grumpy Old Man and fat ass [[Nuk]]
 When looking around in the [[Black Barrel Inn|Inn]] a few things were soon obvious. There was a bar stool under a lot of strain trying to hold up [[Nuk]] who was eating away at a meal. By the looks of it, it wasn't his first of the day. Or the hour.
 [[Sir Dixon Fire|Sir Dixon]] was clearly not in the mood, he was drawn into his own thoughts and anything that would interrupt these thoughts would be welcomed by a hearty grumble.
@@ -44,7 +47,11 @@ Grumpy old man [[Sir Dixon Fire|Sir Dixon]] moved on forward together with [[Sam
 Immediately [[Sir Dixon Fire|Sir Dixon]] was pulled out by [[Bill]] who had an eerie feeling about the [[Darkness]] and started hiding behind a nearby rock. [[Sir Dixon Fire|Sir Dixon]] summoned a bunch of [[Giant Bee|Giant Bees]], but they were ignored by the [[Shadow|Shadows]] coming from the darkness who started attacking him. Every attack which hit him drained his strength, [[The Party]] could see how this weakened [[Sir Dixon Fire|Sir Dixon]], trembling more and more, clinging onto his staff, dropping to his knees, and ending down on the ground unresponsive. [[Enphine]] levitated the body, after which [[Ru Eir Hydrus|Ru]] healed it and allowed for [[Sir Dixon Fire|Sir Dixon]] to escape, then being carried away by [[Sam Alderleaf|Sam]] who healed him like he did to [[Bill]] earlier, with the words "May the forest be with you".
 ## On the Retreat
 The whole [[The Party|Party]] managed to get away without too much damage. On their way back they saw that the [[Darkness]] had spread even further, trying to close them in, but they retreated just in time.
-### Loot & Rewards
-- 3 [[Demonic Teddy Bear|Sentient Teddy Bears]] ([[Paxton Umbra|Paxton]])
-### Effects & Repercussions
-- The [[Shadow|Shadows]] spread further throughout the forest
+
+> ### Loot & Rewards
+> 
+> - 3 [[Demonic Teddy Bear|Sentient Teddy Bears]] ([[Paxton Umbra|Paxton]])
+
+> ### Effects & Repercussions
+> 
+> - The [[Shadow|Shadows]] spread further throughout the forest
