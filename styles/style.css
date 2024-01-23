@@ -271,6 +271,8 @@ main {
   --header-font-family: MrJeeves;
   --header-font-weight: 800;
   --header-font-main-color: #58180d;
+
+  min-height: 100vh;
 }
 
 .markdown-rendered img:not([width]),
