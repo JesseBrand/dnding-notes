@@ -1,25 +1,25 @@
-import Head from "next/head";
-import Layout from "../../components/Layout";
+import { PropTypes } from 'prop-types'
+import Head from 'next/head'
+import Layout from '../../components/Layout'
 import {
-    getAllSlugs,
-    getSinglePost,
-    convertObject,
-    getDirectoryData,
-    constructGraphData, getLocalGraphData
-} from "../../lib/utils";
-import FolderTree from "../../components/FolderTree";
-import {getFlattenArray} from "../../lib/utils";
-import MDContent from "../../components/MDContent";
+  getAllSlugs,
+  getSinglePost,
+  convertObject,
+  getDirectoryData,
+  constructGraphData, getLocalGraphData
+  , getFlattenArray
+} from '../../lib/utils'
+import FolderTree from '../../components/FolderTree'
+import MDContent from '../../components/MDContent'
 import dynamic from 'next/dynamic'
 
 const DynamicGraph = dynamic(
-    () => import('../../components/Graph'),
-    { loading: () => <p>Loading ...</p>, ssr: false }
+  () => import('../../components/Graph'),
+  { loading: () => <p>Loading ...</p>, ssr: false }
 )
 
-export default function Home({note, backLinks, fileNames, tree, flattenNodes, graphData}) {
-
-    return (
+export default function Home ({ note, backLinks, fileNames, tree, flattenNodes, graphData }) {
+  return (
         <Layout>
             <Head>
                 {note.title && <meta name="title" content={note.title}/>}
@@ -33,38 +33,47 @@ export default function Home({note, backLinks, fileNames, tree, flattenNodes, gr
             </div>
 
         </Layout>
-    );
+  )
 }
 
-export async function getStaticPaths() {
-    const allPostsData = getAllSlugs();
-    const paths = allPostsData.map(p => ({params: {id: p}}))
-
-    return {
-        paths,
-        fallback: false
-    };
+Home.propTypes = {
+  note: PropTypes.any,
+  backLinks: PropTypes.any,
+  fileNames: PropTypes.any,
+  tree: PropTypes.any,
+  flattenNodes: PropTypes.any,
+  graphData: PropTypes.any
 }
 
-const {nodes, edges} = constructGraphData()
+export async function getStaticPaths () {
+  const allPostsData = getAllSlugs()
+  const paths = allPostsData.map(p => ({ params: { id: p } }))
 
-export function getStaticProps({params}) {
-    const title = nodes.find((aNode) => aNode.slug === params.id).title;
-    const note = getSinglePost(params.id, title);
-    const tree = convertObject(getDirectoryData());
-    const flattenNodes = getFlattenArray(tree)
+  return {
+    paths,
+    fallback: false
+  }
+}
 
-    const listOfEdges =   edges.filter(anEdge => anEdge.target === params.id)
-    const internalLinks = listOfEdges.map(anEdge => nodes.find(aNode => aNode.slug === anEdge.source)).filter(element => element !== undefined)
-    const backLinks = [...new Set(internalLinks)]
-    const graphData = getLocalGraphData(params.id)
-    return {
-        props: {
-            note,
-            tree: tree,
-            flattenNodes: flattenNodes,
-            backLinks: backLinks.filter(link => link.slug !== params.id),
-            graphData: graphData
-        },
-    };
+const { nodes, edges } = constructGraphData()
+
+export function getStaticProps ({ params }) {
+  const title = nodes.find((aNode) => aNode.slug === params.id).title
+  const note = getSinglePost(params.id, title)
+  const tree = convertObject(getDirectoryData())
+  const flattenNodes = getFlattenArray(tree)
+
+  const listOfEdges = edges.filter(anEdge => anEdge.target === params.id)
+  const internalLinks = listOfEdges.map(anEdge => nodes.find(aNode => aNode.slug === anEdge.source)).filter(element => element !== undefined)
+  const backLinks = [...new Set(internalLinks)]
+  const graphData = getLocalGraphData(params.id)
+  return {
+    props: {
+      note,
+      tree,
+      flattenNodes,
+      backLinks: backLinks.filter(link => link.slug !== params.id),
+      graphData
+    }
+  }
 }

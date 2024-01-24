@@ -7,7 +7,10 @@
     "clean-dev": "rimraf graph-data.json && next dev",
     "build": "rimraf graph-data.json && next build",
     "start": "next start",
-    "deploy": "yarn build && git add . && git commit -m '...' && git push"
+    "deploy": "yarn build && git add . && git commit -m '...' && git push",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@emotion/cache": "latest",
@@ -54,11 +57,18 @@
   "devDependencies": {
     "bimap": "^0.0.15",
     "cytoscape": "^3.17.0",
-    "eslint": "8.13.0",
+    "eslint": "^8.0.1",
     "eslint-config-next": "12.1.5",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.33.2",
     "remark-frontmatter": "^3.0.0",
     "remark-react": "^8.0.0",
     "remark-stringify": "^9.0.0",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "husky": "^8.0.0"
   }
 }
