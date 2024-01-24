@@ -9,7 +9,8 @@
     "start": "next start",
     "deploy": "yarn build && git add . && git commit -m '...' && git push",
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix"
+    "lint:fix": "eslint . --fix",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@emotion/cache": "latest",
@@ -67,6 +68,7 @@
     "remark-frontmatter": "^3.0.0",
     "remark-react": "^8.0.0",
     "remark-stringify": "^9.0.0",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "husky": "^8.0.0"
   }
 }
