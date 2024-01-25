@@ -4,42 +4,49 @@
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: BookSanity;
   src: url("fonts/5e/Bookinsanity_Bold.otf") format("opentype");
   font-weight: bold;
   font-style: normal;
 }
+
 @font-face {
   font-family: BookSanity;
   src: url("fonts/5e/Bookinsanity_Italic.otf") format("opentype");
   font-weight: normal;
   font-style: italic;
 }
+
 @font-face {
   font-family: BookSanity;
   src: url("fonts/5e/Bookinsanity_Bold_Italic.otf") format("opentype");
   font-weight: bold;
   font-style: italic;
 }
+
 @font-face {
   font-family: ScalySans;
   src: url("fonts/5e/Scaly_Sans.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: ScalySansSmallCaps;
   src: url("fonts/5e/Scaly_Sans_Caps.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: Solberry;
   src: url("fonts/5e/Solbera_Imitation.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: MrJeeves;
   src: url("fonts/5e/Mr_Eaves_Small_Caps.otf") format("woff2");
@@ -243,8 +250,8 @@ main {
   --background-modifier-error-rgb: 230, 135, 135;
   --background-modifier-error-hover: #bb0000;
   --background-modifier-cover: rgba(0, 0, 0, 0.8);
-  --text-accent: rgba(201, 19, 133, 0.77);
-  --text-accent-hover: #1ea2cc;
+  --text-accent: rgba(189, 101, 0, 0.77);
+  --text-accent-hover: rgb(152, 18, 40);
   --text-normal: #232324;
   --text-muted: #8e8e90;
   --text-muted-rgb: 136, 136, 136;
@@ -298,13 +305,13 @@ main {
   font-weight: 800;
 }
 
-.markdown-rendered div > h1:first-of-type {
+.markdown-rendered div>h1:first-of-type {
   font-size: 2.5em;
   line-height: 0.8;
 }
 
-.theme-dnd .markdown-rendered h1:not(:first-of-type) + p::first-letter,
-.theme-dnd .markdown-rendered h2 + p::first-letter {
+.theme-dnd .markdown-rendered h1:not(:first-of-type)+p::first-letter,
+.theme-dnd .markdown-rendered h2+p::first-letter {
   float: left;
   font-family: Solberry;
   font-size: 5em;
@@ -363,11 +370,13 @@ blockquote em {
   font-family: ScalySans;
   font-style: italic;
 }
+
 blockquote strong {
   font-family: ScalySans;
   font-weight: 800;
   letter-spacing: -0.02em;
 }
+
 blockquote p,
 blockquote ul {
   font-size: 18px;
