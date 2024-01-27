@@ -294,15 +294,22 @@ main {
 .markdown-rendered h3,
 .markdown-rendered h4,
 .markdown-rendered h5,
-.markdown-rendered h6 {
+.markdown-rendered h6,
+.character-viewer h1 {
   margin: var(--header-margin);
   font-family: var(--header-font-family);
   font-weight: var(--header-font-weight);
   color: var(--header-font-main-color);
 }
 
-.markdown-rendered h1 {
+.markdown-rendered h1,
+.character-viewer h1 {
   font-weight: 800;
+}
+
+.character-viewer h1 {
+  margin-bottom: 1em;
+  margin-top: .5em;
 }
 
 .markdown-rendered div>h1:first-of-type {
@@ -364,6 +371,91 @@ main {
   border-image: url("img/5e/blockquote_border.png") 11;
   border-image-outset: 9px 0;
   box-shadow: 1px 4px 14px #888;
+}
+
+.character {
+  margin-bottom: 1em;
+}
+
+.character-viewer {
+  display: block;
+  padding: 16px;
+  max-width: 800px;
+  color: var(--text-normal);
+  font-family: var(--default-font);
+}
+
+.character-viewer .character-name::first-letter {
+  font-family: Solberry;
+}
+
+.character-viewer .character-name {
+  font-size: 28px;
+  margin: var(--header-margin);
+  font-family: var(--header-font-family);
+  font-weight: var(--header-font-weight);
+  color: var(--header-font-main-color);
+}
+
+.character-viewer .bar {
+  letter-spacing: -0.31em;
+  /* webkit */
+  *letter-spacing: normal;
+  /* reset IE < 8 */
+  word-spacing: -0.43em;
+  /* IE < 8 && gecko */
+}
+
+.character-viewer .legend>*,
+.character-viewer .bar>* {
+  display: inline-block;
+}
+
+.character-viewer .legend .left {
+  margin-right: -16px;
+}
+
+.character-viewer .legend .middle {
+  text-align: right;
+}
+
+.character-viewer .bar>* {
+  height: 16px;
+}
+
+.character-viewer .left,
+.character-viewer .right {
+  width: 6px;
+}
+
+.character-viewer .middle,
+.character-viewer .middle-filled {
+  width: 15px;
+}
+
+.character-viewer .bar .middle,
+.character-viewer .bar .middle-filled {
+  border-right: solid 1px #666;
+}
+
+.character-viewer .bar .middle {
+  background-image: url('img/dnding-characters/frame_mid.png');
+}
+
+.character-viewer .bar .middle-filled {
+  background-image: url('img/dnding-characters/frame_mid-full.png');
+}
+
+.character-viewer .bar .level-tick {
+  border-right: solid 3px var(--header-font-main-color);
+}
+
+.character-viewer .bar .left {
+  background-image: url('img/dnding-characters/frame_left.png');
+}
+
+.character-viewer .bar .right {
+  background-image: url('img/dnding-characters/frame_right.png');
 }
 
 blockquote em {

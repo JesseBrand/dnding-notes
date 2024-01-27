@@ -65,10 +65,10 @@
     "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
     "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-react": "^7.33.2",
+    "husky": "^8.0.0",
     "remark-frontmatter": "^3.0.0",
     "remark-react": "^8.0.0",
     "remark-stringify": "^9.0.0",
-    "uuid": "^8.3.2",
-    "husky": "^8.0.0"
+    "uuid": "^8.3.2"
   }
 }
