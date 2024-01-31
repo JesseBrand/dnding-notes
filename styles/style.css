@@ -373,6 +373,13 @@ main {
   box-shadow: 1px 4px 14px #888;
 }
 
+.markdown-rendered blockquote:has(img) {
+  width: 40%;
+  display: block;
+  float: right;
+  padding: 0;
+}
+
 .character {
   margin-bottom: 1em;
 }

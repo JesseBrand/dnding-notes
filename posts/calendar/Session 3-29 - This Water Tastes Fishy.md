@@ -13,6 +13,8 @@ Previous: [[Session 3-28 - Demons in the Shadows|Session 3-28]] | Next: [[Sessio
 > - [[Sir Dixon Fire|Sir Dixon]]
 > - [[Lynel]]
 
+![[3-29.jpg]]
+
 ## A Tribute
 The day started off with a song just as beautiful as a rooster's sounds in the morning. The [[Black Barrel Inn|Inn]] was filled with [[Layden Fantail|Layden]]'s amazing voice, vocalizing the good and true words about [[Sir Dozak the Magnificent]].
 [[Bill]] and [[Sir Dixon Fire|Sir Dixon]] walked up to the [[Black Barrel Inn|Inn]]. Opening the door they were confronted with [[Layden Fantail|Layden]]'s eardrum-menacing vocalization. Having no interest in being confronted with this before having a beer, they opted to wait outside until the song had stopped.
