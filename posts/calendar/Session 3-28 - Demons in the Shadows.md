@@ -16,6 +16,8 @@ Previous: [[Session 3-27 - Corruption From Within|Session 3-27]] | Next: [[Sessi
 > - [[Lynel]]
 
 ## Peace and Quiet... Finally
+![[reusables/alaric/beep.jpeg]]  
+
 When looking into the [[Black Barrel Inn|Inn]], one thing was noticeable, [[Sir Dixon Fire|Sir Dixon]] shouting in frustration towards [[Sam Alderleaf|Sam]] about her taking all of his coin in a game of dice. Not long afterwards [[Sir Dixon Fire|Sir Dixon]] asked [[Sam Alderleaf|Sam]] if she could [[Fly]] the [[Corrupted Heart]] from last week's adventure away and throw it off the edge of the [[Tebinor|Shard]].
 
 [[Ru Eir Hydrus|Ru]], annoyed by the [[Starmetal Ball|Beeping Ball]] of [[Alaric]] walked out as he couldn't stand the sound anymore.
@@ -26,6 +28,9 @@ Meanwhile, [[Horatio]] and [[Alaric]] were looking into the beeping ball of [[Al
 
 With the [[Starmetal Ball|Ball]]'s beeping gone, [[Layden Fantail|Layden]] took the stage and replaced the annoying beeping with an even more annoying sound. He started singing again and filling the [[Black Barrel Inn|Inn]] with music... until a field of [[Silence]] was cast. [[Layden Fantail|Layden]], even though he was small, was not completely stupid (not far from it though). He noticed his instrument didn't work anymore and flew out of the sphere of [[Silence]], sitting down on [[Paxton Umbra|Paxton]]'s shoulder which happened to be at the same table [[Sam Alderleaf|Sam]] was at.
 ## No Party Policy
+![[sessions/3-28/no-entry.jpeg]]  
+
+
 [[Enphine]] entered the [[Black Barrel Inn|Inn]] and walked up to [[Sam Alderleaf|Sam]], reporting to her that the [[Gnome|Gnomes]] would no longer make gunpowder for [[Sam Alderleaf|Sam]] as outsiders were no longer allowed back in. She also mentioned that the [[1st Observer Orxim Pebblebeard|1st Observer]] who looked through the telescope as the first to do so finally woke up, seemingly still nuts, crazy, mad, out of his mind and extremely paranoid. She said that all they could see through the telescope now is [[Darkness]].
 
 As [[Enphine]] was sharing all this information, [[Layden Fantail|Layden]]'s songs seemed to feel more present and noticeable by [[Sam Alderleaf|Sam]] herself for some unknown reason. [[Sam Alderleaf|Sam]] was quite able to focus on the conversation though and managed to keep her nerves while this was happening.
@@ -39,8 +44,11 @@ As [[Enphine]] was sharing all this information, [[Layden Fantail|Layden]]'s son
 
 [[Enphine]] tried to up the price for the ears, by saying the [[Gnome|Gnomes]] were also in need for materials and wanted the ears, after which [[Sir Dozak the Magnificent|Sir Dozak]] mentioned it was fine and that they could keep them. [[Enphine]] realizing the mistakes of her negotiations then quickly got part of the deal back. [[The Party]] would only need to show the ears rather than hand them over for a lower price, after which [[Sir Dozak the Magnificent|Sir Dozak]] would mark them.
 ## It's been a while, hasn't it
+![[reusables/elves/captain-of-the-guard.jpeg]]  
 [[The Party]] moved on, crossing the [[Grassroads|Bridge]] and arrived at [[Mythana]]. The [[Mythana|Elven Village]] was surrounded by a shield, kept in place by [[Yeswynn]] and others. On arrival, [[Horatio]] moved in, running past the [[Myacine|Guard Captain]] towards 2 [[Tebinor Elves|Elves]] who were speaking in a language [[Horatio]] couldn't understand. [[Bill]] stepped up as interpreter and told [[Horatio]] he wasn't very loved here and was playing with his life. [[Sir Dixon Fire|Sir Dixon]] asked the [[Myacine|Guard Captain]] what the recent activities in the surrounding areas were. She mentioned that the [[Huge Demon]] was hiding in the forest to the west and had made two attempts already to enter the [[Mythana]] but they were able to hold it off using the shield so far.
 ## Demonic Rituals
+![[sessions/3-28/demon-ritual.jpeg]]  
+
 [[The Party]] moved west and arrived at a giant wall of [[Shadow]] with a single tunnel into it. [[Sir Dixon Fire|Sir Dixon]] attempted to cast [[Moonbeam]] but it didn't penetrate the wall of [[Shadow]] above it. Both [[Lynel]] and [[Sir Dixon Fire|Sir Dixon]] cast [[Daylight]], one on the shield of [[Sir Dixon Fire|Sir Dixon]] and one on the log laying on the ground as part of their exit route. [[Bill]] started scouting ahead in hiding outside of the [[Daylight]], and moved forward.
 
 [[Bill]] and [[The Party]] moved through the tunnel until [[Bill]] came across a sight of demons. The [[Huge Demon]] they had encountered before and two demonic [[Minotaur|Minotaurs]], but also a new type they hadn't encountered yet. A [[Demon Spellcaster]] was casting some kind of strange ritual. [[Bill]] signalled back to [[The Party]] that they should wait and headed back to discuss with them. He informed [[The Party]] about what he had seen, and thus they started preparing. Everyone started buffing up, summoning animals, and they went in for the good fight.
