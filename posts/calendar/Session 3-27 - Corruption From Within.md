@@ -18,9 +18,12 @@ Previous: [[Session 3-26 - Extraction from the Shadows|Session 3-26]] | Next: [[
 > - [[Lynel]]
 
 ## Beeping Ball
+![[reusables/alaric/beep.jpeg]]  
+
 There was a cosy atmosphere within the [[Black Barrel Inn|Inn]], there was only one thing that was noticeably disturbing it, which was a repeating beep coming from the bar, to be precise from [[Alaric]]. [[Alaric]] was looking into an [[Starmetal Ball]] with a red light emitting from it. [[Alaric]] was thinking what he could do to see what was inside, quite unlike him he didn't want to smash it as it looked too valuable to break it. [[Sam Alderleaf|Sam]] [[Identify|Identified]] the [[Starmetal Ball|Ball]] but could not find any magic and noticed it was a mechanical thing that might have something inside it.
 This ball was noticeable annoying for many people within the [[Black Barrel Inn|Inn]] but none dared to approach the big half-orc to do anything about it.
 ## No Egg Policy
+![[sessions/3-27/gnomes-no-eggs.jpeg]]  
 Later on [[Enphine]] came into the [[Black Barrel Inn|Inn]] telling the disappointing news that her newly loved unborn (dragon)child wasn't allowed into the [[Sootwall Observatory|Observatory]] due to events happening in the past. She mentioned the event being the time the [[Gnome|Gnomes]] gathered a bunch [[Manticore]] Eggs, which attracted some unwanted attention. Since then a strict no [[Blue Dragon Egg|Egg]] policy was effective.
 It was mentioned that [[Sam Alderleaf|Sam]] took the [[Blue Dragon Egg|Egg]] elsewhere for save keeping, [[Nuk]] said that he could take care of the [[Blue Dragon Egg|Egg]] as well, but the suggestion was put aside as [[Nuk]] devoured 3 sets of eggs straight after this idea.
 ## Old Man Crawling
