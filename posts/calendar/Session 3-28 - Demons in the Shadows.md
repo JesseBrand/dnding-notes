@@ -16,7 +16,7 @@ Previous: [[Session 3-27 - Corruption From Within|Session 3-27]] | Next: [[Sessi
 > - [[Lynel]]
 
 ## Peace and Quiet... Finally
-![[reusables/alaric/beep.jpeg]]  
+![[reusables/pcs/alaric/beep.jpeg]]  
 
 When looking into the [[Black Barrel Inn|Inn]], one thing was noticeable, [[Sir Dixon Fire|Sir Dixon]] shouting in frustration towards [[Sam Alderleaf|Sam]] about her taking all of his coin in a game of dice. Not long afterwards [[Sir Dixon Fire|Sir Dixon]] asked [[Sam Alderleaf|Sam]] if she could [[Fly]] the [[Corrupted Heart]] from last week's adventure away and throw it off the edge of the [[Tebinor|Shard]].
 
@@ -44,7 +44,7 @@ As [[Enphine]] was sharing all this information, [[Layden Fantail|Layden]]'s son
 
 [[Enphine]] tried to up the price for the ears, by saying the [[Gnome|Gnomes]] were also in need for materials and wanted the ears, after which [[Sir Dozak the Magnificent|Sir Dozak]] mentioned it was fine and that they could keep them. [[Enphine]] realizing the mistakes of her negotiations then quickly got part of the deal back. [[The Party]] would only need to show the ears rather than hand them over for a lower price, after which [[Sir Dozak the Magnificent|Sir Dozak]] would mark them.
 ## It's been a while, hasn't it
-![[reusables/elves/captain-of-the-guard.jpeg]]  
+![[sessions/3-28/captain-of-the-guard.jpeg]]  
 [[The Party]] moved on, crossing the [[Grassroads|Bridge]] and arrived at [[Mythana]]. The [[Mythana|Elven Village]] was surrounded by a shield, kept in place by [[Yeswynn]] and others. On arrival, [[Horatio]] moved in, running past the [[Myacine|Guard Captain]] towards 2 [[Tebinor Elves|Elves]] who were speaking in a language [[Horatio]] couldn't understand. [[Bill]] stepped up as interpreter and told [[Horatio]] he wasn't very loved here and was playing with his life. [[Sir Dixon Fire|Sir Dixon]] asked the [[Myacine|Guard Captain]] what the recent activities in the surrounding areas were. She mentioned that the [[Huge Demon]] was hiding in the forest to the west and had made two attempts already to enter the [[Mythana]] but they were able to hold it off using the shield so far.
 ## Demonic Rituals
 ![[sessions/3-28/demon-ritual.jpeg]]  

@@ -18,7 +18,7 @@ Previous: [[Session 3-26 - Extraction from the Shadows|Session 3-26]] | Next: [[
 > - [[Lynel]]
 
 ## Beeping Ball
-![[reusables/alaric/beep.jpeg]]  
+![[reusables/pcs/alaric/beep.jpeg]]
 
 There was a cosy atmosphere within the [[Black Barrel Inn|Inn]], there was only one thing that was noticeably disturbing it, which was a repeating beep coming from the bar, to be precise from [[Alaric]]. [[Alaric]] was looking into an [[Starmetal Ball]] with a red light emitting from it. [[Alaric]] was thinking what he could do to see what was inside, quite unlike him he didn't want to smash it as it looked too valuable to break it. [[Sam Alderleaf|Sam]] [[Identify|Identified]] the [[Starmetal Ball|Ball]] but could not find any magic and noticed it was a mechanical thing that might have something inside it.
 This ball was noticeable annoying for many people within the [[Black Barrel Inn|Inn]] but none dared to approach the big half-orc to do anything about it.
