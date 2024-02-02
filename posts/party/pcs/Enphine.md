@@ -1,3 +1,6 @@
+
+![[reusables/pcs/enphine/avatar_crop.webp]]
+
 Enphine was a [[High Elf|High]] [[Elf]] Evocation [[Wizard]].
 
 Enphine has always been interested in finding out how things work. After solving a certain puzzle in an old ruin she found an ancient text that she determined should not fall in the wrong hands. She determined she had to leave her home shard and sought safety on the Front Shard of [[Tebinor]].

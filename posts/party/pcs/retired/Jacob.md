@@ -1,3 +1,6 @@
+
+![[reusables/pcs/jacob/avatar.webp]]
+
 Jacob was a [[Human]] [[Warlock]] who apparently worshipped his patron "[[Froggy]]".
 
 He joined [[The Party]] as a fellow prisoner when they were captured and brought to the [[Drow]] stronghold of [[Velkynvelve]].

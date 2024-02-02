@@ -1,3 +1,6 @@
+
+![[reusables/pcs/morthos/avatar_crop.webp]]
+
 Morthos was a [[Tiefling]] [[Rogue]] and part of  [[The Blue Crusaders]].
 
 He joined [[The Party]] as they were travelling to [[Phandalin]] and aided them as they were ambushed by [[Goblin|goblins]] on the road. He accompanied them into a [[Cragmaw Hideout|nearby goblin cave]] then proceeded to accompany them on the [[Search for the Forge of Spells]].

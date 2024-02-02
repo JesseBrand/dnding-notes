@@ -1,3 +1,6 @@
+
+![[reusables/pcs/drathuul/avatar_crop.webp]]
+
 Drathuul was a Blue [[Dragonborn]] [[Fighter]] / [[Sorcerer]] who travelled with [[The Party]] for a while.
 
 [[The Party]] ran into Drathuul in [[The Shattered Spire]] in [[Gracklstugh]]. After learning of their intentions, he tagged along.
