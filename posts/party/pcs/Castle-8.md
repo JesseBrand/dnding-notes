@@ -1,6 +1,9 @@
 ---
 aliases: Horny-1
 ---
+
+![[reusables/pcs/castle-8/avatar_crop.webp]]
+
 A [[Warforged]] Juggernaut [[Paladin]], Castle-8 was found while [[The Party]] explored [[Wave Echo Cave]] and subsequently activated. After being beaten into submission, Castle-8 joined [[The Party]] on their [[Search for the Forge of Spells]].
 
 After being captured by [[Drow]] alongside [[The Party]], he was taken to [[Velkynvelve]] and after spending more than enough time hanging by his feet, accompanied [[The Party]] on their [[Journey through the Underdark]].

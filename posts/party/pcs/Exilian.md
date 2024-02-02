@@ -1,6 +1,8 @@
 A [[Drow]] [[Rogue]] [[Arcane Trickster]] originally from [[Menzobaranzan]] in the [[Underdark]], Exillian joined [[The Party]] after being captured by his kin and taken to the [[Drow]] prison of [[Velkynvelve]].
 
-## Backstory
+### Backstory
+![[reusables/pcs/exillian/avatar_crop.webp]]
+
 Exilian was part of [[House Beanre]] of [[Menzobaranzan]] en son to [[Andzrel Beanre]].
 
 #TODO

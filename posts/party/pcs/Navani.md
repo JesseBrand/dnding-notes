@@ -1,3 +1,7 @@
+
+
+![[reusables/pcs/navani/avatar_crop.webp]]
+
 Navani was a female [[Wood Elf|Wood]] [[Elf]] [[Rogue]] who joined [[The Party]] when they visited [[Gracklstugh]].
 
 She has a hideout on the outskirts of [[Gracklstugh]] along the [[Darklake]] where she kept a stash of weapons and armour, which she used to aid the party with.

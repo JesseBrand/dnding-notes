@@ -1,6 +1,9 @@
 ---
 alias: Sam, Lady Sam, Sir Sam
 ---
+
+![[reusables/pcs/sam/avatar_wizard.webp]]
+
 Sam Alderleaf was born a [[Halfling]] in the [[Alderleaf Family]] in the town of [[Phandalin]]. He became a Shadow [[Monk]] and joined [[The Party]] known as the [[The Blue Crusaders]] to rid his hometown of the [[Redbrand Ruffians]] and [[Search for the Forge of Spells|locate the Forge of Spells]] for [[Gundren Rockseeker]].
 
 Sam has a sister called [[Qelline Alderleaf|Qelline]], who still resides in [[Phandalin]].

@@ -1,6 +1,9 @@
 ---
 aliases: Sir Dozak
 ---
+
+![[reusables/npcs/Sir_Dozak_crop.webp]]
+
 A [[Vavian Noble]] [[Human]] [[Fighter]] in the [[Vaviel Empire]]
 
 Resident of the [[Vaviel Empire]] and hero of the [[War for Asholas]] where he fought alongside [[Sir Dixon Fire]].
