@@ -11,7 +11,8 @@ module.exports = {
   extends: [
     'standard',
     'plugin:react/recommended',
-    'plugin:react/jsx-runtime'
+    'plugin:react/jsx-runtime',
+    'plugin:@next/next/recommended'
   ],
   overrides: [
     {
