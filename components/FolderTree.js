@@ -4,6 +4,7 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore'
 import ChevronRightIcon from '@mui/icons-material/ChevronRight'
 import { useRouter } from 'next/router'
 import { styled } from '@mui/material/styles'
+import { getFlattenArray } from '../lib/page_utils'
 
 const TCTreeItem = styled(TreeItem)(({ theme }) => ({
   '& .MuiTreeItem-content': {
@@ -18,7 +19,7 @@ const TCTreeItem = styled(TreeItem)(({ theme }) => ({
 
 export default function FolderTree (props) {
   const renderTree = (nodes) => (
-        <TCTreeItem key={nodes.id} nodeId={nodes.id} label={nodes.name}>
+        <TCTreeItem key={nodes.id} nodeId={nodes.id} label={nodes.label}>
             {Array.isArray(nodes.children)
               ? nodes.children.map((node) => renderTree(node))
               : null}
@@ -28,14 +29,15 @@ export default function FolderTree (props) {
   const router = useRouter()
   // const childrenNodeIds = props.tree.children.map(aNode => {return aNode.id})
   const expandedNodes = [props.tree.id]
+  const flattenNodes = getFlattenArray(props.tree)
   return (
         <TreeView
             aria-label="rich object"
-            defaultCollapseIcon={<ExpandMoreIcon/>}
+            defaultCollapseIcon={<ExpandMoreIcon />}
             defaultExpanded={expandedNodes}
-            defaultExpandIcon={<ChevronRightIcon/>}
+            defaultExpandIcon={<ChevronRightIcon />}
             onNodeSelect={(event, nodIds) => {
-              const currentNode = props.flattenNodes.find(aNode => {
+              const currentNode = flattenNodes.find(aNode => {
                 return aNode.id === nodIds
               })
               if (nodIds === 'progression_id') {
@@ -46,7 +48,7 @@ export default function FolderTree (props) {
             }}
             sx={{ flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
         >
-          <TCTreeItem key={'progression_key'} nodeId={'progression_id'} label={'Progression'}/>
+            <TCTreeItem key={'progression_key'} nodeId={'progression_id'} label={'Progression'} />
             {renderTree(props.tree)}
 
         </TreeView>
@@ -54,6 +56,6 @@ export default function FolderTree (props) {
 }
 FolderTree.propTypes = {
   props: PropTypes.any,
-  tree: PropTypes.any,
-  flattenNodes: PropTypes.any
+  tree: PropTypes.any
+
 }

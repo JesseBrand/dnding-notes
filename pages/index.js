@@ -2,7 +2,6 @@ import PropTypes from 'prop-types'
 import Layout from '../components/Layout'
 import {
   getSinglePost,
-  getFlattenArray,
   getLocalGraphData,
   constructGraphData,
   getTree
@@ -16,7 +15,7 @@ export default function Home ({ content, tree, flattenNodes, backLinks }) {
         <Layout>
             <div className='container'>
                 <nav className="nav-bar">
-                    <FolderTree tree={tree} flattenNodes={flattenNodes} />
+                    <FolderTree tree={tree} />
                 </nav>
                 <MDContent content={content} handleOpenNewContent={null} backLinks={backLinks} />
             </div>
@@ -36,7 +35,6 @@ const { nodes, edges } = constructGraphData()
 export function getStaticProps () {
   const tree = getTree()
   const contentData = getSinglePost('index')
-  const flattenNodes = getFlattenArray(tree)
   const listOfEdges = edges.filter(anEdge => anEdge.target === 'index')
   const internalLinks = listOfEdges.map(anEdge => nodes.find(aNode => aNode.slug === anEdge.source)).filter(element => element !== undefined)
   const backLinks = [...new Set(internalLinks)]
@@ -46,7 +44,6 @@ export function getStaticProps () {
     props: {
       content: contentData.data,
       tree,
-      flattenNodes,
       graphData,
       backLinks
     }

@@ -4,8 +4,7 @@ import CharacterView from '../components/dnding-characters/character-view'
 import PropTypes from 'prop-types'
 import {
   getDirectoryData,
-  convertObject,
-  getFlattenArray
+  convertObject
 } from '../lib/utils'
 
 export default function Progression ({ tree, flattenNodes }) {
@@ -28,12 +27,10 @@ Progression.propTypes = {
 
 export function getStaticProps () {
   const tree = convertObject(getDirectoryData())
-  const flattenNodes = getFlattenArray(tree)
 
   return {
     props: {
-      tree,
-      flattenNodes
+      tree
     }
   }
 }
