@@ -5,7 +5,6 @@ import {
   getAllSlugs,
   getSinglePost,
   constructGraphData,
-  getFlattenArray,
   getTree
 } from '../../lib/utils'
 import FolderTree from '../../components/FolderTree'
@@ -15,13 +14,13 @@ export default function Home ({ note, backLinks, fileNames, tree, flattenNodes }
   return (
         <Layout>
             <Head>
-                {note.title && <meta name="title" content={note.title}/>}
+                {note.title && <meta name="title" content={note.title} />}
             </Head>
             <div className='container'>
                 <nav className="nav-bar">
-                    <FolderTree tree={tree} flattenNodes={flattenNodes}/>
+                    <FolderTree tree={tree} />
                 </nav>
-                <MDContent content={note.data} fileNames={fileNames} handleOpenNewContent={null} backLinks={backLinks}/>
+                <MDContent content={note.data} fileNames={fileNames} handleOpenNewContent={null} backLinks={backLinks} />
             </div>
 
         </Layout>
@@ -52,7 +51,6 @@ export function getStaticProps ({ params }) {
   const title = nodes.find((aNode) => aNode.slug === params.id).title
   const note = getSinglePost(params.id, title)
   const tree = getTree()
-  const flattenNodes = getFlattenArray(tree)
 
   const listOfEdges = edges.filter(anEdge => anEdge.target === params.id)
   const internalLinks = listOfEdges.map(anEdge => nodes.find(aNode => aNode.slug === anEdge.source)).filter(element => element !== undefined)
@@ -61,7 +59,6 @@ export function getStaticProps ({ params }) {
     props: {
       note,
       tree,
-      flattenNodes,
       backLinks: backLinks.filter(link => link.slug !== params.id)
     }
   }
