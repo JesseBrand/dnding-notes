@@ -1,0 +1,216 @@
+<html>
+<body>
+<textarea style="border: 0;width:100%; height: 90%;" id="summary"></textarea>
+<hr>
+<button onclick="javascript:convert()">Convert!</button>
+</body>
+<script>
+    const keywords = [
+        {
+            "keyword" : "Sir Dixon Fire",
+            "aliases": ["Sir Dixon"]
+        },
+        {
+            "keyword": "Ru Eir Hydrus",
+            "aliases": ["Ru"]
+        },
+        {
+            "keyword": "Layden Fantail",
+            "aliases": ["Layden"]
+        },
+        {
+            "keyword": "Sam Alderleaf",
+            "aliases": ["Sam", "Dame Sam", "Sir Sam"]
+        },
+        {
+            "keyword": "Paxton Umbra",
+            "aliases": ["Paxton"]
+        },
+        {"keyword": "Bill"},
+        {"keyword": "Lynel"},
+        {"keyword": "Enphine"},
+        {"keyword": "Castle-8"},
+        {"keyword": "Aboouck"},
+        {"keyword": "Alaric"},
+        {"keyword": "Nuk"},
+        {"keyword": "Exilian"},
+        {"keyword": "Horatio"},
+        {"keyword": "Bavon"},
+        {"keyword": "Freya"},
+        {
+            "keyword": "Girard de Kosigan",
+            "aliases": ["Girard"]
+        },
+        {
+            "keyword": "Sir Dozak the Magnificent",
+            "aliases": ["Sir Dozak"]
+        },
+        {
+            "keyword": "Florellius Patar",
+            "aliases": ["Florellius", "Flo Flo"]
+        },
+        {
+            "keyword": "Ebonwatch",
+            "aliases": ["Town"]
+        },
+        {
+            "keyword": "Tebinor",
+            "aliases": ["Shard"]
+        },
+        {
+            "keyword": "Black Barrel Inn",
+            "aliases": ["Inn"]
+        },
+        {
+            "keyword": "Demonic Teddy Bears",
+            "aliases": ["Teddy Bears", "Teddy Bear"]
+        },
+        {
+            "keyword": "Identify",
+            "aliases": ["Identified"]
+        },
+        {
+            "keyword": "Chamberlain Gerrard",
+            "aliases": ["Chamberlain", "Gerrard"]
+        },
+        {
+            "keyword": "Troll",
+            "aliases": ["Trolls"]
+        },
+        {
+            "keyword": "Sir Darion",
+            "aliases": ["Darion"]
+        },
+        {
+            "keyword": "Gamwater Quarry",
+            "aliases": ["Quarry"]
+        },
+        {
+            "keyword": "Shadow",
+            "aliases": ["Shadows"]
+        },
+        {
+            "keyword": "Silvery Barb",
+            "aliases": ["Silvery Barbs", "Silvery Barb"]
+        },
+        {
+            "keyword": "Exhaustion",
+            "aliases": ["Exhausting"]
+        },
+        {
+            "keyword": "Mythana",
+            "aliases": ["Elven encampment", "Elven camp", "Elven Village"]
+        },
+        {
+            "keyword": "Scotia Hammerarm",
+            "aliases": ["Scotia"]
+        },
+        {
+            "keyword": "Thyrim Stouthammer",
+            "aliases": ["Thyrim"]
+        },
+        {
+            "keyword": "Brannis Boulderblade",
+            "aliases": ["Brannis"]
+        },
+        {
+            "keyword": "Tebinor Dwarves",
+            "aliases": ["Dwarves", "Dwarf"]
+        },
+        {
+            "keyword": "Tebinor Elves",
+            "aliases": ["Elves"]
+        },
+        {
+            "keyword": "Adamantium",
+            "aliases": ["Adamantium Ore"]
+        },
+        {
+            "keyword": "Dwarven Mining Camp",
+            "aliases": ["Dwarven Mining Camp", "Mining Camp"]
+        },
+        {
+            "keyword": "Sylvanus' Cabin",
+            "aliases": ["Cabin", "Dixon's Cabin"]
+        },
+        {
+            "keyword": "Dwarven Mine",
+            "aliases": ["Dwarven Mines"]
+        },
+        {"keyword": "Silence"},
+        {"keyword": "Centaur"},
+        {"keyword": "The Party"},
+        {"keyword": "Shadow Monster"},
+        {"keyword": "Misty Step"},
+        {"keyword": "Wall of Fire"},
+        {"keyword": "Haste"},
+        {"keyword": "Sickening Radiance"},
+        {"keyword": "Emboldening Bond"},
+        {"keyword": "Armblade"},
+        {"keyword": "Death Ward"},
+        {"keyword": "Fly"},
+        {
+            "keyword": "Blue Dragon Egg",
+            "aliases": ["Egg"]
+        },
+        {"keyword": "Enlarge"},
+        {"keyword": "Giant Ape"},
+        {"keyword": "Darkness"},
+        {"keyword": "Daylight"},
+        {"keyword": "Fireball"},
+        {"keyword": "Blessed"},
+        {"keyword": "Horn of Gunpowder"},
+        {"keyword": "Crusader's Mantle"},
+        {"keyword": "Moldarhim"},
+        {"keyword": "Uranmel"},
+        {"keyword": "Tyderius"},
+        {"keyword": "Xedaicaius"},
+        {"keyword": "Saryarus"},
+        {"keyword": "Yeswynn"},
+        {
+            "keyword": "Myacine",
+            "aliases": ["Guard Captain", "Captain of the Guard"]
+        },
+        {"keyword": "Eltoris"},
+        {"keyword": "Hawk"},
+        {"keyword": "Disguise Kit"},
+        {"keyword": "Pass Without A Trace"},
+        {"keyword": "Heart of the Forest"},
+        {
+            "keyword": "Gnome",
+            "aliases": ["Gnomes"]
+        },
+        {
+            "keyword": "Demon",
+            "aliases": ["Demons"]
+        },
+        {"keyword": "Drone"},
+        {"keyword": "Ooze"},
+        {"keyword": "Frightening"},
+        {"keyword": "Invisible"},
+        {"keyword": "Giant Toad"},
+        {"keyword": "Observatory"}
+    ]
+    const convert = () => {
+        const summaryField = document.getElementById("summary");
+        let summaryMutation = summaryField.value;
+
+        keywords.forEach(keywordObj => {
+            let matchCounter = 0;
+            //replace aliases
+            keywordObj.aliases?.forEach(alias => {
+                const regex = new RegExp(`(?<![\[a-zA-Z\|])${alias}(?<![\]a-zA-Z\|])`, "gi")
+                summaryMutation = summaryMutation.replaceAll(regex, () => {matchCounter++; return `[[${keywordObj.keyword !== alias ? `${keywordObj.keyword}|` : ''}${alias}]]`});
+            })
+            //replace the keywords directly
+            const regex = new RegExp(`(?<![\[a-zA-Z\|])${keywordObj.keyword}(?<![\]a-zA-Z\|])`, "gi")
+            summaryMutation = summaryMutation.replaceAll(regex, () => {matchCounter++; return `[[${keywordObj.keyword}]]`});
+
+            summaryField.value = summaryMutation;
+            if (matchCounter){
+                console.log(`${matchCounter} replacements done for ${keywordObj.keyword}`);
+            }
+        })
+    }
+</script>
+</html>
