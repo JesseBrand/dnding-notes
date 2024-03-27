@@ -33,7 +33,7 @@ And there were some items which had no use and thus were being sold
 - Adamantine Battleaxe
 - Breastplate of Balance
 
-![[sessions/3-30/fat-ass-[[Nuk]].jpeg]]
+![[sessions/3-30/fat-ass-nuk.jpeg]]
 ## The [[Black Barrel Inn|Inn]] Trembles
 [[The Party]] had gathered in the [[Black Barrel Inn|Inn]] and started looking at what to do. After a long discussion going back and forth, [[The Party]] decided to go after the snakes breathing fire in the woods. This time around, something seems to have changed in regards to [[Nuk]], not just his extra weight. His lust for fighting had returned, and he attempted to leave his bar stool, unsuccessfully. He made his way with a lot of trouble to the table where a part of [[The Party]] was present, stumbling along, pushing tables aside just to get to the other side of the [[Black Barrel Inn|Inn]].
 
