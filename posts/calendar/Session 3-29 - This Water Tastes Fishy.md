@@ -1,7 +1,7 @@
 ---
 aliases: Session 3-29, Mendas 4 514, Session 3-29 - Mendas 4 514 - This Water Tastes Fishy
 ---
-Previous: [[Session 3-28 - Demons in the Shadows|Session 3-28]] | Next: [[Session 3-30]]
+Previous: [[Session 3-28 - Demons in the Shadows|Session 3-28]] | Next: [[Session 3-30 - Smoldering Woods|Session 3-30]]
 
 > ## [[The Party]]
 > 
