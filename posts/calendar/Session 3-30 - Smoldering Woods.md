@@ -4,7 +4,7 @@ aliases:
   - Eldas 1 514
   - Session 3-30 - Eldas 1 514 - Smoldering Woods
 ---
-Previous: [[Session 3-29 - This Water Tastes Fishy|Session 3-29]] | Next: [[Session 3-31]]
+Previous: [[Session 3-29 - This Water Tastes Fishy|Session 3-29]] | Next: [[Session 3-31 - Fire & Ice]]
 
 > ## [[The Party]]
 >

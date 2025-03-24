@@ -8,104 +8,71 @@ As they narrowly escaped a [[Demon Armies|horde of Demons]] led by [[Yeenoghu]] 
 As they proceeded in daylight for the first time in a long time, they encountered some soldiers from the [[Vaviel Empire]] that had dealt with a [[Giant]] and were somewhat surprised to see them. They took them back to the town of [[Ebonwatch]] where they found a tavern and a safe haven for the first time in a very long while.
 # Calendar
 
-This section shows the exploits of [[The Party]] in relation to the [[Vavian Calendar]].  
-<br />
-<br />
-<br />
-<br />
-<br />
-> ## [[Session 2-28 - Overrun|Session 2-28 - Tridas 3 514: Overrun]]
-> [[The Party]] escaped the [[Underdark]] to the Shard of [[Tebinor]] with the help of [[Grazillax]] while being overrun by a horde [[Gnoll|Gnolls]], met with [[Vavian Soldiers|Soldiers]] from the [[Vaviel Empire]] and were brought to the town of [[Ebonwatch]].
-
+This section shows the exploits of [[The Party]] in relation to the [[Vavian Calendar]].
+## [[Session 2-28 - Overrun|Session 2-28 - Tridas 3 514: Overrun]]
+[[The Party]] escaped the [[Underdark]] to the Shard of [[Tebinor]] with the help of [[Grazillax]] while being overrun by a horde [[Gnoll|Gnolls]], met with [[Vavian Soldiers|Soldiers]] from the [[Vaviel Empire]] and were brought to the town of [[Ebonwatch]].
 # Act 1 - Finding Their Bearings
-
-> ## [[Session 3-1 - Lay of the Land|Session 3-1 - Tridas 4 514: Lay of the Land]]
-> [[The Party]] attempted to find [[Ship Bescond|The Blacksmith's Son]] by travelling north, facing [[Lizardfolk]], viewing the end of the world with their own eyes and braving a [[Cliffside Bandit Camp|Bandit Camp]]. They rescued [[Ship Bescond|Ship]] and returned him to [[Ebonwatch]].
-
-> ## [[Session 3-2 - What's in a Name|Session 3-2 - Furdas 1 514: What's in a Name?]]
-> [[The Party]] crossed the [[Hornwood Stream]] into the [[Royal Woodlands]], then found themselves in a [[Realm of the Blue Lady|Magical Forest]]. They fought their way through [[Redcap|Angry Gnomes]] and Plants, then met the [[Blue Lady]], but disappointed her and were ejected, some losing their names.
-
-> ## [[Session 3-3 - The Blue Lady|Session 3-3 - Furdas 2 514: The Blue Lady]]
-> [[The Party]] headed back into the [[Realm of the Blue Lady|Magical Forest]] to face the [[Blue Lady]] and recover their names. They impressed the [[Blue Lady]] and were able to strike a deal between her and the [[Duke Oakfire|Duke]] of [[Ebonwatch]].
-
-> ## [[Session 3-4 - The Observatory|Session 3-4 - Furdas 3 514: The Observatory]]
-> [[The Party]] headed to [[Sootwall Observatory]], fighting [[Manticore|Manticores]] along the way. [[Castle-8]] lost his hand, [[The Party]] braved a dangerous maze and [[Clockwork Construct|Mechanical Constructs]] and were rewarded with [[Magic Items]] by the [[Gnome|Gnomes]].
-
-> ## [[Session 3-5 - Lizard Incursion|Session 3-5 - Furdas 4 514: Lizard Incursion]]
-> [[The Party]] aided the miners in [[Anorak Iron Mine]] with their problem with [[Lizardfolk]]. The situation turned out differently, involving Amphibian [[Troglodyte|Troglodytes]].
-
-> ## [[Session 3-6 - Mysteries of the Mire|Session 3-6 - Fifdas 1 514: Mysteries of the Mire]]
-> [[The Party]] came to the aid of [[Granny Moss]] and travelled into the [[Gleaming Mire]], braving a tribe of [[Bullywug|Bullywugs]] and a [[Giant Crocodile]], recovering [[The One True Hat|Ancient]] [[The One True Fork|Artifacts]] and discovering a source of valuable [[Starmetal]].
-
-> ## [[Session 3-7 - Giants Under the Earth|Session 3-7 - Fifdas 2 514: Giants Under the Earth]]
-> [[The Party]] travelled back to [[Anorak Iron Mine]] to aid the [[Lizardfolk]] in their fight against the [[Troglodyte|Troglodytes]]. They slew a [[Giant Lizard]] and a [[White Maw|Giant White Ooze]] and recovered some [[Magic Items]], but were unable to find a way to pass the poisonous gas present in the tunnels.
-
-> ## [[Session 3-8 - The Mutant|Session 3-8 - Fifdas 3 514: The Mutant]]
-> [[The Party]] headed south to [[Arken Fissure]] to collect the bounty on [[Reo Churner]], slaying several [[Troll|Trolls]] then scouting south based on [[Reo Churner|Reo]]'s information. They noticed a large horde of [[Gnoll|Gnolls]] in the [[Dread Wastelands]] then returned to [[Ebonwatch]]. They were confronted by [[Reo Churner|Reo]] on their way back but managed to subdue him and delivered him to the [[Duke Oakfire|Duke]] and collected the bounty.
-
-> ## [[Session 3-9 - Manticore Assault|Session 3-9 - Fifdas 4 514: Manticore Assault]]
-> [[The Party]] aided the [[Gnome|Gnomes]] at [[Sootwall Observatory]] by dealing with a [[Manticore]] Threat. After eliminating the [[Manticore Nests|Nests]], they were alerted to a [[Manticore Elder]] crashing into the [[Sootwall Observatory|Observatory]] and terrorizing the upper floor. They returned to the [[Sootwall Observatory|Observatory]] and slew the [[Manticore Elder|Huge Manticore]] and were rewarded with several [[Magic Items]].
-
-> ## [[Session 3-10 - Quarrelsome Quarry|Session 3-10 - Sidas 1 514: Quarrelsome Quarry]]
-> [[The Party]] travelled to [[Gamwater Quarry]] and met the [[Dragon|Dragons]] inside. After a short fight [[The Party]] agreed to aid the [[Dragon|Dragons]] dealing with a great [[Darkness]] below. They descended into the tunnels, found several [[Shadow Rift|Shadow Rifts]] and battled with a [[Shadow Beholder]], who unfortunately annihilated [[Drathuul]] with a Death Ray.
-
-> ## [[Session 3-11 - Prove Your Worth|Session 3-11 - Sidas 2 514: Prove your Worth]]
-> [[The Party]] accompanied [[Sir Dozak the Magnificent]] into a [[Elven Ruin in the Royal Woodlands]]. They reached an entry chamber and were ambushed by [[Wood Woad|Living Bushes]], then went deeper into the [[Elven Ruin in the Royal Woodlands|Ruin]] and ran into a well with a [[Roper|Tentacle Creature]] inside it. Several of them got dragged inside the well and severely damaged before they were able to slay it. They headed back outside where a [[Sir Dozak's Forward Camp|Forward Camp]] was set up.
-
-> ## [[Session 3-12 - Rebellion|Session 3-12 - Sidas 3 514: Rebellion]]
-> [[The Party]] went back into the [[Elven Ruin in the Royal Woodlands|Elven Ruin]] with [[Sir Dozak the Magnificent|Sir Dozak]] and reached a large chamber where they fought a huge [[Bloodvine|Thorned Plant Creature]], then headed into the next room where they were set upon by several [[Shambling Mound|Vine Creatures]] that attempted to swallow them whole. [[Bavon]] got on [[Sir Dozak the Magnificent|Sir Dozak]]'s bad side by disobeying him and eventually killed one of his [[Vavian Soldiers|Guards]], but managed to hide that from most of the others.
-
-> ## [[Session 3-13 - Another Sir|Session 3-13 - Sidas 4 514: Another Sir]]
-> [[The Party]] obtained information on several new threats and met with [[Sir Dixon Fire]], then decided to safeguard [[Gamwater Quarry]] first. After encountering [[Bavon]] and talking to the [[Dragon|Dragons]] they concluded there was little they could do at present. They instead headed back to [[Sir Dozak's Forward Camp]] and together with him cleared the [[Elven Ruin in the Royal Woodlands|Elven Ruin]] as far as they could, slaying a large [[Demon]] they accidentally unleashed and an ancient [[Treant#Corrupted Treant|Corrupted Tree]], after which they discovered a caved-in shaft that needed excavating.
-
+## [[Session 3-1 - Lay of the Land|Session 3-1 - Tridas 4 514: Lay of the Land]]
+[[The Party]] attempted to find [[Ship Bescond|The Blacksmith's Son]] by travelling north, facing [[Lizardfolk]], viewing the end of the world with their own eyes and braving a [[Cliffside Bandit Camp|Bandit Camp]]. They rescued [[Ship Bescond|Ship]] and returned him to [[Ebonwatch]].
+## [[Session 3-2 - What's in a Name|Session 3-2 - Furdas 1 514: What's in a Name?]]
+[[The Party]] crossed the [[Hornwood Stream]] into the [[Royal Woodlands]], then found themselves in a [[Realm of the Blue Lady|Magical Forest]]. They fought their way through [[Redcap|Angry Gnomes]] and Plants, then met the [[Blue Lady]], but disappointed her and were ejected, some losing their names.
+## [[Session 3-3 - The Blue Lady|Session 3-3 - Furdas 2 514: The Blue Lady]]
+[[The Party]] headed back into the [[Realm of the Blue Lady|Magical Forest]] to face the [[Blue Lady]] and recover their names. They impressed the [[Blue Lady]] and were able to strike a deal between her and the [[Duke Oakfire|Duke]] of [[Ebonwatch]].
+## [[Session 3-4 - The Observatory|Session 3-4 - Furdas 3 514: The Observatory]]
+[[The Party]] headed to [[Sootwall Observatory]], fighting [[Manticore|Manticores]] along the way. [[Castle-8]] lost his hand, [[The Party]] braved a dangerous maze and [[Clockwork Construct|Mechanical Constructs]] and were rewarded with [[Magic Items]] by the [[Gnome|Gnomes]].
+## [[Session 3-5 - Lizard Incursion|Session 3-5 - Furdas 4 514: Lizard Incursion]]
+[[The Party]] aided the miners in [[Anorak Iron Mine]] with their problem with [[Lizardfolk]]. The situation turned out differently, involving Amphibian [[Troglodyte|Troglodytes]].
+## [[Session 3-6 - Mysteries of the Mire|Session 3-6 - Fifdas 1 514: Mysteries of the Mire]]
+[[The Party]] came to the aid of [[Granny Moss]] and travelled into the [[Gleaming Mire]], braving a tribe of [[Bullywug|Bullywugs]] and a [[Giant Crocodile]], recovering [[The One True Hat|Ancient]] [[The One True Fork|Artifacts]] and discovering a source of valuable [[Starmetal]].
+## [[Session 3-7 - Giants Under the Earth|Session 3-7 - Fifdas 2 514: Giants Under the Earth]]
+[[The Party]] travelled back to [[Anorak Iron Mine]] to aid the [[Lizardfolk]] in their fight against the [[Troglodyte|Troglodytes]]. They slew a [[Giant Lizard]] and a [[White Maw|Giant White Ooze]] and recovered some [[Magic Items]], but were unable to find a way to pass the poisonous gas present in the tunnels.
+## [[Session 3-8 - The Mutant|Session 3-8 - Fifdas 3 514: The Mutant]]
+[[The Party]] headed south to [[Arken Fissure]] to collect the bounty on [[Reo Churner]], slaying several [[Troll|Trolls]] then scouting south based on [[Reo Churner|Reo]]'s information. They noticed a large horde of [[Gnoll|Gnolls]] in the [[Dread Wastelands]] then returned to [[Ebonwatch]]. They were confronted by [[Reo Churner|Reo]] on their way back but managed to subdue him and delivered him to the [[Duke Oakfire|Duke]] and collected the bounty.
+## [[Session 3-9 - Manticore Assault|Session 3-9 - Fifdas 4 514: Manticore Assault]]
+[[The Party]] aided the [[Gnome|Gnomes]] at [[Sootwall Observatory]] by dealing with a [[Manticore]] Threat. After eliminating the [[Manticore Nests|Nests]], they were alerted to a [[Manticore Elder]] crashing into the [[Sootwall Observatory|Observatory]] and terrorizing the upper floor. They returned to the [[Sootwall Observatory|Observatory]] and slew the [[Manticore Elder|Huge Manticore]] and were rewarded with several [[Magic Items]].
+## [[Session 3-10 - Quarrelsome Quarry|Session 3-10 - Sidas 1 514: Quarrelsome Quarry]]
+[[The Party]] travelled to [[Gamwater Quarry]] and met the [[Dragon|Dragons]] inside. After a short fight [[The Party]] agreed to aid the [[Dragon|Dragons]] dealing with a great [[Darkness]] below. They descended into the tunnels, found several [[Shadow Rift|Shadow Rifts]] and battled with a [[Shadow Beholder]], who unfortunately annihilated [[Drathuul]] with a Death Ray.
+## [[Session 3-11 - Prove Your Worth|Session 3-11 - Sidas 2 514: Prove your Worth]]
+[[The Party]] accompanied [[Sir Dozak the Magnificent]] into a [[Elven Ruin in the Royal Woodlands]]. They reached an entry chamber and were ambushed by [[Wood Woad|Living Bushes]], then went deeper into the [[Elven Ruin in the Royal Woodlands|Ruin]] and ran into a well with a [[Roper|Tentacle Creature]] inside it. Several of them got dragged inside the well and severely damaged before they were able to slay it. They headed back outside where a [[Sir Dozak's Forward Camp|Forward Camp]] was set up.
+## [[Session 3-12 - Rebellion|Session 3-12 - Sidas 3 514: Rebellion]]
+[[The Party]] went back into the [[Elven Ruin in the Royal Woodlands|Elven Ruin]] with [[Sir Dozak the Magnificent|Sir Dozak]] and reached a large chamber where they fought a huge [[Bloodvine|Thorned Plant Creature]], then headed into the next room where they were set upon by several [[Shambling Mound|Vine Creatures]] that attempted to swallow them whole. [[Bavon]] got on [[Sir Dozak the Magnificent|Sir Dozak]]'s bad side by disobeying him and eventually killed one of his [[Vavian Soldiers|Guards]], but managed to hide that from most of the others.
+## [[Session 3-13 - Another Sir|Session 3-13 - Sidas 4 514: Another Sir]]
+[[The Party]] obtained information on several new threats and met with [[Sir Dixon Fire]], then decided to safeguard [[Gamwater Quarry]] first. After encountering [[Bavon]] and talking to the [[Dragon|Dragons]] they concluded there was little they could do at present. They instead headed back to [[Sir Dozak's Forward Camp]] and together with him cleared the [[Elven Ruin in the Royal Woodlands|Elven Ruin]] as far as they could, slaying a large [[Demon]] they accidentally unleashed and an ancient [[Treant#Corrupted Treant|Corrupted Tree]], after which they discovered a caved-in shaft that needed excavating.
 # Act 2 - Elves and Demons
-
-> ## [[Session 3-14 - The Trapped Lair|Session 3-14 - Sepdas 1 514: The Trapped Lair]]
-> [[The Party]] were alarmed by [[Enphine]]'s report and decided to try and recruit the [[Lizardfolk]] to aid them against the [[Demon|Demons]]. They returned to [[Anorak Iron Mine]] and made their way down through the Poisonous Gas and overcame several traps before descending into the [[Tebinor Troglodyte Lair|Troglodyte Lair]] and slaying many [[Troglodyte|Troglodytes]].
-
-> ## [[Session 3-15 - The Jungle Bridge|Session 3-15 - Sepdas 2 514: The Jungle Bridge]]
-> [[The Party]] met [[Girard de Kosigan]] and [[Ru Eir Hydrus|Ru]] at [[Ebonwatch]] and got to know each other. They decided to head north to try and find the [[Runaway Slaves]]. They discovered a [[Grassroads|Huge Bridge]] running along the treetops in the jungle to the north. They rescued a [[Cricketmen|Cricketman]] from [[Griffon|Griffons]] on the bridge and communicated with him. They found a [[Termite Mound]] at the end of the bridge and engaged the [[Giant Termite|Giant Termites]], employing [[Gunpowder]] against them.
-
-> ## [[Session 3-16 - A Stone Hard Greeting|Session 3-16 - Sepdas 3 514: A Stone Hard Greeting]]
-> [[The Party]] travelled back across the [[Grassroads]] to the [[Termite Mound]] and faced more [[Giant Termite|Termites]]. They discovered the entrance to another [[Plane]] without color, then explored inside. They found a talking statue which turned out to be some evil creatures, then turned the [[Tebinor Elves|Elves]] they found back from stone to flesh, not without a fight of course. They had a long talk with the [[Tebinor Elves|Elves]] and were invited to visit them at the [[Mythana|Elven Village]] in a week.
-
-> ## [[Session 3-17 - Two Encampments and a Haunted Spirit|Session 3-17 - Sepdas 4 514: Two Encampments and a Haunted Spirit]]
-> [[The Party]] met the [[Tebinor Elves|Elven Elders]] of [[Mythana]] and were introduced to the village. They were given a quest to solve the corruption in the [[Heart of the Forest]] and travelled there. They met the [[Pixie|Pixies]], found a [[Sylvanus' Cabin|Cabin]] and discovered the hostility between the [[Tebinor Elves|Elves]] and [[Tebinor Dwarves|Dwarves]] within the forest. They visited the [[Dwarven Mining Camp]] and had a beer, then confronted [[Sylvanus]] at the [[Dwarven Mine]] before returning to [[Mythana]].
-
-> ## [[Session 3-18 - Drinks, Drunks and Doom|Session 3-18 - Octdas 1 514: Drinks, Drunks and Doom]]
-> [[The Party]] returned to [[Mythana]] and had a drinking contest at the [[Dwarven Mining Camp]]. They sought for the source of corruption in the forest and found the [[Cave of Cleansing Waters]]. Inside they encountered a [[Giant Floating Pus Blob Monster]] which proved very though, especially when [[Aboouck]] exploded at a rather unfortunate moment. They closed a [[Portal]] and left to explore further later.
-
-> ## [[Session 3-19 - Back Into the Dark Hole|Session 3-19 - Octdas 2 514: Back Into the Dark Hole]]
-> [[The Party]] returned to the [[Heart of the Forest]] and visited [[Mythana]] and the [[Dwarven Mining Camp]]. They returned to the [[Cave of Cleansing Waters]], spared the animals and confronted [[Sylvanus|Sylvanus' Spirit]] who told them to retrace his footsteps by following the lights. They found a [[Desecrated Altar]] and [[Banishment|Banished]] a [[Huge Gorilla-like Demon]].
-
-> ## [[Session 3-20 - Into the Dark Forest, with a Drip of Blood|Session 3-20 - Octdas 3 514: Into the Dark Forest]]
-> [[The Party]] returned to the [[Heart of the Forest]] and visited [[Mythana]] on their way there. They followed the Lights into the [[Marrowgrove]] and located an open clearing. They fought a [[Harpy]] while some donated their blood while the roots of the grove bashed in on them. [[Horatio]] used a [[Bead of Force]] to escape the battle and regrouped with [[The Party]] at the [[Dwarven Mining Camp]]. As they arrived they noticed the [[Tebinor Dwarves|Dwarves]] lighted up magically, seemingly the next target of this magic.
-
-> ## [[Session 3-21 - Bones and Rooted Bodies|Session 3-21 - Octdas 4 514: Bones and Rooted Bodies]]
-> After observing [[Aboouck]] and [[Exilian]] have a nice meal, [[The Party]] returned to the [[Marrowgrove]] and headed further in. They found a [[Burned-Out Tower]] and witnessed a vision from [[Sylvanus]], after which they ran for their lives. They crossed a [[Skeletal Bridge]] across a fuming stream chased by dangerous Beetles and faced the corpse of [[Sylvanus]], twisted by the corruption into an evil creature made of roots and defeated it.
-
-> ## [[Session 3-22 - Two Funerals and no Wedding|Session 3-22 - Nendas 1 514 - Two Funerals and no Wedding]]
-> [[The Party]] attended [[Sylvanus]]' funeral, then returned to [[Ebonwatch]]. After witnessing some weird events in [[Black Barrel Inn]], involving flying teddy bears, eggs that packed a punch and invisible [[Orc|Half-Orcs]], they left for [[Gamwater Quarry]]. They descended into the [[Darkness]] below, facing many [[Shadow|Shadows]] that appeared endless, before confronting a massive [[Shadow Monster]] that sucked the life out of its surroundings. [[Paxton Umbra|Paxton]] heroically rescued [[Bill]] from certain death before perishing himself by the [[Shadow Monster]]. [[The Party]] fled as the [[Darkness]] grew deeper and more larger [[Shadow Monster|Shadow Monsters]] started to appear.
-
-> ## [[Session 3-23 - Confronted with Demonic Reality|Session 3-23 - Nendas 2 514 - Confronted with Demonic Reality]]
-> [[The Party]] reunited with [[Nuk]] and used that as an excuse to cause more mayhem in the [[Black Barrel Inn|Inn]]. They decided to visit the [[Dwarven Mining Camp]] and headed in that direction. Just before reaching [[Mythana]] they encountered oozing white goo out of the ground, which bursted open, revealing a deep tunnel. [[The Party]] was then set upon by [[Minotaur]], followed by huge [[Demon|Demons]] and smaller flying [[Demon|Demons]]. They were overwhelmed and created a cave-in using [[Horn of Gunpowder|Horns of Gunpowder]] before fleeing, leaving one huge [[Demon]] loose in the forest.
-
-> ## [[Session 3-24 - Mess with the Debt Collectors|Session 3-24 - Nendas 3 514 - Mess with the Debt Collectors]]
-> [[The Party]] was surprised by [[Paxton Umbra|Paxton]]'s return and witnessed the [[Vavia|Vavian]] Debt Collection system at work. They discussed some tactics then returned to hunt the escaped [[Demon]] in the forest. They located its whereabouts and followed it, running into a demonic [[Portal]] guarded by several [[Demon|Demons]] in the forest. They took care of them, then decided to return to [[Ebonwatch]] to regroup.
-
-> ## [[Session 3-25 - Bulls on Parade|Session 3-25 - Nendas 4 514 - Bulls on Parade]]
-> With a grumpy [[Sir Dixon Fire|Sir Dixon]] in tow, [[The Party]] set out to hunt the [[Demon|Demons]] in the forest. They encountered three [[Avatar of Slaughter|Malformed Minotaurs]] and were able to slay them, capturing their essences in three [[Demonic Teddy Bear|Sentient Teddy Bears]]. They barely saved [[Sir Dixon Fire|Sir Dixon]] from an approaching Wall of [[Shadow|Shadows]] before retreating back to [[Ebonwatch]].
-
-> ## [[Session 3-26 - Extraction from the Shadows|Session 3-26 - Mendas 1 514 - Extraction from the Shadows]]
-> After having [[Aboouck]] causing chaos in [[Ebonwatch]], [[Castle-8]] reporting on a scouting mission and an [[Owlin]] named [[Layden Fantail|Layden]] joining [[The Party]], they found a use for the [[Demonic Teddy Bear|Demonic Teddy Bears]] by imbuing several items with them. [[The Party]] set out to investigate [[Gamwater Quarry]]. They found it overwhelmed with [[Shadow|Shadows]] and engaged, with [[Castle-8]] in the front line. They faced another [[Shadow Monster]] and held their ground while [[Sam Alderleaf|Sam]] retrieved a [[Blue Dragon Egg]] from the depths of the [[Shadow|Shadows]], then made a hasty retreat.
-
-> ## [[Session 3-27 - Corruption From Within|Session 3-27 - Mendas 2 514 - Corruption From Within]]
-> After [[Sir Dixon Fire|Sir Dixon]] collapsing in the [[Black Barrel Inn|Inn]] and meeting [[Lynel]] the [[Centaurs|Centaur]] outside of [[Ebonwatch]], [[The Party]] set out to deal with the [[Tebinor Dwarves|Dwarves]] in the [[Heart of the Forest]]. After a long journey they reached the [[Dwarven Mine]] and confronted a [[Scotia Hammerarm]] who was corrupted by the [[Adamantine]], along with an [[Adamantine Golem]] that could withstand a lot of punishment. They were able to [[Banishment|Banish]] it before dealing with the [[Tebinor Dwarves|Dwarves]], then started disassembling the [[Adamantine Golem|Golem]].
-
-> ## [[Session 3-28 - Demons in the Shadows|Session 3-28 - Mendas 3 514 - Demons In The Shadows]]
-> [[The Party]] returned to [[Mythana]] to face the escaped [[Huge Demon]] in the forest. They were confronted by a wall of [[Shadow|Shadows]] and a [[Demon Spellcaster]] performing a ritual to keep the [[Shadow|Shadows]] at bay. They slew it and pursued the [[Huge Demon]] to a cave, were they found it slain by a [[Shadow Giant]]. They were able to defeat it and escaped the forest as the [[Shadow]] collapsed around them.
-
+## [[Session 3-14 - The Trapped Lair|Session 3-14 - Sepdas 1 514: The Trapped Lair]]
+[[The Party]] were alarmed by [[Enphine]]'s report and decided to try and recruit the [[Lizardfolk]] to aid them against the [[Demon|Demons]]. They returned to [[Anorak Iron Mine]] and made their way down through the Poisonous Gas and overcame several traps before descending into the [[Tebinor Troglodyte Lair|Troglodyte Lair]] and slaying many [[Troglodyte|Troglodytes]].
+## [[Session 3-15 - The Jungle Bridge|Session 3-15 - Sepdas 2 514: The Jungle Bridge]]
+[[The Party]] met [[Girard de Kosigan]] and [[Ru Eir Hydrus|Ru]] at [[Ebonwatch]] and got to know each other. They decided to head north to try and find the [[Runaway Slaves]]. They discovered a [[Grassroads|Huge Bridge]] running along the treetops in the jungle to the north. They rescued a [[Cricketmen|Cricketman]] from [[Griffon|Griffons]] on the bridge and communicated with him. They found a [[Termite Mound]] at the end of the bridge and engaged the [[Giant Termite|Giant Termites]], employing [[Gunpowder]] against them.
+## [[Session 3-16 - A Stone Hard Greeting|Session 3-16 - Sepdas 3 514: A Stone Hard Greeting]]
+[[The Party]] travelled back across the [[Grassroads]] to the [[Termite Mound]] and faced more [[Giant Termite|Termites]]. They discovered the entrance to another [[Plane]] without color, then explored inside. They found a talking statue which turned out to be some evil creatures, then turned the [[Tebinor Elves|Elves]] they found back from stone to flesh, not without a fight of course. They had a long talk with the [[Tebinor Elves|Elves]] and were invited to visit them at the [[Mythana|Elven Village]] in a week.
+## [[Session 3-17 - Two Encampments and a Haunted Spirit|Session 3-17 - Sepdas 4 514: Two Encampments and a Haunted Spirit]]
+[[The Party]] met the [[Tebinor Elves|Elven Elders]] of [[Mythana]] and were introduced to the village. They were given a quest to solve the corruption in the [[Heart of the Forest]] and travelled there. They met the [[Pixie|Pixies]], found a [[Sylvanus' Cabin|Cabin]] and discovered the hostility between the [[Tebinor Elves|Elves]] and [[Tebinor Dwarves|Dwarves]] within the forest. They visited the [[Dwarven Mining Camp]] and had a beer, then confronted [[Sylvanus]] at the [[Dwarven Mine]] before returning to [[Mythana]].
+## [[Session 3-18 - Drinks, Drunks and Doom|Session 3-18 - Octdas 1 514: Drinks, Drunks and Doom]]
+[[The Party]] returned to [[Mythana]] and had a drinking contest at the [[Dwarven Mining Camp]]. They sought for the source of corruption in the forest and found the [[Cave of Cleansing Waters]]. Inside they encountered a [[Giant Floating Pus Blob Monster]] which proved very though, especially when [[Aboouck]] exploded at a rather unfortunate moment. They closed a [[Portal]] and left to explore further later.
+## [[Session 3-19 - Back Into the Dark Hole|Session 3-19 - Octdas 2 514: Back Into the Dark Hole]]
+[[The Party]] returned to the [[Heart of the Forest]] and visited [[Mythana]] and the [[Dwarven Mining Camp]]. They returned to the [[Cave of Cleansing Waters]], spared the animals and confronted [[Sylvanus|Sylvanus' Spirit]] who told them to retrace his footsteps by following the lights. They found a [[Desecrated Altar]] and [[Banishment|Banished]] a [[Huge Gorilla-like Demon]].
+## [[Session 3-20 - Into the Dark Forest, with a Drip of Blood|Session 3-20 - Octdas 3 514: Into the Dark Forest]]
+[[The Party]] returned to the [[Heart of the Forest]] and visited [[Mythana]] on their way there. They followed the Lights into the [[Marrowgrove]] and located an open clearing. They fought a [[Harpy]] while some donated their blood while the roots of the grove bashed in on them. [[Horatio]] used a [[Bead of Force]] to escape the battle and regrouped with [[The Party]] at the [[Dwarven Mining Camp]]. As they arrived they noticed the [[Tebinor Dwarves|Dwarves]] lighted up magically, seemingly the next target of this magic.
+## [[Session 3-21 - Bones and Rooted Bodies|Session 3-21 - Octdas 4 514: Bones and Rooted Bodies]]
+After observing [[Aboouck]] and [[Exilian]] have a nice meal, [[The Party]] returned to the [[Marrowgrove]] and headed further in. They found a [[Burned-Out Tower]] and witnessed a vision from [[Sylvanus]], after which they ran for their lives. They crossed a [[Skeletal Bridge]] across a fuming stream chased by dangerous Beetles and faced the corpse of [[Sylvanus]], twisted by the corruption into an evil creature made of roots and defeated it.
+## [[Session 3-22 - Two Funerals and no Wedding|Session 3-22 - Nendas 1 514 - Two Funerals and no Wedding]]
+[[The Party]] attended [[Sylvanus]]' funeral, then returned to [[Ebonwatch]]. After witnessing some weird events in [[Black Barrel Inn]], involving flying teddy bears, eggs that packed a punch and invisible [[Orc|Half-Orcs]], they left for [[Gamwater Quarry]]. They descended into the [[Darkness]] below, facing many [[Shadow|Shadows]] that appeared endless, before confronting a massive [[Shadow Monster]] that sucked the life out of its surroundings. [[Paxton Umbra|Paxton]] heroically rescued [[Bill]] from certain death before perishing himself by the [[Shadow Monster]]. [[The Party]] fled as the [[Darkness]] grew deeper and more larger [[Shadow Monster|Shadow Monsters]] started to appear.
+## [[Session 3-23 - Confronted with Demonic Reality|Session 3-23 - Nendas 2 514 - Confronted with Demonic Reality]]
+[[The Party]] reunited with [[Nuk]] and used that as an excuse to cause more mayhem in the [[Black Barrel Inn|Inn]]. They decided to visit the [[Dwarven Mining Camp]] and headed in that direction. Just before reaching [[Mythana]] they encountered oozing white goo out of the ground, which bursted open, revealing a deep tunnel. [[The Party]] was then set upon by [[Minotaur]], followed by huge [[Demon|Demons]] and smaller flying [[Demon|Demons]]. They were overwhelmed and created a cave-in using [[Horn of Gunpowder|Horns of Gunpowder]] before fleeing, leaving one huge [[Demon]] loose in the forest.
+## [[Session 3-24 - Mess with the Debt Collectors|Session 3-24 - Nendas 3 514 - Mess with the Debt Collectors]]
+[[The Party]] was surprised by [[Paxton Umbra|Paxton]]'s return and witnessed the [[Vavia|Vavian]] Debt Collection system at work. They discussed some tactics then returned to hunt the escaped [[Demon]] in the forest. They located its whereabouts and followed it, running into a demonic [[Portal]] guarded by several [[Demon|Demons]] in the forest. They took care of them, then decided to return to [[Ebonwatch]] to regroup.
+## [[Session 3-25 - Bulls on Parade|Session 3-25 - Nendas 4 514 - Bulls on Parade]]
+With a grumpy [[Sir Dixon Fire|Sir Dixon]] in tow, [[The Party]] set out to hunt the [[Demon|Demons]] in the forest. They encountered three [[Avatar of Slaughter|Malformed Minotaurs]] and were able to slay them, capturing their essences in three [[Demonic Teddy Bear|Sentient Teddy Bears]]. They barely saved [[Sir Dixon Fire|Sir Dixon]] from an approaching Wall of [[Shadow|Shadows]] before retreating back to [[Ebonwatch]].
+## [[Session 3-26 - Extraction from the Shadows|Session 3-26 - Mendas 1 514 - Extraction from the Shadows]]
+After having [[Aboouck]] causing chaos in [[Ebonwatch]], [[Castle-8]] reporting on a scouting mission and an [[Owlin]] named [[Layden Fantail|Layden]] joining [[The Party]], they found a use for the [[Demonic Teddy Bear|Demonic Teddy Bears]] by imbuing several items with them. [[The Party]] set out to investigate [[Gamwater Quarry]]. They found it overwhelmed with [[Shadow|Shadows]] and engaged, with [[Castle-8]] in the front line. They faced another [[Shadow Monster]] and held their ground while [[Sam Alderleaf|Sam]] retrieved a [[Blue Dragon Egg]] from the depths of the [[Shadow|Shadows]], then made a hasty retreat.
+## [[Session 3-27 - Corruption From Within|Session 3-27 - Mendas 2 514 - Corruption From Within]]
+After [[Sir Dixon Fire|Sir Dixon]] collapsing in the [[Black Barrel Inn|Inn]] and meeting [[Lynel]] the [[Centaurs|Centaur]] outside of [[Ebonwatch]], [[The Party]] set out to deal with the [[Tebinor Dwarves|Dwarves]] in the [[Heart of the Forest]]. After a long journey they reached the [[Dwarven Mine]] and confronted a [[Scotia Hammerarm]] who was corrupted by the [[Adamantine]], along with an [[Adamantine Golem]] that could withstand a lot of punishment. They were able to [[Banishment|Banish]] it before dealing with the [[Tebinor Dwarves|Dwarves]], then started disassembling the [[Adamantine Golem|Golem]].
+## [[Session 3-28 - Demons in the Shadows|Session 3-28 - Mendas 3 514 - Demons In The Shadows]]
+[[The Party]] returned to [[Mythana]] to face the escaped [[Huge Demon]] in the forest. They were confronted by a wall of [[Shadow|Shadows]] and a [[Demon Spellcaster]] performing a ritual to keep the [[Shadow|Shadows]] at bay. They slew it and pursued the [[Huge Demon]] to a cave, were they found it slain by a [[Shadow Giant]]. They were able to defeat it and escaped the forest as the [[Shadow]] collapsed around them.
 # Act 3 - Escalation
-
-> ## [[Session 3-29 - This Water Tastes Fishy|Session 3-29 - Mendas 4 514 - This Water Tastes Fishy]]
-> After the [[Notice Board]] was expanded, [[The Party]] had a long discussion on what to do next. They interrogated [[Ian]] in the [[Black Barrel Inn|Inn]], then headed out to restore the [[Water Supply]] in the [[Slumbering Hills]]. They found the [[Water Supply]] and fought [[Crab-like Monsters]] before finding a scrapyard and facing off against several [[Hippo-like Creatures]] who gave them a though fight. They were able to cleanse the [[Water Supply]] and returned to [[Ebonwatch]].
+## [[Session 3-29 - This Water Tastes Fishy|Session 3-29 - Mendas 4 514 - This Water Tastes Fishy]]
+After the [[Notice Board]] was expanded, [[The Party]] had a long discussion on what to do next. They interrogated [[Ian]] in the [[Black Barrel Inn|Inn]], then headed out to restore the [[Water Supply]] in the [[Slumbering Hills]]. They found the [[Water Supply]] and fought [[Crab-like Monsters]] before finding a scrapyard and facing off against several [[Hippo-like Creatures]] who gave them a though fight. They were able to cleanse the [[Water Supply]] and returned to [[Ebonwatch]].
+## [[Session 3-30 - Smoldering Woods|Session 3-30 - Eldas 1 514 - Smoldering Woods]]
+[[The Party]] chose to investigate a lumber shortage and headed for [[Hornwood]]. They were told of fiery creatures within the forest and headed west to meet them. They ran into a burned stretch of forest where they were set upon by [[Ash Monsters]]. After dealing with them, they were attacked by [[Fire Snakes]] from the north. Pondering what this meant, they returned to [[Ebonwatch]].
+## [[Session 3-31 - Fire & Ice|Session 3-31 - Eldas 2 514 - Fire and Ice]]
+After lengthy discussion, [[The Party]] decided to head back to the [[Royal Woodlands]] near [[Hornwood]] to investigate the [[Fire Snakes]] further, while trying to map the shard. They ran into burning sections of forest and encountered small and large [[Fire Snakes]], which they engaged. Traveling further north, they found a [[Field of Ice]] below a ridgeline, where they slew two [[Giant Goblin Demon|Giant Goblin Demons]] that were intent on devouring [[Bill]].
