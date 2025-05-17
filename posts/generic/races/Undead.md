@@ -1,0 +1,3 @@
+The term Undead encompasses all kinds of creatures and biological matter that has been brought to life through unnatural means. It is usually encountered in the form of [[Zombie|Zombies]], [[Skeleton|Skeletons]], [[Ghoul|Ghouls]] or [[Ghost|Ghosts]], but can sometimes take more unique, sinister forms.
+
+More powerful Undead are usually sentient, possessing a severe threat. Examples are [[Demilich|Demiliches]], [[Lich|Liches]] and [[Skeletal Dragon|Skeletal Dragons]].
