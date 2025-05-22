@@ -1,7 +1,7 @@
 ---
 aliases: Session 3-33, Eldas 4 514, Session 3-33 - Eldas 4 514 - You Left Me Breathless
 ---
-Previous: [[Session 3-32 - Ice in my Veins|Session 3-32]] | Next: [[Session 34]]
+Previous: [[Session 3-32 - Ice in my Veins|Session 3-32]] | Next: [[Session 3-34 - Musky Exilian|Session 3-34 - Musky Exilian]]
 
 > ## [[The Party]]
 >
