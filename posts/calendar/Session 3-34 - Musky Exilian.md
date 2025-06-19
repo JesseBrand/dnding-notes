@@ -4,7 +4,7 @@ aliases:
   - Tweldas 1 514
   - Session 3-34 - Tweldas 1 514 - Musky Exilian
 ---
-Previous: [[Session 3-33 - You Left Me Breathless|Session 3-33]] | Next: [[Session 3-35|Session 3-35]]
+Previous: [[Session 3-33 - You Left Me Breathless|Session 3-33]] | Next: [[Session 3-35 - Let's Shock This Joint|Session 3-35]]
 
 > ## [[The Party]]
 >
@@ -21,9 +21,8 @@ After about a season of absence [[Exilian]] got up from his chair in the tavern 
 After being surprised by [[Exilian]], [[The Party]] chatted up a bit on what happened last week. People were having strange dreams about a long-lost time and other stuff happening. [[The Party]] then started talking about where to venture forth.
 The [[Ice Cave]] with [[Undead]] they went to last time, that still contained [[Horatio]]'s gold? Nah, too dangerous.
 The place within the [[Shadows]] where the [[Demon|Demonic]] [[Avatar of Slaughter|Avatars of Slaughter]] were harvested for the cursed [[Demonic Teddy Bear|Teddy Bears]] [[The Party]] had? Maybe... They would have to go back to the cave where the [[Shadow]] army was spotted the first time on the [[Tebinor|Shard]]… nah, more pressing matters to attend too!
-
-## The Society Welcomes You!
 Nope, no uncursing [[Enphine]]'s [[Demonic Teddy Bear|Teddy Bear]], because who could forget our dearest dear friend [[Ian]]! Always inviting us to visit his place, where his friends from [[The Society]] are!
+## The Society Welcomes You
 [[Ian]] seemed to be more willing to converse when he heard that [[The Party]] actually wanted to go with him, rather than the ever lasting "[[The Sociaty]] Welcomes You" phrase he normally chanted; now there was a "Follow me" in there.
 [[The Party]] followed [[Ian]] to the [[Anorak Iron Mine]], where his two friends were too. They seemed to be in pretty much the same state as [[Ian]] was in. However dull [[Ian]]'s gaze was; he did manage to swiftly climb a wooden barricade without too much trouble, for an old brainwashed fellow. He then shouted to [[The Party]] to follow him in.
 ## Which stairs did we come from and which do we go to?
