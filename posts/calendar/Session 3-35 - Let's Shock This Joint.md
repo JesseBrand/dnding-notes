@@ -4,7 +4,7 @@ aliases:
   - Tweldas 2 514
   - Session 3-35 - Tweldas 2 514 - Let's Shock This Joint
 ---
-Previous: [[Session 3-34 - Musky Exilian|Session 3-34]] | Next: [[Session 3D-9]]
+Previous: [[Session 3-34 - Musky Exilian|Session 3-34]] | Next: [[Session 3-36 - End of an Era|Session 3-36]]
 
 > ## [[The Party]]
 >
