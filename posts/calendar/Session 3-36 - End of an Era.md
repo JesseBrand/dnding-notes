@@ -4,7 +4,7 @@ aliases:
   - Tweldas 3 514
   - Session 3-36 - Tweldas 3 514 - End of an Era
 ---
-Previous: [[Session 3-35 - Let's Shock This Joint|Session 3-35]] | Next: [[Session 3D-8]]
+Previous: [[Session 3-35 - Let's Shock This Joint|Session 3-35]] | Next: [[Session 3-37 - Horatio's Final Boom]]
 
 > ## [[The Party]]
 >
