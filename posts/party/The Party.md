@@ -14,17 +14,16 @@ The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shar
 * [[Sam Alderleaf]]
 * [[Castle-8]]
 * [[Exilian]]
-* [[Horatio]]
 * [[Nuk]]
 * [[Aboouck]]
 * [[Bill]]
-* [[Paxton Umbra]]
 * [[Enphine]]
 * [[Sir Dixon Fire]]
 * [[Ru Eir Hydrus]]
 * [[Girard de Kosigan]]
 * [[Layden Fantail]]
 * [[Lynel]]
+* [[Malrik Voss]]
 
  
 ### Companions
@@ -34,6 +33,7 @@ The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shar
 #### Alive
 * [[John]] the Druid has been with the party a long time. After escaping the [[Underdark]], he sank into a depressive mood and has since been drinking vodka in [[Black Barrel Inn]].
 * [[Navani]] has pretty much retired in [[Black Barrel Inn]] and is racking up a formidable tab there.
+* [[Bavon]] was put in the employ of [[Sir Dozak the Magnificent|Sir Dozak]] at the [[Elven Ruin in the Royal Woodlands|Elven Ruin]].
 #### Dead
 * [[Hera]] was assassinated by the [[Redbrand Ruffians]] in [[Phandalin]].
 * [[Therai]] #TODO
@@ -45,6 +45,8 @@ The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shar
 * [[Jacob]] was pulled underwater by [[Merrow]] while travelling over the [[Darklake]].
 * [[Drathuul]] was killed by a [[Shadow Beholder]] under [[Gamwater Quarry]].
 * [[Freya]] has pretty much retired in [[Black Barrel Inn]] and was racking up a formidable tab there until she perished as she was accidentally transported to a [[Beholder]]'s lair by [[Sir Dixon Fire|Sir Dixon]], who inherited her tab.
+* [[Horatio]] sacrificed himself, closing the portal above the [[Midwinterfest Tree]], then was trapped by the [[Gnoll|Gnolls]] as the portal closed.
+* [[Paxton Umbra]] was swallowed by his own [[Bag of Holding]] and died in the stomach of an extraplanar creature. [[Sir Dixon Fire|Sir Dixon]] made sure he could not get out.
 #### Unknown
 * [[Thorin]] was with the party when they were captured by [[Drow]] in [[Wave Echo Cave]], but was not taken to [[Velkynvelve]]
 * [[Vheidin]] #TODO
@@ -52,7 +54,6 @@ The party currently resides in [[Black Barrel Inn]] in [[Ebonwatch]] on the shar
 * [[Teezee]] was still down in the [[Whorlstone Tunnels]] as they exploded and was not seen after.
 * [[Buttercup]] was still down in the [[Whorlstone Tunnels]] as they exploded and was not seen after.
 * [[Shank]] was regularly missing, but was not seen after the explosion of the [[Whorlstone Tunnels]].
-* [[Bavon]] was put in the employ of [[Sir Dozak the Magnificent|Sir Dozak]] at the [[Elven Ruin in the Royal Woodlands|Elven Ruin]] 
 ### Former NPC Companions
 #### Alive
 * [[Firestarter]] remained behind in [[Gracklstugh]] with his father, [[Themberchaud]].

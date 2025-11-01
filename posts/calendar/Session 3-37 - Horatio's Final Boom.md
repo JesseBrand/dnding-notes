@@ -4,7 +4,7 @@ aliases:
   - Tweldas 4 514
   - Session 3-37 - Tweldas 4 514 - Horatio's Final Boom
 ---
-Previous: [[Session 3-36 - End of an Era|Session 3-36]] | Next: [[Session 3-38]]
+Previous: [[Session 3-36 - End of an Era|Session 3-36]] | Next: [[Session 3-38 - The Day of the Tentacle]]
 
 > ## [[The Party]]
 >
