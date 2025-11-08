@@ -4,7 +4,7 @@ aliases:
   - Ondas 1 515
   - Session 3-38 - Ondas 1 515 - The Day of the Tentacle
 ---
-Previous: [[Session 3-37 - Horatio's Final Boom|Session 3-37]] | Next: [[Session 3-39]]
+Previous: [[Session 3-37 - Horatio's Final Boom|Session 3-37]] | Next: [[Session 3-39 - Squishy Flicker|Session 3-39]]
 
 > ## [[The Party]]
 >
