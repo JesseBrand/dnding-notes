@@ -4,7 +4,7 @@ aliases:
   - Ondas 2 515
   - Session 3-39 - Ondas 2 515 - Squishy Flicker
 ---
-Previous: [[Session 3-38 - The Day of the Tentacle|Session 3-38]] | Next: [[Session 3-40]]
+Previous: [[Session 3-38 - The Day of the Tentacle|Session 3-38]] | Next: [[Session 3-40 - Blood and Water|Session 3-40]]
 
 > ## [[The Party]]
 >
