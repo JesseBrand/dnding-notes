@@ -4,7 +4,7 @@ aliases:
   - Ondas 3 515
   - Session 3-40 - Ondas 3 515 - Blood and Water
 ---
-Previous: [[Session 3-39 - Squishy Flicker|Session 3-39]] | Next: [[Session 41]]
+Previous: [[Session 3-39 - Squishy Flicker|Session 3-39]] | Next: [[Session 3-41 - The Shadows at the Quarry|Session 3-41]]
 
 > ## [[The Party]]
 >
